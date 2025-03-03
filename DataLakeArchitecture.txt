@@ -1,0 +1,26 @@
+/data_lake/
+│
+├── raw/                    # Dữ liệu thô (cào về nguyên bản)
+│   ├── cars/               # Chủ đề: Dữ liệu xe cũ
+│   │   ├── year=2022/      # Partition theo năm sản xuất
+│   │   │   ├── month=01/   # Partition theo tháng
+│   │   │   │   ├── day=01/ # Partition theo ngày
+│   │   │   │   │   ├── file1.json
+│   │   │   │   │   ├── file2.json
+│   │   │   │   │   ├── ...
+│   │   │   │   ├── day=02/
+│   │   │   │   │   ├── file1.json
+│   │   │   │   │   ├── ...
+│   ├── metadata/           # Các file schema, log, config nếu có
+│   │   ├── schema.json
+│   │   ├── logs/
+│   │   ├── config.yaml
+│
+├── processed/               # Dữ liệu đã làm sạch, chuẩn hóa
+│   ├── cars/
+│   │   ├── partitioned_by_brand/  # Lưu trữ theo hãng xe
+│   │   ├── partitioned_by_location/
+│
+└── curated/                 # Dữ liệu sẵn sàng phân tích
+    ├── cars.parquet         # Dữ liệu dạng cột Parquet, tối ưu truy vấn
+    ├── cars_analytics.db/   # Nếu sử dụng Hive hoặc Data Warehouse
