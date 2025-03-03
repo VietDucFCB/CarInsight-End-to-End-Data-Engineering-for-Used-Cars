@@ -87,6 +87,7 @@ for group in range(10):  # 10 nhóm, mỗi nhóm 5 folder
                 print(f"Warning: Folder {folder_num} has fewer than 30 JSON files ({len(json_files)} files)")
 
             # Upload từng file JSON
+
             for file in json_files:
                 local_file_path = os.path.join(subdir_path, file)
                 hdfs_file_path = f"{hdfs_partition}/{folder_num}_{file}"  # Đường dẫn đầy đủ trên HDFS
