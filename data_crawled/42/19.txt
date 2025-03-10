@@ -1,17 +1,17 @@
-Title: 2016 Audi Q5 Premium Plus 3.0T quattro
-Cash Price: $8,995
-Finance Price: $142/moEstimate
-Finance Details: $900 due at signing · 72 mo · 7.99% APR
-Exterior: Brilliant Black
-Interior: Black
-Mileage: Elizabeth, NJ (629 miles away)
+Title: 2023 Nissan Rogue SV AWD
+Cash Price: $16,323
+Finance Price: $238/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Caspian Blue Metallic
+Interior: Light Gray
+Mileage: 50,890 miles
 Fuel Type: Gas
-MPG: 18 city / 26 highway
+MPG: 28 city / 35 highway
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: 3.0L V-6 Gas V
-Location: N/A
-Listed Since: Listed 32 days ago
-VIN: WA1D7AFP9GA067671
-Stock Number: 067671
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Seat Material; Front Heated Seats; Climate Control; Bluetooth; See less; Sunroof/Moonroof; Leather Seats; Heated Seats; Bluetooth; Moonroof / Sunroof: one-touch open/close  power panoramic; See all features
+Engine: 1.5L Inline-3 Gas Inline
+Location: Miami Lakes, FL
+Listed Since: 53 days ago
+VIN: JN8BT3BB6PW462512
+Stock Number: KR4850
+Features: Light Gray, Seat Trim; Chrome Rear Bumper Protector; Black Splash Guards (Set Of 4); Floor Mats with 1 Piece Cargo Area Protector; Usb Charging Cable Set Nissan; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 6 Speakers; AM/FM Radio; AM/FM radio: SiriusXM; Radio data system; Air Conditioning; See all features

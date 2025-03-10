@@ -1,17 +1,17 @@
-Title: 2021 Chevrolet Equinox Premier AWD
-Cash Price: $11,499
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Nightfall Gray Metallic
-Interior: Jet Black
-Mileage: Garfield, NJ (2454 miles away)
+Title: 2019 Mitsubishi Mirage G4 ES Sedan CVT
+Cash Price: $7,995
+Finance Price: $95/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 52,622 miles
 Fuel Type: Gas
-MPG: 25 city / 30 highway
+MPG: 35 city / 41 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 270 days ago
-VIN: 2GNAXXEV7M6140872
-Stock Number: 140872-72
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder, Sidi, VVT; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Axle, 3.87 Final Drive Ratio; Premier Preferred Equipment Group; Wheels, 18" (45.7 CM), Aluminum; Tires, P225/60R18 All Season Blackwall; Seats, Front Bucket; Jet Black, Perforated Leather Appointed Seat Trim; Audio System, Chevrolet Infotainment 3 Plus System, 8" Diagonal HD Color Touchscreen; License Plate Front Mounting Package; See less; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; See all features; Automatic 6-Spd w/Overdrive; Side Air Bags; Power Liftgate Release; Park Assist; LED Headlamps; See all features
+Drivetrain: FWD
+Engine: 1.2L Inline-3 Gas Inline
+Location: Frederick, MD
+Listed Since: 72 days ago
+VIN: ML32F3FJ4KHF18292
+Stock Number: 3481
+Features: Door Handle Color - Body-Color; Fender Lip Moldings - Black; Front Bumper Color - Body-Color; Grille Color - Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rocker Panel Color - Black; Window Trim - Black; Air Filtration; Armrests - Rear Center With Cupholders; Armrests - Rear Center With Pass-Thru; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Interior Accents - Metallic-Tone; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Assist Handle - Front; Cargo Area Light; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Panic Alarm; One-Touch Windows - 1; Power Outlet(S) - 12v Front; Power Steering; Power Windows - Lockout Button; Reading Lights - Front; Rearview Mirror - Manual Day/Night; Steering Wheel - Tilt; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Cruise Control; Steering Wheel Mounted Controls - Multi-Function; Steering Wheel Mounted Controls - Phone; Storage - Door Pockets; Vanity Mirrors - Driver; Front Brake Type - Ventilated Disc; Front Shock Type - Gas; Front Spring Type - Coil; Front Struts - Macpherson; Front Suspension Type - Lower Control Arms; Hill Holder Control; Rear Brake Type - Drum; Rear Shock Type - Gas; Rear Spring Type - Coil; Rear Suspension Type - Torsion Beam; Abs - 4-Wheel; Axle Ratio - 3.76; Braking Assist; Electronic Brakeforce Distribution; Front Stabilizer Bar; Front Suspension Classification - Independent; Power Brakes; Rear Suspension Classification - Semi-Independent; Stability Control; Traction Control; Alternator - 85 Amps; Gauge - Tachometer; Infotainment Screen Size - 7 In.; Total Speakers - 4; Warnings And Reminders - Coolant Temperature Warning; Warnings And Reminders - Lamp Failure; Warnings And Reminders - Low Oil Pressure; Warnings And Reminders - Maintenance Due; Wireless Data Link - Bluetooth; Antenna Type - Mast; Auxiliary Audio Input - Bluetooth; Auxiliary Audio Input - Usb; Clock; Digital Odometer; Fuel Economy Display - Mpg; Fuel Economy Display - Range; Multi-Function Display; Radio - Am/Fm; Radio - Hd Radio; Radio - Touch Screen Display; Radio Data System; Trip Odometer; Warnings And Reminders - Low Fuel Level; Watts - 140; Headlights - Auto Delay Off; Headlights - Auto On/Off; Headlights - Halogen; Taillights - Led; Spare Tire Mount Location - Inside; Spare Tire Size - Temporary; Spare Wheel Type - Steel; Tire Type - All Season; Wheels - Steel; Tire Pressure Monitoring System; Wheel Covers - Full; Window Defogger - Rear; Front Wipers - Variable Intermittent; Power Windows; Airbag Deactivation - Occupant Sensing Passenger; Anti-Theft System - Alarm; Anti-Theft System - Vehicle Immobilizer; Camera System - Rearview; Child Safety Door Locks; See less

@@ -1,17 +1,17 @@
-Title: 2023 Genesis Electrified G80 Sedan
-Cash Price: $29,850
-Finance Price: $557/moEstimate
-Finance Details: $2,985 due at signing · 72 mo · 14.22% APR
-Exterior: Vik Black
-Interior: Black/Black
-Mileage: Franklin Square, NY (2477 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2016 Honda Odyssey EX-L
+Cash Price: $14,500
+Finance Price: $207/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Silver
+Interior: Gray
+Mileage: 100,364 miles
+Fuel Type: Gas
+MPG: 19 city / 28 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 17 days ago
-VIN: KMTGE4S1XPU005787
-Stock Number: 005787
-Features: Option Group 01; Black/Black, Nappa Leather Seating Surfaces; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 1-Speed A/T; ABS; 4-Wheel Disc Brakes; A/C; A/T; See all features
+Drivetrain: FWD
+Engine: 3.5L V-6 Gas V
+Location: North Attleborough, MA
+Listed Since: 4 days ago
+VIN: 5FNRL5H68GB127160
+Stock Number: null
+Features: Door Handle Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Black Surround; Grille Color - Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rear Spoiler Color - Black; Window Trim - Chrome; Rear Spoiler - Roofline; Rear Trunk/Liftgate - Liftgate; Rear Trunk/Liftgate - Power Operated; Side Door Type - Dual Power Sliding; Steering Ratio - 16.4; Turns Lock-To-Lock - 3.5; Air Filtration; Dash Trim - Simulated Alloy; Floor Mat Material - Carpet; Floor Material - Carpet; Floor Mats - Front; Front Air Conditioning - Automatic Climate Control; Front Air Conditioning Zones - Dual; Rear Air Conditioning - Automatic Climate Control; Rear Air Conditioning Zones - Single; Shift Knob Trim - Urethane; Steering Wheel Trim - Leather; Armrests - Dual Front; Floor Mats - Rear; Floor Mats - Third Row; Rear Air Conditioning - Independently Controlled; Armrests - Rear Folding; Humidity/Dewpoint Sensors; Assist Handle - Front; Assist Handle - Rear; Center Console - Front Console With Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Easy Entry - Manual Rear Seat; Multi-Function Remote - Proximity Entry System; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Phone; Storage - Accessory Hook; Storage - Cargo Tie-Down Anchors And Hooks; Storage - Door Pockets; Storage - Front Seatback; Storage - Grocery Bag Holder; Storage - In Dash; Storage - Rear Seatback; Storage - Sunglasses Holder; Power Outlet(S) - 115v Rear; Power Outlet(S) - 12v Cargo Area; Power Outlet(S) - 12v Front; Universal Remote Transmitter - Homelink - Garage Door Opener; Power Steering - Variable/Speed-Proportional; Conversation Mirror; Vanity Mirrors - Dual Illuminating; Overhead Console - Front; Storage - Cooled Compartment; Storage - In Floor; Cupholders - Third Row; Steering Wheel Mounted Controls - Cruise Control; Cargo Area Light; Courtesy Lights - Door; Push-Button Start; Reading Lights - Front; Reading Lights - Rear; Reading Lights - Third Row; Sunshade - Side Window; Steering Wheel Mounted Controls - Multi-Function; One-Touch Windows - 2; Power Windows - Lockout Button; Rearview Mirror - Auto-Dimming; Abs - 4-Wheel; Braking Assist; Electronic Brakeforce Distribution; Front Brake Diameter - 12.6; Front Stabilizer Bar - Diameter 25 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 13.1; Rear Suspension Classification - Independent; Rear Suspension Type - Trailing Arms; Stability Control; Traction Control; Axle Ratio - 4.25; Front Shock Type - Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Gas; Rear Spring Type - Coil; Front Struts - Macpherson; Front Brake Type - Ventilated Disc; Rear Brake Type - Disc; Cylinder Deactivation; Antenna Type - Diversity; Antenna Type - Element; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; See less

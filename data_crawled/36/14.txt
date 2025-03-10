@@ -1,17 +1,17 @@
-Title: 2014 Chevrolet Sonic LT Sedan AT
-Cash Price: $5,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Crystal Red Tintcoat
-Interior: Jet Black/Dark Titanium
-Mileage: Phoenix, AZ (1854 miles away)
+Title: 2021 Ford Super Duty F-350 XLT Crew Cab 8' Box SRW 4WD
+Cash Price: $35,455
+Finance Price: $568/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
+Interior: Medium Earth Gray
+Mileage: 49,509 miles
 Fuel Type: Gas
-MPG: 25 city / 35 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 3 days ago
-VIN: 1G1JC5SH6E4149792
-Stock Number: E4149792
-Features: Engine, Ecotec 1.8L Variable Valve Timing Dohc 4 Cylinder Sequential Mfi; Transmission, 6 Speed Automatic; Axle, 3.47 Ratio; 1SD Preferred Equipment Group; Wheels, 15" (38.1 CM) Painted Aluminum; Tires, P195/65R15 All Season, Blackwall; Seats, Front Bucket With Recline And Height Adjustable Headrests; Jet Black/Dark Titanium, Deluxe Cloth Seat Trim; Audio System, Am/FM Stereo With CD Player And MP3 Playback/Wma; License Plate Bracket, Front; See less; Wheel Type; Remote Engine Start; Bluetooth; License Plate Bracket; Front (Forced On All Orders For States That Require A Front License Plate.); Audio System; AM/FM Stereo With CD Player And MP3 Playback/Wma Seek-And-Scan; Digital Clock; See all features
+Drivetrain: 4WD
+Engine: 6.2L V-8 Gas V
+Location: Kirkland, WA
+Listed Since: 79 days ago
+VIN: 1FT8W3B67MED63733
+Stock Number: P10681
+Features: Order Code 613A; Tires: LT275/70rx18e Owl A/T (4); 19K 5TH Wheel Hitch Kit (Pre Installed); Upfitter Switches (6); Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Backup Camera; Bluetooth; Tow Hitch; See less; 7 Speakers; AM/FM radio: SiriusXM; Radio data system; Radio: AM/FM Stereo/MP3 Player; SiriusXM Radio; See all features

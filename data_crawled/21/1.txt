@@ -1,17 +1,17 @@
-Title: 2014 Audi S8 Sedan
-Cash Price: $24,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Quartz Gray Metallic
-Interior: Black
-Mileage: Gurnee, IL (1748 miles away)
+Title: 2022 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $34,500
+Finance Price: 
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Black W/Medium Dark Slate
+Mileage: 48,471 miles
 Fuel Type: Gas
-MPG: 15 city / 26 highway
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 4.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 38 days ago
-VIN: WAUD2AFD3EN010928
-Stock Number: 010928
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; Traction Control; Dual Air Bags; F&R Head Curtain Air Bags; Daytime Running Lights; Alloy Wheels; See all features
+Drivetrain: 4WD
+Engine: 2.7L V-6 Gas V
+Location: Mattoon, IL
+Listed Since: 73 days ago
+VIN: 1FTEW1EP9NFC12061
+Stock Number: P16227
+Features: Engine: 2.7L V6 Ecoboost; Electronic Locking with 3.55 Axle Ratio; Power Sliding Rear Window; Auto Start Stop Removal; Trailer Tow Package; Radio: B&O Sound System BY Bang & Olufsen; Power Adjustable Pedals; 20" Chrome Like PVD Wheels; See less; Wheel Type; Premium Audio; Apple CarPlay; Android Auto; Remote Engine Start; See all features; Bed Utility Package; Equipment Group 302A High; Trailer Tow Package; XLT Chrome Appearance Package; B&O / Bang & Olufsen Audio Premium Audio / Stereo; See all features

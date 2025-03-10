@@ -1,17 +1,17 @@
-Title: 2015 Jeep Grand Cherokee Limited 4WD
-Cash Price: $7,995
+Title: 2011 Toyota Camry SE I4 Automatic
+Cash Price: $7,495
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Bright White Clearcoat
-Interior: Lt Frost Beige/Black
-Mileage: Ridgewood, NY (2466 miles away)
-Fuel Type: Diesel
-MPG: 17 city / 24 highway
+Exterior: White
+Interior: Gray
+Mileage: 108,600 miles
+Fuel Type: Gas
+MPG: 22 city / 32 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.0L V-6 Diesel V
-Location: N/A
-Listed Since: Listed 71 days ago
-VIN: 1C4RJFBM6FC739808
-Stock Number: 739808
-Features: Engine: 3.0L V6 Turbo Diesel; Transmission: 8 Speed Automatic (8HP70); Quick Order Package 22H; 3.45 Rear Axle Ratio; 18" X 8.0" Aluminum Polished Wheels; Tires: P265/60R18 BSW As On/Off Road LR; LT Frost Beige/Black, Premium Leather Trimmed Bucket Seats; GVWR: 6,800 LBS; Trailer Tow Group IV; Full Size Spare Tire; Power Sunroof; Radio: Uconnect 8.4 Nav; Single Disc Remote CD Player; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Seat Material; See all features; Body Side Moldings - Body-Color; Door Handle Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Black; Mirror Color - Chrome; See all features
+Drivetrain: FWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Naugatuck, CT
+Listed Since: 62 days ago
+VIN: 4T4BF3EK0BR104441
+Stock Number: 104441N
+Features: 

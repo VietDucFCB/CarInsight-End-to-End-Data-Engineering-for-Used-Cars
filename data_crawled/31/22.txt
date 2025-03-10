@@ -1,17 +1,17 @@
-Title: 2022 Chevrolet Malibu LT
-Cash Price: $15,549
-Finance Price: $241/moEstimate
-Finance Details: $1,555 due at signing · 72 mo · 7.31% APR
-Exterior: Northsky Blue Metallic
-Interior: Jet Black
-Mileage: Hendersonville, NC (226 miles away)
+Title: 2021 Hyundai Sonata SEL
+Cash Price: $13,999
+Finance Price: $198/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Portofino Gray
+Interior: Black
+Mileage: 101,636 miles
 Fuel Type: Gas
-MPG: 29 city / 36 highway
+MPG: 27 city / 37 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 54 days ago
-VIN: 1G1ZD5ST0NF136772
-Stock Number: P136772
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); LT Preferred Equipment Group; Wheels, 16" (40.6 CM) Aluminum; Tires, P205/65R16 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Sunroof, Power, Tilt Sliding; License Plate Bracket, Front; Not Equipped With Driver And Front Passenger Heated Seats; See less; Wheel Type; Moonroof; Apple CarPlay; Android Auto; Front Heated Seats; See all features; Preferred Equipment Group 1LT; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; Premium audio system: Chevrolet Infotainment 3 Plus; See all features
+Engine: 2.5L Inline-4 Gas Inline
+Location: Dallas, TX
+Listed Since: 89 days ago
+VIN: 5NPEL4JA5MH092288
+Stock Number: 2411-92288
+Features: Option Group 01; Carpeted Floor Mats; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Keyless Entry; Backup Camera; Alloy Wheels; Tilt & Telescoping Wheel; F&R Head Curtain Air Bags; See all features

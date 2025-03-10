@@ -1,17 +1,17 @@
-Title: 2021 Nissan Sentra SV CVT
-Cash Price: $13,998
-Finance Price: $261/moEstimate
-Finance Details: $1,400 due at signing · 72 mo · 14.22% APR
-Exterior: Brilliant Silver Metallic
-Interior: Charcoal
-Mileage: Houston, TX (1378 miles away)
+Title: 2022 Ford Explorer XLT 4WD
+Cash Price: $17,980
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Iconic Silver Metallic
+Interior: Ebony
+Mileage: 129,706 miles
 Fuel Type: Gas
-MPG: 29 city / 39 highway
+MPG: 20 city / 27 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 3 days ago
-VIN: 3N1AB8CV6MY247235
-Stock Number: Y247235
-Features: Mid Year Change; Carpeted Floor Mats with Trunk Mat; Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; [G01] MID-YEAR CHANGE; CHARCOAL  UPGRADED CLOTH SEAT TRIM; BRILLIANT SILVER METALLIC; [L92] CARPETED FLOOR MATS W/TRUNK MAT; Front Wheel Drive; See all features
+Drivetrain: 4WD
+Engine: 2.3L Inline-4 Gas Inline
+Location: Waukegan, IL
+Listed Since: 313 days ago
+VIN: 1FMSK8DH6NGA47562
+Stock Number: 7315
+Features: Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Front Heated Seats; Third Row Seating; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Climate Control; Dual Zone Climate Control; Cruise Control; Tinted Windows; Power Steering; See all features

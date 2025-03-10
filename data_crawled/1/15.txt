@@ -1,17 +1,17 @@
-Title: 2023 Chevrolet Malibu LT
-Cash Price: $14,998
-Finance Price: $228/moEstimate
-Finance Details: $1,500 due at signing · 72 mo · 6.74% APR
-Exterior: Mosaic Black Metallic
-Interior: Jet Black
-Mileage: Sherman Oaks, CA (11 miles away)
+Title: 2022 Toyota RAV4 LE AWD
+Cash Price: $16,893
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Magnetic Gray Metallic
+Interior: Black
+Mileage: 161,593 miles
 Fuel Type: Gas
-MPG: 27 city / 35 highway
+MPG: 27 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 18 days ago
-VIN: 1G1ZD5ST4PF136843
-Stock Number: PF136843Q
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Driver Confidence Package; License Plate Bracket, Front; Rear Park Assist; Lane Change Alert With Side Blind Zone Alert; Rear Cross Traffic Alert; Deleted 3 Years Of Remote Access.; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features
+Drivetrain: AWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Danvers, MA
+Listed Since: 59 days ago
+VIN: 2T3F1RFV3NW295662
+Stock Number: NW295662
+Features: Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; Driver Air Bag; Passenger Air Bag; Front Head Air Bag; Rear Head Air Bag; A/C; AM/FM Stereo; ABS; 4-Wheel Disc Brakes; Cruise Control; Rear Defrost; Child Safety Locks; All Wheel Drive; 4 Cylinder Engine; Gasoline Fuel; Daytime Running Lights; Keyless Entry; Power Door Locks; Power Mirror(s); Pass-Through Rear Seat; Cloth Seats; Bucket Seats; Power Steering; Adjustable Steering Wheel; Tires - Front All-Season; Tires - Rear All-Season; Temporary Spare Tire; Power Windows; Intermittent Wipers; Satellite Radio; MP3 Player; Privacy Glass; Steering Wheel Audio Controls; Engine Immobilizer; Driver Vanity Mirror; Passenger Vanity Mirror; Rear Spoiler; Transmission w/Dual Shift Mode; Tire Pressure Monitor; Trip Computer; Wheel Covers; Steel Wheels; Telematics; 8-Speed A/T; Back-Up Camera; Stability Control; Brake Assist; Auxiliary Audio Input; Lane Keeping Assist; WiFi Hotspot; Adaptive Cruise Control; Brake Actuated Limited Slip Differential; Smart Device Integration; Apple CarPlay; See less

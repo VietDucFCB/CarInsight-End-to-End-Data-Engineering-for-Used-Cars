@@ -1,17 +1,17 @@
-Title: 2018 Tesla Model 3 Long Range RWD
-Cash Price: $18,998
-Finance Price: $281/moEstimate
-Finance Details: $1,900 due at signing · 72 mo · 5.74% APR
-Exterior: Midnight Silver Metallic
+Title: 2024 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $44,599
+Finance Price: $726/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
 Interior: Black
-Mileage: Bellevue, WA (960 miles away)
-Fuel Type: Electric
-MPG: N/A
+Mileage: 9,936 miles
+Fuel Type: Gas
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 33 days ago
-VIN: 5YJ3E1EA1JF046414
-Stock Number: JF046414
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Dual Moonroof; Navigation System; Lane Keeping Assist; Keyless Start; Black; See all features
+Drivetrain: 4WD
+Engine: 2.7L V-6 Gas V
+Location: Streetsboro, OH
+Listed Since: 82 days ago
+VIN: 1FTEW3LP3RFA59830
+Stock Number: A59830C01
+Features: Heritage Edition; Equipment Group 302A Mid; Premium Wheels; Navigation; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Navigation system: Connected Navigation; Equipment Group 302A Mid; GVWR: 6; 650 lbs Payload Package; XLT Black Appearance Package Plus; See all features

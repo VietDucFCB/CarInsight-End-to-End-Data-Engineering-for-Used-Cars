@@ -1,17 +1,17 @@
-Title: 2012 Mercedes-Benz SL 550 Roadster
-Cash Price: $25,453
+Title: 2009 Mercedes-Benz CLS 550
+Cash Price: $9,995
 Finance Price: Not Available
 Finance Details: Not Available
 Exterior: Black
-Interior: Red/Black
-Mileage: Highland Park, IL (1750 miles away)
+Interior: Tan
+Mileage: 73,730 miles
 Fuel Type: Gas
-MPG: 14 city / 22 highway
+MPG: 14 city / 21 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
 Engine: 5.5L V-8 Gas V
-Location: N/A
-Listed Since: Listed 157 days ago
-VIN: WDBSK7BAXCF168858
-Stock Number: U23371
-Features: Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Bluetooth; See less; COMAND® w/40GB Hard-Drive GPS Navigation; Navigation system: COMAND®; Convertible HardTop; 10 Speakers; AM/FM radio: SiriusXM; See all features
+Location: Las Vegas, NV
+Listed Since: 282 days ago
+VIN: WDDDJ72X79A153375
+Stock Number: 9741
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Climate Control; Bluetooth; See less; Child Safety Door Locks; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Automatic Load-Leveling; See all features

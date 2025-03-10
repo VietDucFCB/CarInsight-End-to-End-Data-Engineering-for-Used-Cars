@@ -1,17 +1,17 @@
-Title: 2011 Lexus LS 460 RWD
-Cash Price: $12,949
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Smoky Granite Mica
+Title: 2018 Jeep Wrangler Unlimited Sport S (JL)
+Cash Price: $15,999
+Finance Price: $233/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ocean Blue Metallic Clearcoat
 Interior: Black
-Mileage: Dallas, TX (983 miles away)
+Mileage: 116,897 miles
 Fuel Type: Gas
-MPG: 16 city / 24 highway
+MPG: 17 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 4.6L V-8 Gas V
-Location: N/A
-Listed Since: Listed 6 days ago
-VIN: JTHBL5EF6B5108248
-Stock Number: 108248
-Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Climate Control; Backup Camera; Bluetooth; See less; HDD Navigation System; Navigation System; Comfort Package; Navigation Value Edition; Preferred Accessory Package; See all features
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Riverside, CA
+Listed Since: 33 days ago
+VIN: 1C4HJXDG9JW279687
+Stock Number: 279687
+Features: Engine: 3.6L V6 24V VVT Upg I with Ess; Transmission: 8 Speed Automatic (850re); Quick Order Package 24S Sport S; 17" X 7.5" Tech Silver Aluminum Wheels; Tires: 245/75R17 All Season (TQK); Black, Cloth Low Back Bucket Seats; GVWR: 5,300 LBS; Convenience Group; Technology Group; Cold Weather Group; 21.5 Gallon Fuel Tank; Black 3 Piece Hard Top; Radio: Uconnect 4 with 7" Display; SiriusXM Satellite Radio; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Climate Control; See all features; Rollover Mitigation; Alloy Wheels; Tilt & Telescoping Wheel; Alarm System; V6 3.6 Liter; See all features

@@ -1,17 +1,17 @@
-Title: 2007 Audi S6 Sedan
-Cash Price: $9,899
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Phantom Black Pearl
-Interior: Black
-Mileage: olathe, KS (1354 miles away)
+Title: 2024 Land Rover Discovery Sport S
+Cash Price: $32,777
+Finance Price: $522/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Santorini Black Metallic
+Interior: Ebony
+Mileage: 11,906 miles
 Fuel Type: Gas
-MPG: 15 city / 21 highway
+MPG: 19 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 5.2L V-10 Gas V
-Location: N/A
-Listed Since: Listed 276 days ago
-VIN: WAUGN74F07N048017
-Stock Number: S048017
-Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Front Heated Seats; Climate Control; Bluetooth; See less; V10 5.2 Liter; Automatic w/Tiptronic; Quattro AWD; Traction Control; Stability Control; See all features
+Drivetrain: 4WD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Woodland Hills, CA
+Listed Since: 1 day ago
+VIN: SALCJ2FXXRH342248
+Stock Number: RH342248
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Panoramic Roof; Leather Seats; Navigation System; Lane Keeping Assist; Emergency Pack (Pio); See all features

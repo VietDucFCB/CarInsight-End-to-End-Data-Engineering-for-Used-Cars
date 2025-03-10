@@ -1,17 +1,17 @@
-Title: 2012 Mitsubishi Galant SE
-Cash Price: $4,950
+Title: 2013 Nissan LEAF SL
+Cash Price: $5,788
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: White Pearl
-Interior: Black Cloth Interior
-Mileage: Dallas, TX (972 miles away)
-Fuel Type: Gas
-MPG: 21 city / 30 highway
+Exterior: Pearl White
+Interior: Black
+Mileage: 11,584 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 72 days ago
-VIN: 4A32B3FF5CE021656
-Stock Number: P24726
-Features: ABS Brakes; Air Conditioning; Alloy Wheels; AM/FM Radio; Automatic Headlights; CD Changer; CD Player; Child Safety Door Locks; Cruise Control; Daytime Running Lights; Driver Airbag; Driver Multi-Adjustable Power Seat; Electrochromic Interior Rearview Mirror; Electronic Parking Aid; Fog Lights; Front Air Dam; Front Heated Seat; Front Side Airbag; Front Side Airbag with Head Protection; Heated Exterior Mirror; Interval Wipers; Keyless Entry; Leather Steering Wheel; Manual Sunroof; Navigation Aid; Passenger Airbag; Power Adjustable Exterior Mirror; Power Door Locks; Power Sunroof; Power Windows; Rear Window Defogger; Side Head Curtain Airbag; Steering Wheel Mounted Controls; Tachometer; Tilt Steering; Tilt Steering Column; Tire Pressure Monitor; Traction Control; Trunk Anti-Trap Device; Vehicle Anti-Theft; Vehicle Stability Control System; See less
+Location: Raleigh, NC
+Listed Since: 24 days ago
+VIN: 1N4AZ0CPXDC401942
+Stock Number: 27661P
+Features: Black, Leather Seat Trim; Floor Mat/Cargo Mat Set; Splash Guards; Cargo Net; Wheel Type; Navigation; Seat Material; Front Heated Seats; Bluetooth; Navigation System; 6 Speakers; AM/FM radio: SiriusXM; CD player; Radio: AM/FM/Single In-Dash CD/MP3/WMA/Navigation; Air Conditioning; Automatic temperature control; Rear window defroster; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Anti-whiplash front head restraints; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Front wheel independent suspension; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Rear anti-roll bar; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Bumpers: body-color; Heated door mirrors; Power door mirrors; Spoiler; Auto-dimming Rear-View mirror; Driver door bin; Driver vanity mirror; Front reading lights; Garage door transmitter: HomeLink; Heated steering wheel; Illuminated entry; Leather steering wheel; Outside temperature display; Overhead console; Passenger vanity mirror; Tilt steering wheel; Trip computer; Front Bucket Seats; Front Center Armrest; Heated Front Bucket Seats; Heated front seats; Heated rear seats; Leather-Appointed Seat Trim; Split folding rear seat; Passenger door bin; 17'' Alloy Wheels; Alloy wheels; Rear window wiper; Variably intermittent wipers; See less

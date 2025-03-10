@@ -1,17 +1,17 @@
-Title: 2018 Mercedes-Benz GLE 350 4MATIC SUV
-Cash Price: $13,347
-Finance Price: $211/moEstimate
-Finance Details: $1,335 due at signing · 72 mo · 7.99% APR
-Exterior: Designo Diamond White Metallic
-Interior: Unknown
-Mileage: South Amboy, NJ (616 miles away)
+Title: 2023 Ford F-150 Tremor SuperCrew 5.5' Box 4WD
+Cash Price: $49,888
+Finance Price: $817/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Black
+Mileage: 32,541 miles
 Fuel Type: Gas
-MPG: 18 city / 22 highway
+MPG: 15 city / 20 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 38 days ago
-VIN: 4JGDA5HB9JB015275
-Stock Number: 10605
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less; Power Windows; Backup Camera; Electronic Stability Control; Air Conditioning; AWD; See all features
+Drivetrain: 4WD
+Engine: 5.0L V-8 Gas V
+Location: Huntley, IL
+Listed Since: 18 days ago
+VIN: 1FTFW1E55PFC15061
+Stock Number: V1658
+Features: Equipment Group 402A High; Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Navigation system: Connected Navigation; Equipment Group 402A High; Ford Co-Pilot360 Assist 2.0; GVWR: 7; 050 lbs Payload Package; See all features

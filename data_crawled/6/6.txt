@@ -1,17 +1,17 @@
-Title: 2022 Jeep Wrangler Unlimited Sahara 4xe
-Cash Price: $28,886
-Finance Price: $428/moEstimate
-Finance Details: $2,889 due at signing · 72 mo · 5.74% APR
-Exterior: Sting-Gray Clearcoat
-Interior: Black
-Mileage: Libertyville, IL (1744 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Title: 2013 Ford Escape Titanium 4WD
+Cash Price: $4,900
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Tuxedo Black
+Interior: Charcoal Black
+Mileage: 148,312 miles
+Fuel Type: Gas
+MPG: 21 city / 28 highway
 Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 24 days ago
-VIN: 1C4JJXP60NW171677
-Stock Number: U11796
-Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29P; 20" X 8" Fully Painted Aluminum Wheels; Black, Premium Mckinley Trimmed Seats; Cold Weather Group; Anti Spin Differential Rear Axle; Body Color 3 Piece Hard Top; Front License Plate Bracket; Remote Start System; Mopar Hardtop Headliner; See less; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; See all features; Navigation System; Cold Weather Group; Quick Order Package 29P; Body Color 3-Piece Hard Top; 9 Speakers; See all features
+Engine: 2.0L Inline-4 Gas Inline
+Location: Chesapeake, VA
+Listed Since: 80 days ago
+VIN: 1FMCU9J97DUB49471
+Stock Number: null
+Features: Wheel Type; Power Trunk/Liftgate; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Parking Sensors; Bluetooth; See less; Body Side Moldings - Chrome; Door Handle Color - Body-Color; Exhaust Tip Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Black; See all features

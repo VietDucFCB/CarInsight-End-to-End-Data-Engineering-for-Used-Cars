@@ -1,17 +1,17 @@
-Title: 2013 Toyota Camry L I4 Automatic
-Cash Price: $7,888
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Attitude Black Metallic
-Interior: Unknown
-Mileage: Austin, TX (1064 miles away)
+Title: 2021 Toyota RAV4 TRD Off Road AWD
+Cash Price: $28,800
+Finance Price: $453/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Magnetic Gray Metallic
+Interior: Black
+Mileage: 23,955 miles
 Fuel Type: Gas
-MPG: 25 city / 35 highway
+MPG: 25 city / 32 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 66 days ago
-VIN: 4T1BF1FK9DU662692
-Stock Number: S7977C
-Features: 6 Speakers; AM/FM radio; CD player; Radio: AM/FM/CD Player w/6.1'' Touch Screen; Air Conditioning; Rear window defroster; Power steering; Power windows; Steering wheel mounted audio controls; Four wheel independent suspension; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Rear anti-roll bar; Rear side impact airbag; Brake assist; Electronic Stability Control; Speed control; Bumpers: body-color; Power door mirrors; Driver door bin; Driver vanity mirror; Front reading lights; Outside temperature display; Overhead console; Passenger vanity mirror; Rear seat center armrest; Tachometer; Telescoping steering wheel; Tilt steering wheel; Fabric Seat Trim; Front Bucket Seats; Front Center Armrest; Split folding rear seat; Passenger door bin; See less
+Drivetrain: AWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Post Falls, ID
+Listed Since: 347 days ago
+VIN: 2T3S1RFV3MW213720
+Stock Number: 75292
+Features: TRD Off Road Weather Package; Wheel Lock (TMS); Wheel Type; Moonroof; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; TRD Off-Road Package; 6 Speakers; AM/FM radio: SiriusXM; Radio data system; Radio: Audio Plus; See all features

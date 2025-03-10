@@ -1,17 +1,17 @@
-Title: 2016 GMC Yukon SLT 4WD
-Cash Price: $19,988
-Finance Price: $373/moEstimate
-Finance Details: $1,999 due at signing · 72 mo · 14.22% APR
-Exterior: Iridium Metallic
-Interior: Cocoa/Dune
-Mileage: Arlington, TX (1235 miles away)
-Fuel Type: Gas
-MPG: 16 city / 22 highway
+Title: 2022 Jeep Wrangler Unlimited Rubicon 4xe
+Cash Price: $34,754
+Finance Price: $556/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Hydro Blue Pearlcoat
+Interior: Black
+Mileage: 26,374 miles
+Fuel Type: Plug-In Hybrid
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: 5.3L V-8 Gas V
-Location: N/A
-Listed Since: Listed 38 days ago
-VIN: 1GKS2BKC2GR106546
-Stock Number: 2533
-Features: Suspension Package, Premium Smooth Ride; Engine, 5.3L Ecotec3 V8; Transmission, 6 Speed Automatic, Electronically Controlled; Rear Axle, 3.08 Ratio; SLT Preferred Equipment Group; Wheels, 18" X 8.5" (45.7 CM X 21.6 CM) Bright Machined Aluminum; Tires, P265/65R18 All Season, Blackwall; Seats, Front Bucket With Perforated Leather Appointed; Cocoa/Dune, Perforated Leather Appointed Seat Trim; Seats, Second 60/40 Split Folding Bench; Audio System, 8" Diagonal Color Touch Screen Navigation With Intellilink; Open Road Package Discount Not Desired; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; See all features; Child Safety Door Locks; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Traction Control; See all features
+Engine: N/A
+Location: McKinney, TX
+Listed Since: 9 days ago
+VIN: 1C4JJXR65NW274378
+Stock Number: NW274378
+Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29V; Tires: LT285/70R17C BSW Off Road; Black, Leather Trimmed Bucket Seats; Cold Weather Group; Body Color 3 Piece Hard Top; Body Color Rubicon Highline Flare; Front License Plate Bracket; Corning Gorilla Glass; Remote Start System; Mopar All Weather Floor Mats; See less; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; See all features; Navigation System; Cold Weather Group; Quick Order Package 29V; Trail Rail Management System; Body Color 3-Piece Hard Top; See all features

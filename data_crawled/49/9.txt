@@ -1,17 +1,17 @@
-Title: 2015 Audi Q5 Premium Plus 2.0T quattro
-Cash Price: $11,495
-Finance Price: $181/moEstimate
-Finance Details: $1,150 due at signing · 72 mo · 7.99% APR
-Exterior: Moonlight Blue Metallic
-Interior: Pistachio Beige
-Mileage: Garland, TX (970 miles away)
+Title: 2024 BMW X3 xDrive30i AWD
+Cash Price: $26,695
+Finance Price: $417/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Dark Graphite Metallic
+Interior: Black
+Mileage: 40,912 miles
 Fuel Type: Gas
-MPG: 20 city / 28 highway
+MPG: 21 city / 28 highway
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 71 days ago
-VIN: WA1LFAFP0FA052294
-Stock Number: 052294
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Seat Material; Front Heated Seats; Climate Control; Bluetooth; See less; Door Handle Color - Body-Color; Exhaust Tip Color - Polished Aluminum; Front Bumper Color - Body-Color; Grille Color - Chrome Surround; Mirror Color - Body-Color; See all features
+Engine: 2.0L Inline-4 Gas Inline
+Location: Commack, NY
+Listed Since: 58 days ago
+VIN: 5UX53DP07R9T91214
+Stock Number: 53746
+Features: Wheel Type; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation; Navigation System; Connected Package Pro; 12 Speakers; AM/FM Radio; See all features

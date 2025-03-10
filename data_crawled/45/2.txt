@@ -1,17 +1,17 @@
-Title: 2015 Jeep Wrangler Unlimited Sport
-Cash Price: $15,286
-Finance Price: $248/moEstimate
-Finance Details: $1,529 due at signing · 72 mo · 9.02% APR
-Exterior: Bright White Clearcoat
-Interior: Black
-Mileage: Gainesville, FL (256 miles away)
+Title: 2019 Chevrolet Silverado 2500HD LT Crew Cab Standard Box 4WD
+Cash Price: $21,999
+Finance Price: $336/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Silver Ice Metallic
+Interior: Jet Black
+Mileage: 110,769 miles
 Fuel Type: Gas
-MPG: 16 city / 21 highway
-Transmission: Manual Transmission
+MPG: N/A
+Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 50 days ago
-VIN: 1C4BJWDG1FL609959
-Stock Number: 6P10694
-Features: Engine: 3.6L V6 24V VVT; Transmission: 6 Speed Manual (NSG370); Quick Order Package 23C; 3.73 Rear Axle Ratio; 16" X 7.0" Luxury Styled Steel Wheels; Tires: P225/75R16 BSW On/Off Road; Black, Cloth Bucket Seats; Connectivity Group; Sirius Satellite Radio; See less; Bluetooth; Connectivity Group; Quick Order Package 23C; Sunrider Soft Top; 8 Speakers; AM/FM radio; See all features
+Engine: 6.0L V-8 Gas V
+Location: San Antonio, TX
+Listed Since: 28 days ago
+VIN: 1GC1KSEG7KF158500
+Stock Number: S30590P
+Features: Engine, Vortec 6.0L Variable Valve Timing V8 Sfi, E85 Compatible, Flexfuel; Transmission, 6 Speed Automatic, Heavy Duty, Electronically Controlled; GVWR, 9500 LBS. (4309 KG); Rear Axle, 4.10 Ratio; LT Preferred Equipment Group; Tires, LT275/65r18e 123/120Q Maximum Traction Blackwall; Paint, Solid; Seats, Front 40/20/40 Split Bench, 3 Passenger.; Jet Black, Cloth Seat Trim; Audio System, Chevrolet Infotainment System With 8" Diagonal Color Touch Screen, Am/FM Stereo; Engine Block Heater; Alternator, 220 Amps; Trailering Equipment; Underbody Shield, Frame Mounted Shields; Wheel, 18" X 8" (45.7 CM X 20.3 CM) Full Size, Steel Spare.; License Plate Kit, Front; Floor Covering, Graphite Colored Rubberized Vinyl; Theft Deterrent System, Unauthorized Entry; Remote Vehicle Starter System; Defogger, Rear Window Electric; Power Outlet, 110 Volt Ac; Rear Park Assist, Ultrasonic; See less; Wheel Type; Remote Engine Start; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; Power Door Locks; Alloy Wheels; CD/MP3 (Single Disc); Daytime Running Lights; Dual Air Bags; See all features

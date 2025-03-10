@@ -1,17 +1,17 @@
-Title: 2016 Hyundai Sonata SE 2.4L
-Cash Price: $8,499
-Finance Price: $167/moEstimate
-Finance Details: $850 due at signing · 72 mo · 16.22% APR
-Exterior: Lakeside Blue
-Interior: Gray
-Mileage: Bellingham, WA (2443 miles away)
+Title: 2021 BMW X3 xDrive30i AWD
+Cash Price: $18,995
+Finance Price: $284/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Dark Graphite Metallic
+Interior: Black
+Mileage: 75,525 miles
 Fuel Type: Gas
-MPG: 25 city / 38 highway
+MPG: 23 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 45 days ago
-VIN: 5NPE24AF3GH302390
-Stock Number: X3329B
-Features: Gray, Yes Essentials Premium Cloth Seating Surfaces; Wheel Type; Apple CarPlay; Android Auto; Backup Camera; Bluetooth; 16 x 6.5J Aluminum Alloy Wheels; YES Essentials Premium Cloth Seating Surfaces; Radio: AM/FM/SiriusXM/CD/MP3 Display Audio; 4-Wheel Disc Brakes; 6 Speakers; Air Conditioning; Electronic Stability Control; Front Bucket Seats; Front Center Armrest; Spoiler; Tachometer; ABS brakes; Alloy wheels; Brake assist; Bumpers: body-color; CD player; Delay-off headlights; Driver door bin; Driver vanity mirror; Dual front impact airbags; Dual front side impact airbags; Four wheel independent suspension; Front anti-roll bar; Front reading lights; Fully automatic headlights; Heated door mirrors; Illuminated entry; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Outside temperature display; Overhead airbag; Overhead console; Panic alarm; Passenger door bin; Passenger vanity mirror; Power door mirrors; Power steering; Power windows; Radio data system; Rear anti-roll bar; Rear reading lights; Rear seat center armrest; Rear window defroster; Remote keyless entry; Security system; Speed control; Speed-sensing steering; Split folding rear seat; Steering wheel mounted audio controls; Telescoping steering wheel; Tilt steering wheel; Traction control; Trip computer; Variably intermittent wipers; Speed-Sensitive Wipers; AM/FM radio: SiriusXM; Exterior Parking Camera Rear; Emergency communication system: Blue Link; Apple CarPlay & Android Auto; Hybrid traction battery type: none; See less
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Elk Grove, CA
+Listed Since: 79 days ago
+VIN: 5UXTY5C07M9F66660
+Stock Number: 28476PR
+Features: 19" X 7.5" Y Spoke (Style 693) Wheels; Black, Sensatec Upholstery; Convenience Package; Panoramic Moonroof; Heated Front Seats; Heated Steering Wheel; Comfort Access Keyless Entry; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; See all features; Navigation; Navigation System; Connected Package Plus; Convenience Package; 12 Speakers; See all features

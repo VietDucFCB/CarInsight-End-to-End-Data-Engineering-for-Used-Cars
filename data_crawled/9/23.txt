@@ -1,17 +1,17 @@
-Title: 2013 Ford F-150 XLT SuperCab 6.5' Box 4WD
-Cash Price: $8,800
+Title: 2001 Ford Econoline Commercial Cutaway E-450 158" DRW
+Cash Price: $6,995
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Oxford White
-Interior: Steel Gray
-Mileage: El Cajon, CA (122 miles away)
+Exterior: White
+Interior: Unknown
+Mileage: 189,595 miles
 Fuel Type: Gas
-MPG: 16 city / 21 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 109 days ago
-VIN: 1FTFX1ET4DKE82903
-Stock Number: null
-Features: 4wd Selector - Electronic Hi-Lo; 4wd Type - Part Time; Abs - 4-Wheel; Airbag Deactivation - Occupant Sensing Passenger; Antenna Type - Mast; Anti-Theft System - Alarm; Anti-Theft System - Vehicle Immobilizer; Ashtray; Auxiliary Audio Input - Bluetooth; Auxiliary Audio Input - Jack; Axle Ratio - 3.55; Battery - Maintenance-Free; Battery Rating - 750 Cca; Capless Fuel Filler System; Child Seat Anchors - Latch System; Clock; Compass; Cruise Control; Cupholders - Front; Cupholders - Rear; Door Handle Color - Black; Door Sill Trim - Scuff Plate; Driver Seat Manual Adjustments; Driver Seat Manual Adjustments - Lumbar; Electronic Brakeforce Distribution; Electronic Messaging Assistance - With Read Function; External Temperature Display; Floor Mat Material - Carpet; Floor Material - Carpet; Floor Mats - Front; Floor Mats - Rear; Front Air Conditioning; Front Air Conditioning Zones - Single; Front Airbags - Dual; Front Brake Diameter - 13.8; Front Brake Type - Ventilated Disc; Front Brake Width - 1.34; Front Bumper Color - Chrome; Front Fog Lights; Front Headrests - 2; Front Headrests - Adjustable; Front Seat Type - 40-20-40 Split Bench; Front Seatbelts - 3-Point; Front Shock Type - Gas; Front Spring Type - Coil; Front Stabilizer Bar; Front Struts; Front Suspension Classification - Independent; Front Suspension Type - Short And Long Arm; Front Wipers - Intermittent; Gauge - Tachometer; Grille Color - Chrome; Grille Color - Chrome Surround; Headlights - Auto Delay Off; Headlights - Auto On; Hill Holder Control; Impact Sensor - Post-Collision Safety System; In-Dash Cd - Mp3 Playback; In-Dash Cd - Single Disc; Infotainment - Sync; Keypad Entry; Lighter Element; Mirror Color - Black; Multi-Function Remote - Keyless Entry; One-Touch Windows - 1; Overhead Console - Front; Passenger Seat Manual Adjustments; Pickup Bed Light; Power Door Locks; Power Outlet(S) - 12v Front; Power Outlet(S) - 12v Rear; Power Steering; Power Windows; Programmable Safety Key; Radio - Am/Fm; Radio - Voice Operated; Radio Data System; Reading Lights - Front; Rear Brake Diameter - 13.7; Rear Brake Type - Ventilated Disc; Rear Brake Width - 0.79; Rear Bumper Color - Chrome; Rear Headrests - 2; Rear Headrests - Retractable; Rear Privacy Glass; Rear Seat Folding - Folds Up; Rear Seat Folding - Split; Rear Seat Type - 60-40 Split Bench; Rear Seatbelts - 3-Point; Rear Shock Type - Gas; Rear Spring Type - Leaf; Rear Suspension Classification - Solid Live Axle; Rear Suspension Type - Multi-Leaf; Roll Stability Control; Seatbelt Force Limiters - Front; Seatbelt Pretensioners - Front; Side Airbags - Front; Side Curtain Airbags - Front; Side Curtain Airbags - Rear; Side Door Type - Dual Rear-Hinged Access; See less
+Drivetrain: RWD
+Engine: 6.8L V-10 Gas V
+Location: Hamler, OH
+Listed Since: 81 days ago
+VIN: 1FDXE45SX1HB63769
+Stock Number: 24046D
+Features: 2 Speakers; AM/FM radio; Air Conditioning; Front Air Conditioning; Headlights On Audible Alert; Light & Convenience Group; Power steering; 4-Wheel Antilock Braking System; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Front anti-roll bar; Front wheel independent suspension; Passenger Airbag; Dual rear wheels; Deluxe Engine Cover Console; Driver door bin; Passenger seat mounted armrest; Voltmeter; Driver's Seat Mounted Armrest; Dual Vinyl Bucket Seats; Front Bucket Seats; Vinyl Seat Trim; 55 Gallon Fuel Tank; Passenger door bin; Variably intermittent wipers; 4.56 Axle Ratio; See less

@@ -1,17 +1,17 @@
-Title: 2015 Jeep Wrangler Unlimited Sahara
-Cash Price: $17,295
-Finance Price: $273/moEstimate
-Finance Details: $1,730 due at signing · 72 mo · 7.99% APR
-Exterior: Bright White Clearcoat
-Interior: Black
-Mileage: Apopka, FL (2205 miles away)
+Title: 2021 Nissan Rogue Sport S AWD
+Cash Price: $12,590
+Finance Price: $174/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Gun Metallic
+Interior: Charcoal
+Mileage: 53,415 miles
 Fuel Type: Gas
-MPG: 16 city / 21 highway
+MPG: 24 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 21 days ago
-VIN: 1C4BJWEG4FL651640
-Stock Number: 25-014
-Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24G; 3.21 Rear Axle Ratio; 18" X 7.5" Polished Satin Carbon Wheels; Black, Cloth Bucket Seats; Trailer Tow Group; Body Color 3 Piece Hard Top; Radio: Uconnect 730N CD/DVD/MP3/HDD/Nav; See less; Wheel Type; Navigation; Bluetooth; Tow Hitch; Keyless Entry; Premium Sound; Power Windows; ABS (4-Wheel); Tilt Wheel; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Farmingdale, NY
+Listed Since: 23 days ago
+VIN: JN1BJ1AW6MW660290
+Stock Number: 800673
+Features: 1 Piece Carpeted Cargo Area Protector & Floor Mats; Wheel Type; Apple CarPlay; Android Auto; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 4wd Type - On Demand; Abs - 4-Wheel; Air Filtration; Airbag Deactivation - Occupant Sensing Passenger; Alternator - 120 Amps; See all features

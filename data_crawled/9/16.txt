@@ -1,17 +1,17 @@
-Title: 2016 Nissan Altima 2.5 SL
-Cash Price: $8,990
-Finance Price: $190/moEstimate
-Finance Details: $899 due at signing · 72 mo · 19.22% APR
-Exterior: Pearl White
-Interior: Charcoal
-Mileage: Riverdale, NJ (2442 miles away)
+Title: 2024 Chevrolet Silverado 2500HD LT Crew Cab Long Bed 4WD
+Cash Price: $36,000
+Finance Price: $577/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Sterling Gray Metallic
+Interior: Jet Black
+Mileage: 104,965 miles
 Fuel Type: Gas
-MPG: 27 city / 39 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 11 days ago
-VIN: 1N4AL3AP2GC250900
-Stock Number: 250900
-Features: Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; 4 Cylinder Engine; ABS; 4-Wheel Disc Brakes; A/C; A/T; See all features
+Drivetrain: 4WD
+Engine: 6.6L V-8 Gas V
+Location: Houston, TX
+Listed Since: 9 days ago
+VIN: 1GC4YNE74RF160647
+Stock Number: 17249
+Features: Durabed, Pickup Bed; Engine, 6.6L V8; Transmission, Allison 10 Speed Automatic; GVWR, 10,650 LBS. (4831 KG); Rear Axle, 3.73 Ratio; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Machined Aluminum; Tires, LT245/75r17e All Season, Blackwall; Tire, Spare LT245/75r17e All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 Premium System; Convenience Package; Remote Start Package; Heat Package; Assist Steps, Chromed, 6" Rectangular; LED Cargo Area Lighting; Fog Lamps, Front, LED; Chevytec Spray On Bedliner; License Plate Kit, Front; Seating, Heated Driver And Front Outboard Passenger; Seat Adjuster, Driver 10 Way Power; Center Console, Floor Mounted; Steering Wheel, Heated; Remote Vehicle Starter System; Theft Deterrent System, Unauthorized Entry; Wireless Charging; Usb Ports, 2, Charge/Data Ports Located Inside Center Console; Usb Ports, Rear, Dual, Charge Only; Power Outlet, Interior, 120 Volt; Power Outlet, Bed Mounted, 120 Volt; Air Conditioning, Dual Zone Automatic Climate Control; Defogger, Rear Window Electric; See less; Wheel Type; Navigation; Apple CarPlay; Android Auto; Front Heated Seats; See all features

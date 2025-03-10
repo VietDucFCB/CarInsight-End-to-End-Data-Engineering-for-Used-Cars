@@ -1,17 +1,17 @@
-Title: 2016 Mercedes-Benz C 300 Sedan RWD
-Cash Price: $15,988
-Finance Price: $298/moEstimate
-Finance Details: $1,599 due at signing · 72 mo · 14.22% APR
-Exterior: Red
-Interior: Unknown
-Mileage: Tempe, AZ (1845 miles away)
+Title: 2014 Ford Escape SE 4WD
+Cash Price: $8,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Tuxedo Black
+Interior: Charcoal Black
+Mileage: 79,506 miles
 Fuel Type: Gas
-MPG: 25 city / 34 highway
+MPG: 22 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 86 days ago
-VIN: 55SWF4JB0GU178081
-Stock Number: 17808100
-Features: 
+Drivetrain: 4WD
+Engine: 1.6L Inline-4 Gas Inline
+Location: San Diego, CA
+Listed Since: 9 days ago
+VIN: 1FMCU9GX0EUA50689
+Stock Number: D13251A
+Features: Wheel Type; Backup Camera; Bluetooth; Equipment Group 201A; 3.51 Axle Ratio; Wheels: 17'' Alloy Sparkle Silver Painted Aluminum; Wheels: 18'' Bright PVD/Chrome Alloy; Cloth Buckets w/60/40 Split Rear Seat; Radio: AM/FM Single CD/MP3; Radio: Media Hub w/SYNC w/MyFord Touch; Power Liftgate; Roof Cross Bars; Reverse Sensing System; Perimeter Alarm; Dual Zone Electronic Automatic Temperature Control; Power Converter 110V Outlet; Black Roof Side Rails; SE Convenience Package; SYNC Communications & Entertainment System; SYNC w/MyFord Touch & SYNC Services; 4-Wheel Disc Brakes; 6 Speakers; Air Conditioning; Electronic Stability Control; Front Bucket Seats; Front Center Armrest; Tachometer; ABS brakes; Alloy wheels; Brake assist; Bumpers: body-color; CD player; Delay-off headlights; Driver door bin; Driver vanity mirror; Dual front impact airbags; Dual front side impact airbags; Four wheel independent suspension; Front anti-roll bar; Front fog lights; Front reading lights; Fully automatic headlights; Illuminated entry; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Outside temperature display; Overhead airbag; Overhead console; Panic alarm; Passenger door bin; Passenger vanity mirror; Power door mirrors; Power driver seat; Power steering; Power windows; Radio data system; Rear anti-roll bar; Rear seat center armrest; Rear window defroster; Rear window wiper; Remote keyless entry; Speed control; Speed-sensing steering; Split folding rear seat; Steering wheel mounted audio controls; Telescoping steering wheel; Tilt steering wheel; Traction control; Trip computer; Variably intermittent wipers; Compass; Compressor: intercooled turbo; AM/FM radio: SiriusXM; Exterior Parking Camera Rear; See less

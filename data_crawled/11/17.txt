@@ -1,17 +1,17 @@
-Title: 2022 Honda CR-V Special Edition AWD
-Cash Price: $16,000
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Crystal Black Pearl
-Interior: Black
-Mileage: Freehold, NJ (2448 miles away)
-Fuel Type: Gas
-MPG: 27 city / 32 highway
+Title: 2019 Karma Revero Sedan
+Cash Price: $33,995
+Finance Price: $543/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Gray
+Interior: Beige
+Mileage: 67,159 miles
+Fuel Type: Plug-In Hybrid
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: AWD
+Drivetrain: RWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 57 days ago
-VIN: 2HKRW2H7XNH603695
-Stock Number: H603695
-Features: Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; Turbocharged; All Wheel Drive; Power Steering; ABS; 4-Wheel Disc Brakes; See all features
+Location: Folsom, CA
+Listed Since: 27 days ago
+VIN: 50GK41SA9KA000149
+Stock Number: 10313
+Features: Wheel Type; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less

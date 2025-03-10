@@ -1,17 +1,17 @@
-Title: 2011 Mercedes-Benz C 300 4MATIC Luxury Sedan
-Cash Price: $6,800
+Title: 2015 Nissan NV200 Compact Cargo SV
+Cash Price: $7,900
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Black
-Interior: Almond/Mocha
-Mileage: Mount Olive, NC (199 miles away)
+Exterior: White
+Interior: Gray
+Mileage: 162,111 miles
 Fuel Type: Gas
-MPG: 18 city / 25 highway
+MPG: 24 city / 26 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 3.0L V-6 Gas V
-Location: N/A
-Listed Since: Listed 202 days ago
-VIN: WDDGF8BB4BR155729
-Stock Number: 155729
-Features: Wheel Type; Moonroof; Seat Material; Climate Control; Bluetooth; All Wheel Drive; Power Steering; ABS; 4-Wheel Disc Brakes; Brake Assist; 4-Wheel Disc Brakes; Aluminum Wheels; Tires - Front Performance; Tires - Rear Performance; Temporary Spare Tire; Sun/Moonroof; Generic Sun/Moonroof; Automatic Headlights; Fog Lamps; Heated Mirrors; Power Mirror(s); Integrated Turn Signal Mirrors; Intermittent Wipers; AM/FM Stereo; CD Player; MP3 Capability; Bluetooth Connection; Auxiliary Audio Input; Premium Synthetic Seats; Power Driver Seat; Power Passenger Seat; Bucket Seats; Driver Adjustable Lumbar; Passenger Adjustable Lumbar; Floor Mats; Steering Wheel Audio Controls; Leather Steering Wheel; Adjustable Steering Wheel; Trip Computer; Power Windows; Keyless Entry; Power Door Locks; Immobilizer; Cruise Control; Security System; Immobilizer; Climate Control; Multi-Zone A/C; A/C; Rear Defrost; Power Outlet; Woodgrain Interior Trim; Driver Vanity Mirror; Passenger Vanity Mirror; Driver Illuminated Vanity Mirror; Passenger Illuminated Visor Mirror; Traction Control; Stability Control; Traction Control; Driver Air Bag; Passenger Air Bag; Passenger Air Bag Sensor; Front Head Air Bag; Rear Head Air Bag; Front Side Air Bag; Knee Air Bag; Child Safety Locks; Tire Pressure Monitor; See less
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Nashville, TN
+Listed Since: 16 days ago
+VIN: 3N6CM0KN4FK721477
+Stock Number: 721477
+Features: Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Electronic Brake Assistance; Traction Control; Vehicle Stability Control System; Driver Airbag; Front Side Airbag; Passenger Airbag; Side Head Curtain Airbag; Air Conditioning; Cruise Control; Tachometer; Tilt Steering; Tilt Steering Column; Steering Wheel Mounted Controls; Tire Pressure Monitor; Trip Computer; AM/FM Radio; Cargo Area Tiedowns; Daytime Running Lights; Full Size Spare Tire; Run Flat Tires; Steel Wheels; Power Windows; Interval Wipers; See less

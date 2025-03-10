@@ -1,17 +1,17 @@
-Title: 2012 Mercedes-Benz CL 550 4MATIC
-Cash Price: $19,999
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Black
-Interior: Sahara Beige/Black
-Mileage: Warminster, PA (2405 miles away)
+Title: 2019 Chevrolet Express Passenger 3500 LT LWB
+Cash Price: $22,573
+Finance Price: $346/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Summit White
+Interior: Medium Pewter
+Mileage: 75,899 miles
 Fuel Type: Gas
-MPG: 15 city / 24 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 4.6L V-8 Gas V
-Location: N/A
-Listed Since: Listed 32 days ago
-VIN: WDDEJ9EB6CA028634
-Stock Number: Y3734
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Parking Sensors; Bluetooth; See less; 4.6L DOHC bi-turbo 32-valve V8 engine; 7-speed automatic driver-adaptive transmission w/OD/touch shift; 4MATIC all-wheel drive; Independent 4-link front suspension w/anti-lift control/stabilizer bar; Independent multi-link rear suspension w/anti-squat/anti-dive system; See all features
+Drivetrain: RWD
+Engine: 6.0L V-8 Gas V
+Location: Peru, IL
+Listed Since: 47 days ago
+VIN: 1GAZGPFG2K1285855
+Stock Number: P7126
+Features: Engine, Vortec 6.0L V8 Sfi Flexfuel; Transmission, 6 Speed Automatic, Heavy Duty, Electronically Controlled; Rear Axle, 3.42 Ratio; LT Preferred Equipment Group; Paint, Solid; Seating, 15 Passenger, (2 3 3 3 4 Seating Configuration); Seats, Front Bucket With Custom Cloth Trim; Medium Pewter, Custom Cloth; Audio System, Am/FM Stereo With MP3 Player And Usb Port; Differential, Heavy Duty Locking Rear; Mirrors, Outside Heated Power Adjustable, Black, Manual Folding; Door, Sliding Passenger Side; Audio System Feature, Usb Port; Seat Adjuster, Driver 6 Way Power; Defogger, Rear Window Electric; See less; Third Row Seating; Lane Keep Assist; Backup Camera; Chrome Appearance Package; Preferred Equipment Group 1LT; 2 Speakers; AM/FM radio; AM/FM Stereo w/MP3 Player; See all features

@@ -1,17 +1,17 @@
-Title: 2012 Aston Martin Rapide Sedan Auto
-Cash Price: $47,900
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: White
+Title: 2019 Hyundai Sonata SE 2.4L
+Cash Price: $9,405
+Finance Price: $119/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Quartz White Pearl
 Interior: Black
-Mileage: Roseville, CA (2335 miles away)
+Mileage: 90,460 miles
 Fuel Type: Gas
-MPG: 13 city / 19 highway
+MPG: 26 city / 35 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 5.9L V-12 Gas V
-Location: N/A
-Listed Since: Listed 47 days ago
-VIN: SCFHDDAJ2CAF02601
-Stock Number: 9026M
-Features: 
+Drivetrain: FWD
+Engine: 2.4L Inline-4 Gas Inline
+Location: Blackfoot, ID
+Listed Since: 93 days ago
+VIN: 5NPE24AF1KH781563
+Stock Number: M3454
+Features: Option Group 01; Black, Yes Essentials Premium Cloth Seating Surfaces; Wheel Type; Apple CarPlay; Android Auto; Blind Spot System; Backup Camera; Bluetooth; 6 Speakers; AM/FM radio; Radio data system; Radio: AM/FM/MP3 Display Audio; Air Conditioning; Rear window defroster; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Four wheel independent suspension; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Rear anti-roll bar; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Delay-off headlights; Fully automatic headlights; Panic alarm; Security system; Speed control; Bumpers: body-color; Power door mirrors; Apple CarPlay & Android Auto; Driver door bin; Driver vanity mirror; Front reading lights; Illuminated entry; Outside temperature display; Overhead console; Passenger vanity mirror; Rear seat center armrest; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Front Bucket Seats; Front Center Armrest; Split folding rear seat; YES Essentials Premium Cloth Seating Surfaces; Passenger door bin; Reversible Cargo Tray; 16 x 6.5J Aluminum Alloy Wheels; Alloy wheels; Speed-Sensitive Wipers; Variably intermittent wipers; See less

@@ -1,17 +1,17 @@
-Title: 2023 BMW X3 xDrive30i AWD
-Cash Price: $19,063
-Finance Price: $286/moEstimate
-Finance Details: $1,906 due at signing · 72 mo · 6.24% APR
-Exterior: Carbon Black Metallic
-Interior: Unknown
-Mileage: Bronx, NY (2468 miles away)
+Title: 2017 Hyundai Sonata Base 2.4L
+Cash Price: $5,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Shale Gray Metallic
+Interior: Gray
+Mileage: 124,250 miles
 Fuel Type: Gas
-MPG: 21 city / 28 highway
+MPG: 25 city / 36 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 24 days ago
-VIN: 5UX53DP03P9R83979
-Stock Number: 17616
-Features: Wheel Type; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation; Navigation System; Connected Package Pro; 12 Speakers; AM/FM Radio; See all features
+Drivetrain: FWD
+Engine: 2.4L Inline-4 Gas Inline
+Location: Winchester, VA
+Listed Since: 29 days ago
+VIN: 5NPE24AF0HH472496
+Stock Number: null
+Features: Option Group 01; Gray, Yes Essentials Premium Cloth Seating Surfaces; Wheel Type; Bluetooth; Door Handle Color - Body-Color; Exhaust Tip Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Metallic; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rear Spoiler - Lip; Rear Spoiler Color - Body-Color; Window Trim - Chrome; Steering Ratio - 14.3; Turns Lock-To-Lock - 2.8; Air Filtration; Door Sill Trim - Scuff Plate; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Interior Accents - Metallic-Tone; Armrests - Rear Folding; Armrests - Rear Center With Cupholders; Assist Handle - Front; Assist Handle - Rear; Center Console - Front Console With Armrest And Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Phone; Storage - Accessory Hook; Storage - Door Pockets; Storage - Front Seatback; Cupholders - 4; Power Outlet(S) - Three 12v Front; Power Steering - Variable/Speed-Proportional; Vanity Mirrors - Dual Illuminating; Multi-Function Remote - Panic Alarm; Steering Wheel Mounted Controls - Cruise Control; Cargo Area Light; Courtesy Lights - Door; Reading Lights - Front; One-Touch Windows - 1; Power Windows - Lockout Button; Steering Wheel Mounted Controls - Voice Control; Rearview Mirror - Manual Day/Night; Abs - 4-Wheel; Axle Ratio - 2.90; Braking Assist; Drive Mode Selector; Electronic Brakeforce Distribution; Front Brake Diameter - 12.0; Front Stabilizer Bar - Diameter 23 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 11.2; Rear Stabilizer Bar - Diameter 17 Mm; Rear Suspension Classification - Independent; Rear Suspension Type - Multi-Link; Stability Control; Traction Control; Front Shock Type - Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Gas; Rear Spring Type - Coil; Front Struts - Macpherson; Front Brake Type - Ventilated Disc; Rear Brake Type - Disc; Alternator - 150 Amps; Battery - Maintenance-Free; Battery Saver; Antenna Type - Diversity; Antenna Type - Mast; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; Digital Odometer; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; In-Dash Cd - Single Disc; Multi-Function Display; Radio - Am/Fm; Radio - Hd Radio; Radio - Touch Screen Display; Radio Data System; Satellite Radio - Siriusxm; Speed Sensitive Volume Control; Trip Odometer; Warnings And Reminders - Low Fuel Level; Warnings And Reminders - Low Oil Level; Electronic Messaging Assistance - With Read Function; Auxiliary Audio Input - Bluetooth; Wireless Data Link - Bluetooth; Internet Radio App - Pandora; In-Dash Cd - Mp3 Playback; See less

@@ -1,17 +1,17 @@
-Title: 2021 Kia K5 GT-Line AWD
-Cash Price: $13,796
-Finance Price: $223/moEstimate
-Finance Details: $1,380 due at signing · 72 mo · 8.81% APR
-Exterior: Glacier White Pearl
+Title: 2015 Honda Accord Hybrid EX-L Sedan
+Cash Price: $12,900
+Finance Price: $179/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Obsidian Blue Pearl
 Interior: Black
-Mileage: Norco, CA (54 miles away)
-Fuel Type: Gas
-MPG: 26 city / 34 highway
+Mileage: 103,808 miles
+Fuel Type: Hybrid
+MPG: 50 city / 45 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
+Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 135 days ago
-VIN: 5XXG64J23MG027329
-Stock Number: 027329
-Features: Black, Seat Trim; Wheel Locks; Carpeted Floor Mats; Wheel Type; Moonroof; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Rear Automatic emergency braking; Front Pedestrian Automatic emergency braking; Front Automatic emergency braking; Lane keeping assist; Check rear seat reminder; See all features
+Location: North Attleborough, MA
+Listed Since: 4 days ago
+VIN: 1HGCR6F53FA000166
+Stock Number: null
+Features: Wheel Type; Moonroof; Seat Material; Front Heated Seats; Climate Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; Door Handle Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; See all features

@@ -1,17 +1,17 @@
-Title: 2018 BMW Plug-In Hybrid 330e Sedan RWD
-Cash Price: $13,998
-Finance Price: $275/moEstimate
-Finance Details: $1,400 due at signing · 72 mo · 16.22% APR
-Exterior: Jet Black
-Interior: Black
-Mileage: Temecula, CA (2142 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Title: 2019 Lincoln MKT Reserve 3.5L AWD
+Cash Price: $17,045
+Finance Price: $251/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Infinite Black Metallic
+Interior: Charcoal Black
+Mileage: 72,106 miles
+Fuel Type: Gas
+MPG: 15 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 12 days ago
-VIN: WBA8E1C58JA756928
-Stock Number: JA756928A
-Features: 18" X 8" Double Spoke (Style 397) Wheels; Sport Seats; Black, Sensatec Upholstery; Convenience Package; Wheel Type; Moonroof; Seat Material; Climate Control; Backup Camera; Bluetooth; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; Climate Control; Multi-Zone A/C; A/C; Rear A/C; Security System; AM/FM Stereo; CD Player; ABS; 4-Wheel Disc Brakes; Cruise Control; Rear Defrost; Child Safety Locks; Rear Wheel Drive; 4 Cylinder Engine; Turbo/Supercharged; Floor Mats; Daytime Running Lights; Keyless Entry; Power Door Locks; Heated Mirrors; Power Mirror(s); Sunroof / Moonroof; Power Driver Seat; Power Passenger Seat; Pass-Through Rear Seat; Bucket Seats; Power Steering; Adjustable Steering Wheel; Tires - Front Performance; Tires - Rear Performance; Traction Control; Power Windows; Intermittent Wipers; Sunroof / Moonroof; Satellite Radio; MP3 Player; Fog Lamps; Variable Speed Intermittent Wipers; Rain Sensing Wipers; Steering Wheel Audio Controls; Engine Immobilizer; Automatic Headlights; Auto-Dimming Rearview Mirror; Integrated Turn Signal Mirrors; Driver Vanity Mirror; Passenger Vanity Mirror; Driver Illuminated Vanity Mirror; Passenger Illuminated Visor Mirror; Mirror Memory; Driver Adjustable Lumbar; Passenger Adjustable Lumbar; Seat Memory; Leather Steering Wheel; Transmission w/Dual Shift Mode; Remote Trunk Release; Tire Pressure Monitor; Trip Computer; Universal Garage Door Opener; Bluetooth; Telematics; 8-Speed A/T; Back-Up Camera; Stability Control; Brake Assist; Keyless Start; Auxiliary Audio Input; HD Radio; Headlights-Auto-Leveling; Hands-Free Liftgate; Smart Device Integration; Requires Subscription; See less
+Drivetrain: AWD
+Engine: 3.5L V-6 Gas V
+Location: Columbus, OH
+Listed Since: 39 days ago
+VIN: 2LMHJ5AT0KBL02363
+Stock Number: X9744
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Third Row Seating; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Turbocharged; All Wheel Drive; Active Suspension; Power Steering; ABS; See all features

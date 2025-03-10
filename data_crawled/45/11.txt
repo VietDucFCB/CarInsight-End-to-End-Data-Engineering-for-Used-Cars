@@ -1,17 +1,17 @@
-Title: 2021 Kia Forte LXS IVT
-Cash Price: $10,995
-Finance Price: $205/moEstimate
-Finance Details: $1,100 due at signing · 72 mo · 14.22% APR
-Exterior: Silky Silver
-Interior: Black
-Mileage: West Chester, OH (518 miles away)
+Title: 2017 Ford Focus SEL Sedan
+Cash Price: $7,995
+Finance Price: $95/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Blue Candy Metallic Tinted Clearcoat
+Interior: Charcoal Black
+Mileage: 91,590 miles
 Fuel Type: Gas
-MPG: 29 city / 40 highway
-Transmission: Automatic Transmission
+MPG: 26 city / 36 highway
+Transmission: Manual Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 106 days ago
-VIN: 3KPF24AD0ME345863
-Stock Number: 345863
-Features: Wheel Type; Apple CarPlay; Android Auto; Lane Keep Assist; Backup Camera; Bluetooth; Electronic Stability Control; F&R Head Curtain Air Bags; Alarm System; Dual Air Bags; ABS (4-Wheel); Air Conditioning; Power Door Locks; CD/MP3 (Single Disc); Steel Wheels; FWD; Power Steering; Keyless Entry; AM/FM Stereo; Power Windows; Tilt & Telescoping Wheel; Daytime Running Lights; 4-Cyl 2.0 Liter; Side Air Bags; Lane Departure Warning System; Cruise Control; Bluetooth Wireless; Automatic IVT; Hill Start Assist Control; See less
+Engine: 2.0L Inline-4 Gas Inline
+Location: Allentown, PA
+Listed Since: 69 days ago
+VIN: 1FADP3H26HL252419
+Stock Number: null
+Features: Equipment Group 250A; Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Active Grille Shutters; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Black With Chrome Accents; Mirror Color - Body-Color; See all features

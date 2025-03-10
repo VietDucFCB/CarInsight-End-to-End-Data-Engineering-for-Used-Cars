@@ -1,17 +1,17 @@
-Title: 2007 Lexus ES 350
-Cash Price: $6,526
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Smoky Granite Mica
-Interior: Cashmere
-Mileage: Seattle, WA (968 miles away)
+Title: 2020 Volkswagen Tiguan 2.0T SEL FWD
+Cash Price: $16,590
+Finance Price: $243/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Platinum Gray Metallic
+Interior: Titan Black
+Mileage: 41,338 miles
 Fuel Type: Gas
-MPG: 21 city / 30 highway
+MPG: 22 city / 29 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 89 days ago
-VIN: JTHBJ46G972027633
-Stock Number: 091562A
-Features: Wheel Type; Moonroof; Climate Control; 10-Way Power Front Bucket Seats; 17 x 7JJ 7-Spoke Aluminum Alloy Wheels; 4-Wheel Disc Brakes; 8 Speakers; ABS (4-wheel); ABS brakes; AM/FM 6-Disc In-Dash CD Changer; AM/FM radio; Air Conditioning; Air filtration; Airbag deactivation (occupant sensing passenger); Alloy wheels; Antenna type (diversity); Anti-theft system (alarm); Anti-theft system (vehicle immobilizer); Anti-whiplash front head restraints; Armrests (rear center folding with storage and pass-thru); Auto-dimming Rear-View mirror; Auto-dimming door mirrors; Automatic temperature control; Brake assist; Braking assist; Bumpers: body-color; CD player; Cargo area light; Center console (front console with storage); Center console trim (wood); Child safety door locks; Child seat anchors; Clock; Cloth Seat Trim; Compass; Cruise control; Cupholders (front); Cupholders (rear); Dash trim (wood); Daytime running lights; Delay-off headlights; Door trim (wood); Driver door bin; Driver seat power adjustments (10); Driver seat power adjustments (height); Driver seat power adjustments (lumbar); Driver seat power adjustments (reclining); Driver vanity mirror; Dual front impact airbags; Dual front side impact airbags; Electronic Stability Control; Electronic brakeforce distribution; Emergency interior trunk release; Exterior entry lights (approach lamps); External temperature display; First aid kit; Floor mat material (carpet); Four wheel independent suspension; Front Bucket Seats; Front Center Armrest w/Storage; Front air conditioning (automatic climate control); Front air conditioning zones (dual); Front airbags (dual); Front anti-roll bar; Front brake type (ventilated disc); Front dual zone A/C; Front fog lights; Front headrests (2); Front headrests (adjustable); Front reading lights; Front seat type (bucket); Front shock type (gas); Front spring type (coil); Front stabilizer bar; Front struts (MacPherson); Front suspension classification (independent); Front suspension type (lower control arms); Front wipers (intermittent); Fully automatic headlights; Garage door transmitter: HomeLink; Gauge (tachometer); Genuine wood console insert; Genuine wood door panel insert; Grille color (chrome); Headlights (auto delay off); Headlights (auto on); Heated door mirrors; Illuminated entry; In-Dash CD (6 disc); Knee airbag; Knee airbags (dual front); Leather Shift Knob; Leather steering wheel; Low tire pressure warning; Moonroof / Sunroof (one-touch open/close); Moonroof / Sunroof (power glass); Multi-function remote (proximity entry system); Multi-function remote (trunk release); Occupant sensing airbag; One-touch windows (4); Outside temperature display; Overhead airbag; Overhead console; See less
+Engine: 2.0L Inline-4 Gas Inline
+Location: Fort Myers, FL
+Listed Since: 160 days ago
+VIN: 3VV3B7AX5LM089093
+Stock Number: 23801A
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Third Row Seating; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation system: VW Car-Net Guide & Inform; 6 Speakers; AM/FM radio: SiriusXM; Radio data system; Radio: Discover Media AM/FM/HD; See all features

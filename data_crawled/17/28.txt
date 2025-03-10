@@ -1,17 +1,17 @@
-Title: 2019 Ford F-150 XLT Regular Cab 8' Box 2WD
-Cash Price: $13,999
-Finance Price: $261/moEstimate
-Finance Details: $1,400 due at signing · 72 mo · 14.22% APR
-Exterior: White
-Interior: Gray
-Mileage: Smyrna, GA (1937 miles away)
+Title: 2024 Ford Escape Active FWD
+Cash Price: $21,991
+Finance Price: $336/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Ebony
+Mileage: 2,293 miles
 Fuel Type: Gas
-MPG: 19 city / 25 highway
+MPG: 27 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.3L V-6 Gas V
-Location: N/A
-Listed Since: Listed 91 days ago
-VIN: 1FTMF1CB9KKC92094
-Stock Number: C92094
-Features: Engine: 3.3L V6 PFDI -inc: auto start-stop technology and flex-fuel capability; 3.55 Axle Ratio; Rear-Wheel Drive; 70-Amp/Hr 610CCA Maintenance-Free Battery w/Run Down Protection; 200 Amp Alternator; Towing Equipment -inc: Trailer Sway Control; Trailer Wiring Harness; HD Shock Absorbers; Front Anti-Roll Bar; Electric Power-Assist Speed-Sensing Steering; 23 Gal. Fuel Tank; Single Stainless Steel Exhaust; Double Wishbone Front Suspension w/Coil Springs; Solid Axle Rear Suspension w/Leaf Springs; 4-Wheel Disc Brakes w/4-Wheel ABS- Front And Rear Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake; Regular Box Style; Steel Spare Wheel; Full-Size Spare Tire Stored Underbody w/Crankdown; Clearcoat Paint; Black Side Windows Trim; Black Door Handles; Fixed Rear Window; Variable Intermittent Wipers; Aluminum Panels; Tailgate Rear Cargo Access; Cargo Lamp w/High Mount Stop Light; Headlights-Automatic Highbeams; Fixed Antenna; 4-Way Driver Seat -inc: Manual Recline and Fore/Aft Movement; 4-Way Passenger Seat -inc: Manual Recline and Fore/Aft Movement; Manual Tilt/Telescoping Steering Column; Gauges -inc: Speedometer- Odometer- Voltmeter- Oil Pressure- Engine Coolant Temp- Tachometer- Transmission Fluid Temp and Trip Odometer; Front Cupholder; Compass; Manual Air Conditioning; Illuminated Locking Glove Box; Full Cloth Headliner; Urethane Gear Shifter Material; Day-Night Rearview Mirror; 2 12V DC Power Outlets; Fade-To-Off Interior Lighting; Pickup Cargo Box Lights; Outside Temp Gauge; Analog Appearance; Securilock Anti-Theft Ignition (pats) Immobilizer; Air Filtration; Side Impact Beams; Dual Stage Driver And Passenger Seat-Mounted Side Airbags; Ford Co-Pilot360 - Pre-Collision Assist with Automatic Emergency Braking (AEB); Collision Mitigation-Front; Tire Specific Low Tire Pressure Warning; Dual Stage Driver And Passenger Front Airbags; Safety Canopy System Curtain 1st Row Airbags; Airbag Occupancy Sensor; Outboard Front Lap And Shoulder Safety Belts -inc: Height Adjusters and Pretensioners; Back-Up Camera; See less
+Drivetrain: FWD
+Engine: 1.5L Inline-3 Gas Inline
+Location: Sebring, FL
+Listed Since: 39 days ago
+VIN: 1FMCU0GN1RUB33659
+Stock Number: RL361095B
+Features: Equipment Group 200A; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Side Impact Beams; Dual Stage Driver And Passenger Seat-Mounted Side Airbags; BLIS (Blind Spot Information System) Blind Spot; Pre-Collision Assist with Automatic Emergency Braking (AEB); Driver Monitoring-Alert; See all features

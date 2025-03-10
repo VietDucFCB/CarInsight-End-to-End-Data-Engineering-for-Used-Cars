@@ -1,17 +1,17 @@
-Title: 2022 Jeep Wrangler Unlimited Sahara 4xe
-Cash Price: $29,995
-Finance Price: $477/moEstimate
-Finance Details: $3,000 due at signing · 72 mo · 8.31% APR
-Exterior: High Velocity Clearcoat
+Title: 2018 Audi Q7 Premium Plus 3.0S
+Cash Price: $16,075
+Finance Price: $234/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Orca Black Metallic
 Interior: Black
-Mileage: Bel Air, MD (2340 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Mileage: 85,319 miles
+Fuel Type: Gas
+MPG: 19 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 17 days ago
-VIN: 1C4JJXP63NW264595
-Stock Number: RCJ1656
-Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29P; 20" X 8" Fully Painted Aluminum Wheels; Black, Premium Mckinley Trimmed Seats; Advanced Safety Group; Safety Group; Trailer Tow & HD Electrical Group; Anti Spin Differential Rear Axle; Body Color 3 Piece Hard Top; Mopar Doors Off Mirror Kit; Front License Plate Bracket; Corning Gorilla Glass; Mopar All Weather Floor Mats; Mopar Grab Handle Kit; Mopar Hinge Gate Reinforcement; See less; Wheel Type; Premium Audio; Navigation; Seat Material; Climate Control; See all features; Navigation System; 9 Speakers; AM/FM radio; Radio data system; Radio: Uconnect 4C Nav w/8.4'' Display; See all features
+Drivetrain: AWD
+Engine: 3.0L V-6 Gas V
+Location: Freeport, NY
+Listed Since: 18 days ago
+VIN: WA1LAAF75JD021077
+Stock Number: P1077
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Third Row Seating; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; ABS; 4-Wheel Disc Brakes; 8-Speed A/T; A/C; A/T; See all features

@@ -1,17 +1,17 @@
-Title: 2024 BMW iX xDrive50
-Cash Price: $60,000
-Finance Price: $914/moEstimate
-Finance Details: $6,000 due at signing · 72 mo · 6.74% APR
-Exterior: Black Sapphire Metallic
-Interior: Black
-Mileage: Bay Shore, NY (661 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2023 Toyota Tacoma SR5 Access Cab 6' Bed V6 2WD Automatic
+Cash Price: $24,999
+Finance Price: $388/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ice Cap
+Interior: Cement
+Mileage: 45,812 miles
+Fuel Type: Gas
+MPG: 19 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 71 days ago
-VIN: WB523CF0XRCP98913
-Stock Number: SB7835T
-Features: 22" X 9.5" Aero Bi Color (Style 1020) Wheels; Driving Assistance Professional Package; Sport Package; Premium Package; Complimentary Public Charging Program; Front Ventilated Seats; Multi Functional Seats; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Navigation; Navigation System; Connected Package Pro; Driving Assistance Professional Package; Premium Package; See all features
+Drivetrain: RWD
+Engine: 3.5L V-6 Gas V
+Location: Fayetteville, AR
+Listed Since: 62 days ago
+VIN: 3TYRZ5CNXPT025694
+Stock Number: G6257
+Features: Wheel Type; Apple CarPlay; Android Auto; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; Tow Hitch; See less; Rear Wheel Drive; Tow Hitch; Power Steering; ABS; Front Disc/Rear Drum Brakes; See all features

@@ -1,17 +1,17 @@
-Title: 2021 Ford F-150 XLT SuperCrew 6.5' Box 4WD
-Cash Price: $23,500
-Finance Price: $358/moEstimate
-Finance Details: $2,350 due at signing · 72 mo · 6.74% APR
-Exterior: Oxford White
-Interior: Black/Medium Dark Slate
-Mileage: Draper, UT (1839 miles away)
+Title: 2017 INFINITI QX30 Premium AWD (alt)
+Cash Price: $12,250
+Finance Price: $168/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Graphite Shadow
+Interior: Wheat
+Mileage: 56,329 miles
 Fuel Type: Gas
-MPG: 16 city / 22 highway
+MPG: 21 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 83 days ago
-VIN: 1FTFW1E88MKE82403
-Stock Number: SFL243045A
-Features: Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 6 Speakers; AM/FM radio; Radio data system; Radio: AM/FM Stereo w/6 Speakers; Air Conditioning; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Grove City, OH
+Listed Since: 131 days ago
+VIN: SJKCH5CR3HA023269
+Stock Number: 60090
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation Package; 10 Speakers; AM/FM radio: SiriusXM; CD player; Radio data system; See all features

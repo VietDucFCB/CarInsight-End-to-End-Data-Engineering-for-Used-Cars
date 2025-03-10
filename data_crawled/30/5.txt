@@ -1,17 +1,17 @@
-Title: 2024 Nissan Sentra SV
-Cash Price: $17,888
-Finance Price: $274/moEstimate
-Finance Details: $1,789 due at signing · 72 mo · 6.99% APR
-Exterior: Aspen White Tricoat
-Interior: Sv Premium
-Mileage: Dallas, TX (977 miles away)
+Title: 2008 Ford F-150 Limited SuperCrew 5.5' Box 4WD
+Cash Price: $8,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: White
+Interior: Beige
+Mileage: 99,336 miles
 Fuel Type: Gas
-MPG: 30 city / 40 highway
+MPG: 13 city / 17 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 3N1AB8CV7RY382151
-Stock Number: 382151
-Features: SV Premium Package; All Weather Package; Technical Spec Change 2; Body Colored Splash Guards (4 Piece); Clear Rear Bumper Protector; Carpeted Floor Mats with Trunk Mat; Nissan Usb Charging Cable Set; Door Sill Plates; See less; Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; See all features
+Drivetrain: 4WD
+Engine: 5.4L V-8 Gas V
+Location: Columbus, OH
+Listed Since: 54 days ago
+VIN: 1FTRW14508FA62668
+Stock Number: A62668
+Features: 

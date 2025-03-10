@@ -1,17 +1,17 @@
-Title: 2014 Ford Fusion Energi Titanium FWD
-Cash Price: $9,500
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Tuxedo Black Metallic
-Interior: Charcoal Black
-Mileage: Tacoma, WA (2426 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: 95 city / 81 highway
+Title: 2017 Dodge Grand Caravan GT
+Cash Price: $8,995
+Finance Price: $112/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Black
+Mileage: 118,119 miles
+Fuel Type: Gas
+MPG: 17 city / 25 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 3FA6P0SU4ER142418
-Stock Number: 7339
-Features: Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Air filtration; Front air conditioning: automatic climate control; Front air conditioning zones: dual; Rear vents: second row; Airbag deactivation: occupant sensing passenger; See all features
+Engine: 3.6L V-6 Gas V
+Location: Colorado Springs, CO
+Listed Since: 83 days ago
+VIN: 2C4RDGEG4HR697734
+Stock Number: 3705
+Features: Remote Start; Leather Seats; Bluetooth; Backup Camera; OEM roof height: undefined; Driver seat power adjustments: height  lumbar; reclining; 8; Front headrests: adjustable  2; Front seat type: bucket; Passenger seat power adjustments: height  reclining; 8; Rear headrests: adjustable  2; Rear seat folding: fold flat into floor; Rear seat manual adjustments: reclining; Rear seat type: bucket; Third row headrests: 3; Third row seat folding: fold flat into floor  split; Third row seat type: 40-60 split bench; Upholstery: leather-trimmed; ABS: 4-wheel; Braking assist:; Electronic brakeforce distribution:; Front brake diameter: 13.0; Front brake type: ventilated disc; Front brake width: 1.1; Power brakes:; Rear brake diameter: 12.9; Rear brake type: disc; Rear brake width: 0.47; Alternator: 160 amps; Auxiliary oil cooler:; Battery: maintenance-free; Battery rating: 730 CCA; Battery saver:; Emissions: 50 state; Daytime running lights:; Front fog lights:; Headlights: auto delay off  auto on/off; halogen; quad headlights; Active head restraints: dual front; Automatic hazard warning lights:; Camera system: rearview; Child safety door locks:; Child seat anchors: LATCH system; Crumple zones: front  rear; Impact sensor: post-collision safety system; Rearview monitor: in dash; Airbag deactivation: occupant sensing passenger; Front airbags: dual; Knee airbags: driver; Side airbags: front; Side curtain airbags: front  rear; third row; Side mirror adjustments: manual folding  power; Side mirrors: heated; Front wipers: variable intermittent; Liftgate window: fixed; Power windows:; Rear quarter windows: power; Rear wiper: intermittent  with washer; Solar-tinted glass:; Window defogger: rear; Anti-theft system: alarm  vehicle immobilizer; Power door locks: auto-locking; Steering ratio: 14.3; Turns lock-to-lock: 2.90; Emergency locking retractors: front; Front seatbelts: 3-point; Rear seatbelts: 3-point; Seatbelt force limiters: front; Seatbelt pretensioners: front; Seatbelt warning sensor: front; Third row seatbelts: 3-point; Axle ratio: 3.16; Front shock type: gas; Front spring type: coil; Front stabilizer bar:; Front struts: MacPherson; Front suspension classification: independent; Front suspension type: lower control arms; Rear shock type: gas; Rear spring type: coil; Rear suspension classification: semi-independent; Rear suspension type: torsion beam; Tuned suspension: sport; Wireless data link: Bluetooth; Antenna type: diversity  mast; Auxiliary audio input: Bluetooth  USB; jack; Hard drive: 40GB; Premium brand: Infinity; Radio: AM/FM  touch screen display; voice operated; Radio data system:; Satellite radio: SiriusXM; Subwoofer: 1; Total speakers: 9; Watts: 506; See less

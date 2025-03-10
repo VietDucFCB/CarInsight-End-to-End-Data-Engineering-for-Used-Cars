@@ -1,17 +1,17 @@
-Title: 2003 Buick Century Custom
-Cash Price: $3,800
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Sterling Silver Metallic
-Interior: Medium Gray
-Mileage: Hopkinsville, KY (511 miles away)
+Title: 2018 INFINITI QX30 2018.5 LUXE FWD
+Cash Price: $10,999
+Finance Price: $147/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black Obsidian
+Interior: Graphite
+Mileage: 93,451 miles
 Fuel Type: Gas
-MPG: 20 city / 29 highway
+MPG: 24 city / 33 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: 3.1L V-6 Gas V
-Location: N/A
-Listed Since: Listed 16 days ago
-VIN: 2G4WS52J831280360
-Stock Number: 1280360
-Features: Climate Control; Driver Air Bag; Passenger Air Bag; Multi-Zone A/C; A/C; AM/FM Stereo; Front Disc/Rear Drum Brakes; Rear Defrost; Daytime Running Lights; Keyless Entry; Power Door Locks; Power Mirror(s); Power Driver Seat; Cloth Seats; Split Bench Seat; Adjustable Steering Wheel; Power Windows; Intermittent Wipers; Engine Immobilizer; Automatic Headlights; Front Reading Lamps; Remote Trunk Release; See less
+Engine: 2.0L Inline-4 Gas Inline
+Location: Dallas, TX
+Listed Since: 77 days ago
+VIN: SJKCH5CP3JA005066
+Stock Number: 2412-05066
+Features: Graphite, Leatherette/Textile Seat Trim; Rear Bumper Protector; Splash Guards; Illuminated Kick Plates; Wheel Type; Moonroof; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less; Heated Seats; Cruise Control; Panorama Moon Roof; 4-Cyl Turbo 2.0 Liter; Backup Camera; See all features

@@ -1,17 +1,17 @@
-Title: 2019 BMW 540i RWD
-Cash Price: $18,345
-Finance Price: $272/moEstimate
-Finance Details: $1,835 due at signing · 72 mo · 5.74% APR
-Exterior: Black Sapphire Metallic
-Interior: Black
-Mileage: Columbus, GA (1932 miles away)
+Title: 2019 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $16,900
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Oxford White
+Interior: Medium Earth Gray
+Mileage: 142,250 miles
 Fuel Type: Gas
-MPG: 21 city / 29 highway
+MPG: 18 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 19 days ago
-VIN: WBAJE5C54KWW27596
-Stock Number: KWW27596
-Features: Wheel Type; Moonroof; Navigation; Apple CarPlay; Seat Material; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Sun/Moonroof; Leather Seats; Navigation System; Keyless Start
+Drivetrain: 4WD
+Engine: 5.0L V-8 Gas V
+Location: Houston, TX
+Listed Since: 113 days ago
+VIN: 1FTEW1E58KKF27144
+Stock Number: null
+Features: XLT Chrome Appearance Package; Engine: 5.0L V8; Electronic Locking with 3.31 Axle Ratio; Front License Plate Bracket; Voice Activated Touchscreen Navigation; Class IV Trailer Hitch Receiver; Power Glass Heated Sideview Mirrors; FX4 Off Road Package; Extended Range 36 Gallon Fuel Tank; XLT Power Equipment Group; Reverse Sensing System; Medium Light Camel, Cloth 40/Console/40 Front Seats; Equipment Group 302A Luxury; See less; Wheel Type; Navigation; Apple CarPlay; Android Auto; Front Heated Seats; See all features; Active Grille Shutters; Door Handle Color - Black; Front Bumper Color - Chrome; Grille Color - Black Surround; Grille Color - Chrome; See all features

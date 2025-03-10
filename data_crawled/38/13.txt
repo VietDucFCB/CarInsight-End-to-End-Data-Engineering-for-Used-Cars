@@ -1,17 +1,17 @@
-Title: 2018 GMC Terrain SLT Diesel FWD
-Cash Price: $11,285
-Finance Price: $210/moEstimate
-Finance Details: $1,129 due at signing · 72 mo · 14.22% APR
-Exterior: Summit White
-Interior: Jet Black
-Mileage: Kernersville, NC (230 miles away)
-Fuel Type: Diesel
-MPG: 28 city / 39 highway
+Title: 2001 Mercedes-Benz CL 500
+Cash Price: $9,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Brilliant Silver Metallic
+Interior: Gray
+Mileage: 45,904 miles
+Fuel Type: Gas
+MPG: 16 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 52 days ago
-VIN: 3GKALREU5JL251892
-Stock Number: 240971C
-Features: Engine, 1.6L Turbo Diesel Dohc 4 Cylinder; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Axle, 2.89 Final Drive Ratio; SLT Diesel Preferred Equipment Group; Seats, Front Bucket; Jet Black, Perforated Leather Appointed Seat Trim; Audio System, 8" Diagonal GMC Infotainment System With Navigation; Infotainment Package II; Driver Alert Package I; Cargo Package; Radio, HD; Bose Sound System Premium 7 Speaker System; Cargo Net, Vertical; Cargo Shade, Retractable; Integrated Cargo Liner; Rear Cross Traffic Alert; Lane Change Alert With Side Blind Zone Alert; Rear Park Assist; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; See all features; Cargo Package (LPO); Driver Alert Package I; Infotainment Package II; Memory Package; Preferred Equipment Group 4SB; See all features
+Drivetrain: RWD
+Engine: 5.0L V-8 Gas V
+Location: La Crescenta, CA
+Listed Since: 41 days ago
+VIN: WDBPJ75J01A012570
+Stock Number: CF2818
+Features: 

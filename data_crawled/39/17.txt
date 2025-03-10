@@ -1,17 +1,17 @@
-Title: 2016 Buick Enclave Leather FWD
-Cash Price: $8,250
+Title: 2003 BMW 745Li
+Cash Price: $5,995
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Ebony Twilight Metallic
-Interior: Ebony With Ebony Interior Accents
-Mileage: Tuscon, AZ (1796 miles away)
+Exterior: Titanium Silver Metallic
+Interior: Basalt Gray/Stone Green
+Mileage: 122,438 miles
 Fuel Type: Gas
-MPG: 15 city / 22 highway
+MPG: 18 city / 26 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 47 days ago
-VIN: 5GAKRBKD8GJ180151
-Stock Number: X180151
-Features: Engine, 3.6L Variable Valve Timing V6 With Sidi (Spark Ignition Direct Injection), Dohc; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; 1SL Preferred Equipment Group; Wheels, 19" (48.3 CM) 10 Spoke Aluminum; Tires, P255/60R19 108S All Season, Blackwall, Michelin; Seating, 7 Passenger, Front Bucket; Ebony With Ebony Interior Accents, Perforated Leather Seating Surface; Audio System, Color Touch Navigation Radio With Intellilink; Buick Interior Protection Package; License Plate Bracket, Front Mounting Package; Moonroof, Power; Audio System Feature, Bose Performance Enhanced Premium; Audio System Controls, Rear With Headphone Jacks And Display; Navtraffic.; All Weather Floor Mats, First And Second Row; All Weather Floor Mats, Third Row; Cargo Mat, All Weather; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Daytime Running Lights; Auto 6-Spd Overdrive; AM/FM Stereo; Power Door Locks; Keyless Start; See all features
+Drivetrain: RWD
+Engine: 4.4L V-8 Gas V
+Location: Dalton, GA
+Listed Since: 22 days ago
+VIN: WBAGN63403DR14731
+Stock Number: 12252
+Features: 

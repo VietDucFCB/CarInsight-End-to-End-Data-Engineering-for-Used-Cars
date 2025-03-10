@@ -1,17 +1,17 @@
-Title: 2020 Kia Optima LX Automatic
-Cash Price: $12,252
-Finance Price: $191/moEstimate
-Finance Details: $1,225 due at signing · 72 mo · 7.49% APR
-Exterior: Horizon Blue
-Interior: Black
-Mileage: Fort Myers, FL (441 miles away)
+Title: 2019 Mercedes-Benz A 220 FWD
+Cash Price: $12,797
+Finance Price: $177/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Digital White Metallic
+Interior: Unknown
+Mileage: 83,379 miles
 Fuel Type: Gas
-MPG: 24 city / 32 highway
+MPG: 24 city / 35 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 105 days ago
-VIN: 5XXGT4L39LG391770
-Stock Number: CU348
-Features: Black, Cloth Seat Trim; Carpet Floor Mats; Wheel Type; Apple CarPlay; Android Auto; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 4 Cylinder Engine; ABS; 4-Wheel Disc Brakes; 6-Speed A/T; A/C; See all features
+Engine: 2.0L Inline-4 Gas Inline
+Location: South Amboy, NJ
+Listed Since: 17 days ago
+VIN: WDD3G4EB8KW014289
+Stock Number: 10701
+Features: Wheel Type; Moonroof; Apple CarPlay; Android Auto; Seat Material; Remote Engine Start; Climate Control; Backup Camera; Bluetooth; See less; Cruise Control; Dual Air Bags; Mercedes me; Dual Power Seats; Automatic 7-Spd w/7G-DCT; See all features

@@ -1,17 +1,17 @@
-Title: 2015 Buick Regal 2.0T FWD
-Cash Price: $6,500
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Black Onyx
-Interior: Ebony
-Mileage: El Cajon, CA (2140 miles away)
-Fuel Type: Gas
-MPG: 21 city / 30 highway
+Title: 2017 FIAT 500e Hatchback
+Cash Price: $8,500
+Finance Price: $103/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bianco Perla (Pearl White Tri-Coat)
+Interior: Black
+Mileage: 33,459 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 11 days ago
-VIN: 2G4GK5EX4F9147329
-Stock Number: 147329
-Features: Engine, 2.0L Turbo Dohc 4 Cylinder Sidi With Variable Valve Timing (VVT); Transmission, 6 Speed Automatic; Axle, 2.77 Final Drive Ratio; Preferred Equipment Group; Wheels, 18" (45.7 CM) Painted Alloy; Seats, Front Bucket; Ebony, Leather Appointed Seats; Audio System, Buick Intellilink Radio With Navigation, Am/FM Stereo And CD Player; License Plate Bracket, Front; See less; Wheel Type; Navigation; Seat Material; Front Heated Seats; Climate Control; See all features; 6-speed a/t; 2.0l turbo dohc 4-cylinder sidi with variable valve timing (vvt) (259 hp [193.0 kw] @ 5300 rpm; 295 lb-ft of torque [400 n-m] @ 3000 - 4000 rpm [2500 - 4000 rpm for gs]); front wheel drive; air bag; See all features
+Location: Daly City, CA
+Listed Since: 18 days ago
+VIN: 3C3CFFGE6HT505902
+Stock Number: 505902
+Features: Quick Order Package 2ej; 15" X 5.5" FR & 15" X 6.5" RR Wheels; Black, Leatherette Bucket Seats; Esport Package; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Parking Sensors; Bluetooth; See less; 1-Speed A/T; ABS; 4-Wheel Disc Brakes; A/C; A/T; See all features

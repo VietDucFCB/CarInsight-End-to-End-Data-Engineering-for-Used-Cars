@@ -1,17 +1,17 @@
-Title: 2022 Jeep Wrangler Unlimited Sahara 4xe
-Cash Price: $30,490
-Finance Price: $455/moEstimate
-Finance Details: $3,049 due at signing · 72 mo · 5.99% APR
-Exterior: Black Clearcoat
-Interior: Black
-Mileage: Quakertown, PA (586 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Title: 2020 Ford Fusion SE AWD
+Cash Price: $11,476
+Finance Price: $155/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Medium Light Stone
+Mileage: 107,292 miles
+Fuel Type: Gas
+MPG: 20 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 12 days ago
-VIN: 1C4JJXP6XNW158581
-Stock Number: PM158581
-Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29P; 20" X 8" Fully Painted Aluminum Wheels; Black, Premium Mckinley Trimmed Seats; Cold Weather Group; Black 3 Piece Hard Top; Remote Start System; See less; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; See all features; TRANSMISSION: 8-SPEED AUTO 8P75PH PHEV  (STD); ENGINE: 2.0L I4 DOHC DI TURBO PHEV  (STD); BLACK CLEARCOAT; COLD WEATHER GROUP  -inc: Heated Steering Wheel  Remote Start System  Heated Front Seats; BLACK 3-PIECE HARD TOP  -inc: Freedom Panel Storage Bag  Rear Window Defroster  Rear Window Wiper/Washer  No Soft Top; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Naperville, IL
+Listed Since: 8 days ago
+VIN: 3FA6P0T93LR119008
+Stock Number: 3P2921A
+Features: Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features

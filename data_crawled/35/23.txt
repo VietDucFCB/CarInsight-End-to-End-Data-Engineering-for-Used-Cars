@@ -1,17 +1,17 @@
-Title: 2017 Ford F-150 XLT SuperCrew 5.5' Box 4WD
-Cash Price: $17,990
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Shadow Black
-Interior: Medium Earth Gray
-Mileage: Fairless Hills, PA (584 miles away)
-Fuel Type: Gas
-MPG: 17 city / 23 highway
+Title: 2018 Tesla Model X P100D
+Cash Price: $31,689
+Finance Price: $503/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Pearl White Multi-Coat
+Interior: Cream
+Mileage: 46,980 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 271 days ago
-VIN: 1FTEW1EG3HFB97657
-Stock Number: GSB97657
-Features: XLT Chrome Appearance Package; Engine: 3.5L V6 Ecoboost; Transmission: Electronic 10 Speed Automatic; Tires: P275/55R20 BSW At; Electronic Locking with 3.55 Axle Ratio; Transmission: Electronic 6 Speed Automatic; Voice Activated Navigation; Max Trailer Tow Package; Power Glass Heated Sideview Mirrors; FX4 Off Road Package; Equipment Group 302A Luxury; See less; Wheel Type; Navigation; Front Heated Seats; Remote Engine Start; Backup Camera; See all features; Electronic Transfer Case; 70-Amp/Hr 610CCA Maintenance-Free Battery w/Run Down Protection; 200 Amp Alternator; HD Shock Absorbers; Front Anti-Roll Bar; See all features
+Drivetrain: AWD
+Engine: N/A
+Location: Highland Park, IL
+Listed Since: 95 days ago
+VIN: 5YJXCAE28JF113980
+Stock Number: 25968G
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Navigation System; Enhanced Autopilot; 17 Speakers; Radio data system; Radio: FM w/Custom Audio System; See all features

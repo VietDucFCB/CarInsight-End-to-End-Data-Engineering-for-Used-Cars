@@ -1,17 +1,17 @@
-Title: 2019 Nissan Sentra S CVT
-Cash Price: $10,998
-Finance Price: $205/moEstimate
-Finance Details: $1,100 due at signing · 72 mo · 14.22% APR
-Exterior: Super Black
-Interior: Charcoal
-Mileage: Houston, TX (943 miles away)
+Title: 2022 Mitsubishi Mirage ES CVT
+Cash Price: $8,397
+Finance Price: $102/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Gray
+Mileage: 51,952 miles
 Fuel Type: Gas
-MPG: 27 city / 35 highway
+MPG: 36 city / 43 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 17 days ago
-VIN: 3N1AB7AP7KY364382
-Stock Number: Y364382
-Features: Charcoal, Cloth Seat Trim; Carpeted Floor Mats with Trunk Mat; Backup Camera; Bluetooth; SUPER BLACK; CHARCOAL  CLOTH SEAT TRIM; [L92] CARPETED FLOOR MATS W/TRUNK MAT; Front Wheel Drive; Power Steering; ABS; Front Disc/Rear Drum Brakes; Brake Assist; Wheel Covers; Steel Wheels; Tires - Front Performance; Tires - Rear Performance; Temporary Spare Tire; Power Mirror(s); Rear Defrost; Intermittent Wipers; Variable Speed Intermittent Wipers; Automatic Headlights; AM/FM Stereo; MP3 Capability; Steering Wheel Audio Controls; Bluetooth Connection; Auxiliary Audio Input; Bucket Seats; Pass-Through Rear Seat; Rear Bench Seat; Adjustable Steering Wheel; Trip Computer; Power Windows; Keyless Entry; Power Door Locks; Remote Trunk Release; Cruise Control; A/C; Cloth Seats; Driver Vanity Mirror; Passenger Vanity Mirror; Power Windows; Power Door Locks; Trip Computer; Immobilizer; Traction Control; Stability Control; Traction Control; Front Side Air Bag; Tire Pressure Monitor; Driver Air Bag; Passenger Air Bag; Front Head Air Bag; Rear Head Air Bag; Passenger Air Bag Sensor; Child Safety Locks; Back-Up Camera; See less
+Engine: 1.2L Inline-3 Gas Inline
+Location: South Amboy, NJ
+Listed Since: 54 days ago
+VIN: ML32AUHJ6NH001613
+Stock Number: 10584
+Features: Automatic CVT; Traction Control; Power Windows; Roof Spoiler; ABS (4-Wheel); Knee Air Bags; Hard Tonneau Cover; AM/FM Stereo; Steel Wheels; Backup Camera; Dual Air Bags; FWD; Side Air Bags; Collision Warning; 3-Cyl 1.2 Liter; Power Door Locks; Air Conditioning; Bluetooth Wireless; Hill Start Assist Control; F&R Head Curtain Air Bags; Keyless Entry; Cruise Control; Power Steering; Active Stability Control; See less

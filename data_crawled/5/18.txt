@@ -1,17 +1,17 @@
-Title: 2023 Ford Escape Plug-In Hybrid FWD
-Cash Price: $28,095
-Finance Price: $457/moEstimate
-Finance Details: $2,810 due at signing · 72 mo · 9.09% APR
-Exterior: Iconic Silver Metallic
-Interior: Ebony
-Mileage: Fort Wayne, IN (1875 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Title: 2018 Mercedes-Benz Metris Passenger Van Standard Roof 126" Wheelbase
+Cash Price: $12,999
+Finance Price: $181/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 103,630 miles
+Fuel Type: Gas
+MPG: 19 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 22 days ago
-VIN: 1FMCU0E11PUA83262
-Stock Number: WP7904
-Features: Phev Premium Package; Equipment Group 700A; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation system: Connected Navigation; Equipment Group 700A; Memory Package; PHEV Premium Package; 6 Speakers; See all features
+Drivetrain: RWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Garfield, NJ
+Listed Since: 283 days ago
+VIN: WD4PG2EE3J3353185
+Stock Number: 353185-85
+Features: Backup Camera; Hill Start Assist; 7-Passenger Seating; Bluetooth Wireless; CD/MP3 (Single Disc); Dual Air Bags; 4-Cyl Turbo 2.0 Liter; Tilt Wheel; Air Conditioning; AM/FM Stereo; F&R Head Curtain Air Bags; Steel Wheels; Power Windows; Automatic 7-Spd 7G-Tronic; RWD; Electromechanical Steering; Electronic Stability Program; Air Conditioning Rear; Side Air Bags; See less

@@ -1,17 +1,17 @@
-Title: 2022 Tesla Model 3 Long Range AWD
-Cash Price: $16,997
-Finance Price: $317/moEstimate
-Finance Details: $1,700 due at signing · 72 mo · 14.22% APR
-Exterior: Deep Blue Metallic
-Interior: Black
-Mileage: Orlando, FL (2216 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2023 Nissan Sentra SV
+Cash Price: $16,998
+Finance Price: $250/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Super Black
+Interior: Charcoal
+Mileage: 4,358 miles
+Fuel Type: Gas
+MPG: 29 city / 39 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 310 days ago
-VIN: 5YJ3E1EBXNF189229
-Stock Number: 189229
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Fog Lights; Alarm System; Single-Speed Fixed Gear; Tilt & Telescoping Wheel; Dual Electric Motors; See all features
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Murrieta, CA
+Listed Since: 20 days ago
+VIN: 3N1AB8CV9PY239263
+Stock Number: 239263
+Features: All Weather Package; Trunk Package; Body Colored Splash Guards (4 Piece); Carpeted Floor Mats with Trunk Mat; Door Sill Plates; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; [B92] Body Colored Splash Guards (4-Piece); [C03] 50 State Emissions; [L92] Carpeted Floor Mats W/Trunk Mat; [M92] Trunk Package; [N94] Door Sill Plates; See all features

@@ -1,17 +1,17 @@
-Title: 2017 INFINITI QX30 Premium AWD (alt)
-Cash Price: $12,450
-Finance Price: $188/moEstimate
-Finance Details: $1,245 due at signing · 72 mo · 6.49% APR
-Exterior: Graphite Shadow
-Interior: Wheat
-Mileage: Grove City, OH (520 miles away)
+Title: 2017 Ford Escape S FWD
+Cash Price: $6,699
+Finance Price: $72/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Shadow Black
+Interior: Charcoal Black
+Mileage: 109,352 miles
 Fuel Type: Gas
-MPG: 21 city / 30 highway
+MPG: 21 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 124 days ago
-VIN: SJKCH5CR3HA023269
-Stock Number: 60090
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation Package; 10 Speakers; AM/FM radio: SiriusXM; CD player; Radio data system; See all features
+Drivetrain: FWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Garland, TX
+Listed Since: 144 days ago
+VIN: 1FMCU0F7XHUC59889
+Stock Number: A4057
+Features: Equipment Group 100A; Backup Camera; Bluetooth; Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; AM/FM CD/MP3; Sentry Key; Keyless Entry; Alarm; Daytime Running Lights; Dual Front Airbags; Side Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts; All Wheel ABS; See less

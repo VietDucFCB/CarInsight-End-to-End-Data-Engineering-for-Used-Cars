@@ -1,17 +1,17 @@
-Title: 2021 Toyota Corolla LE CVT
-Cash Price: $14,500
-Finance Price: $229/moEstimate
-Finance Details: $1,450 due at signing · 72 mo · 7.99% APR
-Exterior: Black Sand Pearl
-Interior: Light Gray
-Mileage: Hillside, NJ (632 miles away)
+Title: 2012 Audi A8 L 4.2L
+Cash Price: $12,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Ibis White
+Interior: Velvet Beige
+Mileage: 121,820 miles
 Fuel Type: Gas
-MPG: 30 city / 38 highway
+MPG: 18 city / 28 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 66 days ago
-VIN: 5YFEPMAE1MP233190
-Stock Number: MP233190
-Features: Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; FWD; SiriusXM Satellite; LED Headlamps; AM/FM Stereo; Safety Connect; Side Air Bags; Tilt & Telescoping Wheel; Power Windows; Knee Air Bags; Stability Control; Bluetooth Wireless; Steel Wheels; Vehicle Dynamic Control; Power Steering; Remote Trunk Release; ABS (4-Wheel); Lane Departure Alert; 4-Cyl 1.8 Liter; Air Conditioning; Traction Control; Daytime Running Lights; F&R Head Curtain Air Bags; Power Door Locks; Dual Air Bags; Dynamic Cruise Control; Hill Start Assist Control; Keyless Entry; Automatic CVT; Backup Camera; See less
+Drivetrain: AWD
+Engine: 4.2L V-8 Gas V
+Location: Dayton, OH
+Listed Since: 79 days ago
+VIN: WAURVAFD2CN023213
+Stock Number: null
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Parking Sensors; Bluetooth; See less; Exhaust - Dual Tip; Rear Trunk/Liftgate - Power Operated; Side Door Type - Soft Close; Body Side Moldings - Body-Color; Door Handle Color - Body-Color; See all features

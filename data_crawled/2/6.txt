@@ -1,17 +1,17 @@
-Title: 2022 GMC Savana Cargo Van 2500 SWB
-Cash Price: $15,988
-Finance Price: $298/moEstimate
-Finance Details: $1,599 due at signing · 72 mo · 14.22% APR
-Exterior: Summit White
-Interior: Medium Pewter
-Mileage: Fredericksburg, VA (2290 miles away)
+Title: 2022 Ford Mustang EcoBoost Premium Convertible
+Cash Price: $15,498
+Finance Price: $224/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
+Interior: Ebony
+Mileage: 82,441 miles
 Fuel Type: Gas
-MPG: N/A
+MPG: 20 city / 27 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 4.3L V-6 Gas V
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 1GTW7AFP2N1146014
-Stock Number: DN6014
-Features: Body, Standard; Engine, 4.3L V6; Transmission, 8 Speed Automatic, Electronically Controlled; Rear Axle, 3.42 Ratio; Door, Swing Out Passenger Side, 60/40 Split; Work Van Preferred Equipment Group; Tire, Spare LT245/75R16 All Season, Blackwall; Paint, Solid; Seats, Front Bucket With Vinyl Trim; Seating Arrangement, Driver And Front Passenger High Back Buckets; Audio System, Am/FM Stereo With MP3 Player; Differential, Heavy Duty Locking Rear; Trailering Equipment, Heavy Duty; Trailering Provisions, Trailering Wire Harness Only; Glass, Fixed Rear Doors Windows; Glass, Fixed Rear Side Door Windows; Glass, Rear Doors And Side Cargo Doors; Window Security Bar, Rear Side Door Glass; Visors, Driver And Front Passenger, Vinyl; See less; Backup Camera; Tow Hitch; V6 4.3 Liter; Power Steering; ABS (4-Wheel); Dual Air Bags; Head Curtain Air Bags; See all features
+Engine: 2.3L Inline-4 Gas Inline
+Location: Houston, TX
+Listed Since: 33 days ago
+VIN: 1FATP8UH2N5101158
+Stock Number: 5101158
+Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; ENGINE: 2.3L ECOBOOST  (STD); Turbocharged; Rear Wheel Drive; Power Steering; ABS; See all features

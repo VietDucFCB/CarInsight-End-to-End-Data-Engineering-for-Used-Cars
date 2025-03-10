@@ -1,17 +1,17 @@
-Title: 2018 Dodge Journey Crossroad AWD
-Cash Price: $10,999
-Finance Price: $262/moEstimate
-Finance Details: $1,100 due at signing · 72 mo · 24.22% APR
-Exterior: Pitch Black Clearcoat
-Interior: Black
-Mileage: Crestwood, IL (747 miles away)
-Fuel Type: Gas
-MPG: 16 city / 24 highway
+Title: 2023 Lexus RZ 450e Premium with 18" Wheels AWD
+Cash Price: $32,837
+Finance Price: $523/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Cloudburst Gray/Black
+Interior: Dapple Gray/Black
+Mileage: 11,640 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 27 days ago
-VIN: 3C4PDDGG9JT387746
-Stock Number: 1069-071-1924
-Features: Engine: 3.6L V6 24V VVT; Transmission: 6 Speed Automatic 62te; Quick Order Package 28S Crossroad; 19" X 7" Black Noise Aluminum Wheels; Black, Leather Seats with Sport Mesh Inserts; Front License Plate Attachment Screws; Wheel Type; Seat Material; Front Heated Seats; Third Row Seating; Climate Control; Backup Camera; Bluetooth; See less; Child Safety Door Locks; ABS Brakes; Driver Airbag; Front Side Airbag; Passenger Airbag; See all features
+Engine: N/A
+Location: Riverside, CA
+Listed Since: 83 days ago
+VIN: JTJAAAAB1PA018662
+Stock Number: 0250579A
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation System; 10 Speakers; AM/FM radio: SiriusXM; Radio data system; Radio: Lexus Interface; See all features

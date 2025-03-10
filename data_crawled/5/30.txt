@@ -1,17 +1,17 @@
-Title: 2017 Toyota Camry SE I4 Automatic
-Cash Price: $11,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Silver
-Interior: Black
-Mileage: Escondido, CA (103 miles away)
+Title: 2015 Jeep Wrangler Sahara
+Cash Price: $11,991
+Finance Price: $164/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Dark Saddle/Black
+Mileage: 114,345 miles
 Fuel Type: Gas
-MPG: 24 city / 33 highway
+MPG: 17 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 11 days ago
-VIN: 4T1BF1FK9HU432236
-Stock Number: null
-Features: Door Handle Color - Body-Color; Exhaust Tip Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Smoked Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rear Spoiler - Lip; Rear Spoiler Color - Body-Color; Window Trim - Chrome; Headlight Bezel Color - Black; Steering Ratio - 14.8; Turns Lock-To-Lock - 2.90; Air Filtration; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Steering Wheel Trim - Leather; Interior Accents - Metallic-Tone; Armrests - Rear Center With Cupholders; Assist Handle - Front; Assist Handle - Rear; Center Console - Front Console With Armrest And Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Power Steering; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Paddle Shifter; Steering Wheel Mounted Controls - Phone; Storage - Accessory Hook; Storage - Door Pockets; Storage - Front Seatback; Storage - Grocery Bag Holder; Storage - Sunglasses Holder; Power Outlet(S) - Two 12v Front; Vanity Mirrors - Dual; Multi-Function Remote - Panic Alarm; Overhead Console - Front; Cargo Area Light; Reading Lights - Front; One-Touch Windows - 2; Power Windows - Lockout Button; Steering Wheel Mounted Controls - Voice Control; Rearview Mirror - Manual Day/Night; Abs - 4-Wheel; Axle Ratio - 3.63; Braking Assist; Electronic Brakeforce Distribution; Front Brake Diameter - 11.7; Front Stabilizer Bar - Diameter 25 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 11.0; Rear Stabilizer Bar - Diameter 16 Mm; Rear Suspension Classification - Independent; Rear Suspension Type - Multi-Link; Stability Control; Traction Control; Front Shock Type - Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Gas; Rear Spring Type - Coil; Tuned Suspension - Sport; Front Struts - Macpherson; Front Brake Type - Ventilated Disc; Rear Brake Type - Disc; Battery - Maintenance-Free; Battery Saver; Antenna Type - Mast; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; Digital Odometer; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; In-Dash Cd - Single Disc; Multi-Function Display; Radio - Am/Fm; Radio - Touch Screen Display; Radio Data System; Speed Sensitive Volume Control; Trip Odometer; Warnings And Reminders - Low Fuel Level; Electronic Messaging Assistance - With Read Function; Auxiliary Audio Input - Bluetooth; Wireless Data Link - Bluetooth; In-Dash Cd - Mp3 Playback; Total Speakers - 6; Gauge - Tachometer; Infotainment - Entune; Electronic Messaging Assistance - Voice Operated; Radio - Voice Operated; Infotainment Screen Size - 6.1 In.; Instrument Cluster Screen Size - 4.2 In.; See less
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Miramar, FL
+Listed Since: 23 days ago
+VIN: 1C4AJWBG3FL532719
+Stock Number: 532719
+Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24G; 3.21 Rear Axle Ratio; 18" X 7.5" Polished Satin Carbon Wheels; Dark Saddle/Black, Cloth Bucket Seats; Connectivity Group; Alpine 9 Speaker with All Weather Subwoofer; See less; Wheel Type; Premium Audio; Hill Start Assist Control; Premium Sound; V6 3.6 Liter; Automatic 5-Spd; Dual Air Bags; See all features

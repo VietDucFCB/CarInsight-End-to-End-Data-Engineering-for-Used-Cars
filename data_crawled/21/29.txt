@@ -1,17 +1,17 @@
-Title: 2011 Nissan Maxima SV
-Cash Price: $4,995
+Title: 2021 Jeep Grand Cherokee WK 80th Anniversary 4WD
+Cash Price: $15,999
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Metallic Slate
-Interior: Charcoal
-Mileage: Brooklyn, NY (2462 miles away)
+Exterior: Diamond Black Crystal Pearlcoat
+Interior: Black
+Mileage: 126,829 miles
 Fuel Type: Gas
-MPG: 19 city / 26 highway
+MPG: 18 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 978 days ago
-VIN: 1N4AA5AP1BC810156
-Stock Number: 810156
-Features: Charcoal, Leather Seat Trim; Cold PKG; Monitor PKG; Rear Spoiler; Front/Rear Floor & Trunk Mat Set; Wheel Type; Moonroof; Premium Audio; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less; ABS; 4-Wheel Disc Brakes; A/C; A/T; Adjustable Steering Wheel; See all features
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Mountain Lakes, NJ
+Listed Since: 122 days ago
+VIN: 1C4RJFBG5MC527697
+Stock Number: 527697-97
+Features: Engine: 3.6L V6 24V VVT Upg I with Ess; Transmission: 8 Speed Automatic (850re); Quick Order Package 2BK 80TH; Black, Leather Trimmed Bucket Seats (JY); Sun & Sound Group; Front License Plate Bracket; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Adaptive Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Air Conditioning; Power Liftgate Release; Leather; Blind-Spot Alert; AM/FM/HD Radio; See all features

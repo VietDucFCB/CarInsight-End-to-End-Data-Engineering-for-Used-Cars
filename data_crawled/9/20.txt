@@ -1,17 +1,17 @@
-Title: 2022 Chevrolet Equinox LT with 1LT AWD
-Cash Price: $15,995
-Finance Price: $314/moEstimate
-Finance Details: $1,600 due at signing · 72 mo · 16.22% APR
-Exterior: Mosaic Black Metallic
-Interior: Jet Black
-Mileage: Sterling, IL (1650 miles away)
+Title: 2019 Ford Super Duty F-250 Lariat 4WD Crew Cab 6.75' Box
+Cash Price: $37,813
+Finance Price: $609/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Black
+Mileage: 88,047 miles
 Fuel Type: Gas
-MPG: 25 city / 30 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 145 days ago
-VIN: 3GNAXUEV0NL199449
-Stock Number: 10P1439
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder, Sidi, VVT; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Axle, 3.87 Final Drive Ratio; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/65R17 All Season Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 7" Diagonal Color Touchscreen, Am/FM Stereo.; License Plate Front Mounting Package; See less; Wheel Type; Apple CarPlay; Android Auto; Lane Keep Assist; Backup Camera; Bluetooth; Preferred Equipment Group 1LT; 6 Speaker Audio System Feature; 6 Speakers; AM/FM radio: SiriusXM; Premium audio system: Chevrolet Infotainment 3; See all features
+Drivetrain: 4WD
+Engine: 6.2L V-8 Gas V
+Location: Darlington, SC
+Listed Since: 123 days ago
+VIN: 1FT7W2B61KED75119
+Stock Number: CU1463
+Features: GVWR: 10; 000 lb Payload Package; 10 Speakers; AM/FM radio: SiriusXM; Radio data system; Radio: B&O Sound System by Bang & Olufsen; SiriusXM Radio; SYNC 3 Communications & Entertainment System; Air Conditioning; Automatic temperature control; Front dual zone A/C; Rear window defroster; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Emergency communication system: SYNC 3 911 Assist; Front anti-roll bar; Low tire pressure warning; Overhead airbag; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Rear Parking Sensors; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Bumpers: chrome; Heated door mirrors; Power door mirrors; Rear step bumper; Turn signal indicator mirrors; 110V/400W Outlet; Adjustable pedals; AppLink/Apple CarPlay and Android Auto; Auto-dimming Rear-View mirror; Compass; Driver door bin; Driver vanity mirror; Flow-Through Console; Front Leather Seating Surfaces 40/Console/40; Front reading lights; Illuminated entry; Leather steering wheel; Outside temperature display; Overhead console; Passenger vanity mirror; Rear reading lights; Rear seat center armrest; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Front Bucket Seats; Front Center Armrest; Power passenger seat; Split folding rear seat; Passenger door bin; Alloy wheels; Wheels: 18'' Bright Machined Cast Aluminum; Variably intermittent wipers; 3.73 Axle Ratio; See less

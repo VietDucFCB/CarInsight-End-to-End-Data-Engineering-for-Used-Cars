@@ -1,17 +1,17 @@
-Title: 2014 Chevrolet Cruze LT with 1LT Automatic
-Cash Price: $5,692
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Tungsten Metallic
-Interior: Jet Black
-Mileage: Council Bluffs, IA (1331 miles away)
+Title: 2022 Hyundai Tucson Limited AWD
+Cash Price: $16,800
+Finance Price: $246/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Intense Blue
+Interior: Gray
+Mileage: 91,577 miles
 Fuel Type: Gas
-MPG: 26 city / 38 highway
+MPG: 24 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 72 days ago
-VIN: 1G1PC5SB4E7241892
-Stock Number: ZH63226
-Features: Engine, Ecotec Turbo 1.4L Variable Valve Timing Dohc 4 Cylinder Sequential Mfi; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Preferred Equipment Group; Seats, Front Bucket With Reclining Seatbacks And Adjustable Head Restraints; Jet Black, Premium Cloth Seat Trim; Audio System, Chevrolet Mylink Radio; 1LT Driver Convenience Package; Technology Package; Mirrors, Outside Heated, Power Adjustable, Body Color, Manual Folding; License Plate Bracket, Front; Chevrolet Mylink; Seat Adjuster, Driver 6 Way Power With Manual Recliner; Remote Vehicle Starter System; Mirror, Inside Rearview Auto Dimming; Visors, Driver And Front Passenger Illuminated Vanity Mirrors; Rear Vision Camera; See less; Wheel Type; Remote Engine Start; Backup Camera; Bluetooth; 16'' 5-Spoke Painted Aluminum Wheels; Premium Cloth Seat Trim; Driver 6-Way Power Seat Adjuster; AM/FM Stereo w/CD Player/MP3 Playback; Front License Plate Bracket; See all features
+Drivetrain: AWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Sanford, FL
+Listed Since: 20 days ago
+VIN: 5NMJECAE3NH113112
+Stock Number: POE7857A
+Features: Option Group 01; Cargo Package; Wheel Locks; Rear Bumper Applique; Carpeted Floor Mats; Cargo Cover; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation System; Cargo Package; Option Group 01; 8 Speakers; AM/FM radio: SiriusXM; See all features

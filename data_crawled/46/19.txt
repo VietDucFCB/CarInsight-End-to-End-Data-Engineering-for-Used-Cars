@@ -1,17 +1,17 @@
-Title: 2006 BMW 750Li
-Cash Price: $8,885
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Michigan Blue Metallic
-Interior: Tan
-Mileage: Daly City, CA (2404 miles away)
+Title: 2019 Subaru Crosstrek 2.0i Premium CVT
+Cash Price: $16,821
+Finance Price: $247/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Venetian Red Pearl
+Interior: Black
+Mileage: 53,946 miles
 Fuel Type: Gas
-MPG: 17 city / 25 highway
+MPG: 27 city / 33 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 4.8L V-8 Gas V
-Location: N/A
-Listed Since: Listed 18 days ago
-VIN: WBAHN83586DT33684
-Stock Number: BM3684
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Climate Control; Parking Sensors; Bluetooth; See less; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Electronic Brake Assistance; Traction Control; See all features
+Drivetrain: AWD
+Engine: 2.0L Flat-4 Gas Flat
+Location: Post Falls, ID
+Listed Since: 11 days ago
+VIN: JF2GTAEC2K8290763
+Stock Number: R290763
+Features: Eyesight System; Black, Cloth Upholstery; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Air filtration; Front air conditioning; Front air conditioning zones: single; Airbag deactivation: occupant sensing passenger; Front airbags: dual; See all features

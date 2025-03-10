@@ -1,17 +1,17 @@
-Title: 2009 BMW 328i Sedan
-Cash Price: $3,900
+Title: 2008 Jaguar XK Convertible
+Cash Price: $21,990
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Jet Black
-Interior: Tan
-Mileage: Dalton, GA (319 miles away)
+Exterior: Ebony
+Interior: Charcoal
+Mileage: 42,297 miles
 Fuel Type: Gas
-MPG: 18 city / 28 highway
+MPG: 16 city / 25 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 124 days ago
-VIN: WBAPH77549NM27714
-Stock Number: 5702
-Features: 
+Engine: 4.2L V-8 Gas V
+Location: Franklin, TN
+Listed Since: 554 days ago
+VIN: SAJWA44B385B25832
+Stock Number: 10426
+Features: Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Cruise Control; Parking Sensors; Bluetooth; See less; Air Conditioning; Climate Control; Dual Zone Climate Control; Power Steering; Power Mirrors; See all features

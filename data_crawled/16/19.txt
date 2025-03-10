@@ -1,17 +1,17 @@
-Title: 2023 Ford Mustang EcoBoost Premium Fastback
-Cash Price: $20,299
-Finance Price: $318/moEstimate
-Finance Details: $2,030 due at signing · 72 mo · 7.74% APR
-Exterior: Race Red
-Interior: Ebony
-Mileage: Phoenix, AZ (368 miles away)
+Title: 2021 Mercedes-Benz GLA 250 4MATIC
+Cash Price: $18,900
+Finance Price: $283/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Night Black
+Interior: Black
+Mileage: 49,310 miles
 Fuel Type: Gas
-MPG: 15 city / 24 highway
+MPG: 24 city / 33 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 51 days ago
-VIN: 1FA6P8THXP5110370
-Stock Number: P5110370P
-Features: Wheel Type; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Great Neck, NY
+Listed Since: 46 days ago
+VIN: W1N4N4HB8MJ211505
+Stock Number: VE1132-215
+Features: Wheel Type; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; Turbocharged; All Wheel Drive; Power Steering; ABS; 4-Wheel Disc Brakes; See all features

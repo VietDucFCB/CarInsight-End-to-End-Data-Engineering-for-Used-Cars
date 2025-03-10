@@ -1,17 +1,17 @@
-Title: 2014 Ford Fusion S FWD
-Cash Price: $6,450
+Title: 2022 Toyota Corolla Hybrid LE CVT
+Cash Price: $12,733
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Ingot Silver Metallic
-Interior: Earth Gray
-Mileage: Dallas, TX (1258 miles away)
-Fuel Type: Gas
-MPG: 22 city / 34 highway
+Exterior: White
+Interior: Light Gray
+Mileage: 140,774 miles
+Fuel Type: Hybrid
+MPG: 53 city / 52 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 47 days ago
-VIN: 3FA6P0G70ER318612
-Stock Number: P24879
-Features: Bluetooth; ABS Brakes; Air Conditioning; Automatic Headlights; Cargo Area Tiedowns; Cargo Net; CD Player; Child Safety Door Locks; Cruise Control; Driver Airbag; Electronic Brake Assistance; Front Side Airbag; Keyless Entry; Passenger Airbag; Power Door Locks; Power Windows; Rear Window Defogger; Remote Ignition; Second Row Folding Seat; Side Head Curtain Airbag; Steel Wheels; Steering Wheel Mounted Controls; Tachometer; Telescopic Steering Column; Tilt Steering; Tilt Steering Column; Tire Pressure Monitor; Traction Control; Trip Computer; Vehicle Anti-Theft; Vehicle Stability Control System; See less
+Location: Littleton, CO
+Listed Since: 106 days ago
+VIN: JTDEAMDE8NJ052056
+Stock Number: NJ052056
+Features: Wheel Type; Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; Lane Keeping Assist; Keyless Start; Light Gray; Premium Fabric Seat Trim; 50 State Emissions

@@ -1,17 +1,17 @@
-Title: 2014 Volkswagen Jetta S Sedan Manual
-Cash Price: $6,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Silver
-Interior: Black
-Mileage: Somerville, MA (820 miles away)
+Title: 2018 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $18,995
+Finance Price: $284/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Tan
+Mileage: 111,272 miles
 Fuel Type: Gas
-MPG: 24 city / 34 highway
-Transmission: Manual Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 4 days ago
-VIN: 3VW1K7AJXEM400776
-Stock Number: 400776
-Features: Engine: 2.0L I-4 SOHC; Transmission: 5-Speed Manual; Front-Wheel Drive; 3.93 Axle Ratio; Engine Oil Cooler; 140 Amp Alternator; 60-Amp/Hr 540CCA Maintenance-Free Battery w/Run Down Protection; Gas-Pressurized Shock Absorbers; Front And Rear Anti-Roll Bars; Hydraulic Power-Assist Steering; 14.5 Gal. Fuel Tank; Single Stainless Steel Exhaust; Strut Front Suspension w/Coil Springs; Torsion Beam Rear Suspension w/Coil Springs; 4-Wheel Disc Brakes w/4-Wheel ABS- Front Vented Discs- Brake Assist and Hill Hold Control; Security System Pre-Wiring; Tires: 15" All-Season; Steel Spare Wheel; Full-Size Spare Tire Mounted Inside Under Cargo; Clearcoat Paint; Body-Colored Front Bumper; Body-Colored Rear Bumper; Body-Colored Door Handles; Black Side Windows Trim; Black Power Heated Side Mirrors w/Manual Folding; Fixed Rear Window w/Defroster; Light Tinted Glass; Variable Intermittent Wipers; Fully Galvanized Steel Panels; Front License Plate Bracket; Black Grille; Trunk Rear Cargo Access; Reflector Halogen Daytime Running Headlamps; Audio Theft Deterrent; Window Grid Diversity Antenna; 4 Speakers; Front Bucket Seats -inc: manually adjustable front seats; 6-Way Driver Seat; 6-Way Passenger Seat; 60-40 Folding Bench Front Facing Fold Forward Seatback Rear Seat; Manual Tilt/Telescoping Steering Column; Front Cupholder; Rear Cupholder; Power Fuel Flap Locking Type; Remote Releases -Inc: Power Cargo Access; Manual Air Conditioning; HVAC -inc: Underseat Ducts; Glove Box; Driver Foot Rest; Full Cloth Headliner; Interior Trim -inc: Chrome/Metal-Look Interior Accents; Urethane Gear Shifter Material; Day-Night Rearview Mirror; Driver And Passenger Visor Vanity Mirrors; Full Floor Console w/Storage- Mini Overhead Console w/Storage and 2 12V DC Power Outlets; Front And Rear Map Lights; Fade-To-Off Interior Lighting; Carpet Floor Trim; Full Carpet Floor Covering; Cargo Space Lights; FOB Controls -inc: Cargo Access; Driver / Passenger And Rear Door Bins; Delayed Accessory Power; Outside Temp Gauge; Analog Appearance; Seats w/Cloth Back Material; Manual Adjustable Front Head Restraints and Manual Adjustable Rear Head Restraints; Sliding Front Center Armrest; Immobilizer; 2 12V DC Power Outlets; Air Filtration; Side Impact Beams; Dual Stage Driver And Passenger Seat-Mounted Side Airbags; Low Tire Pressure Warning; Dual Stage Driver And Passenger Front Airbags; Curtain 1st And 2nd Row Airbags; Airbag Occupancy Sensor; Rear Child Safety Locks; Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point- Height Adjusters and Pretensioners; See less
+MPG: 18 city / 23 highway
+Transmission: Automatic Transmission
+Drivetrain: 4WD
+Engine: 5.0L V-8 Gas V
+Location: Denver, CO
+Listed Since: 50 days ago
+VIN: 1FTFW1E58JKF38566
+Stock Number: F38566
+Features: Bluetooth; Backup Camera; Driver seat manual adjustments: lumbar  reclining; 4; Front headrests: adjustable  3; Front seat type: 40-20-40 split bench; Passenger seat manual adjustments: lumbar  reclining; 4; Rear headrests: adjustable  3; Rear seat folding: folds up  split; Rear seat type: 60-40 split bench; Upholstery: cloth; ABS: 4-wheel; Braking assist:; Electronic brakeforce distribution:; Electronic parking brake:; Front brake diameter: 13.8; Front brake type: ventilated disc; Front brake width: 1.34; Power brakes:; Rear brake diameter: 13.7; Rear brake type: ventilated disc; Rear brake width: .98; Auto start/stop:; Battery saver:; Daytime running lights:; Exterior entry lights: approach lamps; Front fog lights:; Headlights: auto delay off  auto on/off; halogen; wiper activated; Camera system: rearview; Child safety door locks:; Child seat anchors: LATCH system; Crumple zones: front; Impact sensor: alert system  post-collision safety system; Programmable safety key:; Rearview monitor: in dash; Airbag deactivation: occupant sensing passenger; Front airbags: dual; Side airbags: front; Side curtain airbags: front  rear; Side mirror adjustments: manual folding  power; Front wipers: intermittent; Laminated glass: acoustic; Power windows:; Rear privacy glass:; Solar-tinted glass: rear; Anti-theft system: alarm  perimeter alarm; vehicle immobilizer; Power door locks: auto-locking; Steering ratio: 17; Emergency locking retractors: front; Front seatbelts: 3-point; Rear seatbelts: 3-point; Seatbelt force limiters: front; Seatbelt pretensioners: front; Seatbelt warning sensor: front; 4WD selector: electronic hi-lo; 4WD type: part time; Axle ratio: 3.31; Drive mode selector:; Front shock type: gas; Front spring type: coil; Front stabilizer bar:; Front struts:; Front suspension classification: independent; Front suspension type: double wishbone; Rear shock type: gas; Rear spring type: leaf; Rear suspension classification: solid live axle; Rear suspension type: multi-leaf; Electronic messaging assistance: voice operated  with read function; Phone: voice operated; Wireless data link: Bluetooth; Antenna type: mast; Auxiliary audio input: Bluetooth  USB; jack; In-Dash CD: MP3 Playback  single disc; Radio: AM/FM  voice operated; Radio data system:; Speed sensitive volume control:; Total speakers: 6; Spare tire mount location: underbody; Spare tire size: full-size; Spare wheel type: steel; Tire Pressure Monitoring System:; Tire type: all terrain; Wheel locks: spare only; Wheels: aluminum alloy; Clock:; Compass:; Digital odometer:; External temperature display:; Gauge: oil pressure  tachometer; transmission temperature; Instrument cluster screen size: 4.2 in.; Multi-function display:; Warnings and reminders: low fuel level  low oil level; maintenance due; See less

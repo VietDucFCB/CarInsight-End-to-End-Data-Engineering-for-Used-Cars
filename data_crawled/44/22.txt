@@ -1,17 +1,17 @@
-Title: 2022 Chrysler Pacifica Touring L FWD
-Cash Price: $19,989
-Finance Price: $373/moEstimate
-Finance Details: $1,999 due at signing · 72 mo · 14.22% APR
-Exterior: Fathom Blue Pearlcoat
-Interior: Black/Alloy/Black
-Mileage: Spokane, WA (2194 miles away)
+Title: 2015 Buick Encore Convenience FWD
+Cash Price: $7,495
+Finance Price: $86/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Carbon Black Metallic
+Interior: Ebony
+Mileage: 82,500 miles
 Fuel Type: Gas
-MPG: 19 city / 28 highway
+MPG: 25 city / 33 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 4 days ago
-VIN: 2C4RC1BG7NR128263
-Stock Number: 8128263
-Features: Engine: 3.6L V6 24V VVT Upg I with Ess; Transmission: 9 Speed 948te Automatic; Quick Order Package 27L; 17" X 7.0" Aluminum Wheels; Tires: 235/65R17 BSW As; Safety Sphere Unavailable; Black Seats; See less; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; See all features; Quick; Order; Package; 27L;6; Speakers;AM/FM; See all features
+Engine: 1.4L Inline-4 Gas Inline
+Location: Naugatuck, CT
+Listed Since: 24 days ago
+VIN: KL4CJBSB9FB152595
+Stock Number: 152595N
+Features: Engine, Ecotec Turbo 1.4L Variable Valve Timing Dohc 4 Cylinder Sequential Mfi; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; 1SD Preferred Equipment Group; Wheels, 18" (45.7 CM) 7 Spoke Painted Cast Aluminum; Dark Argent Metallic Lower Accent Color; Seats, Front Bucket; Ebony, Upscale Cloth Seat Trim With Leatherette Accents; Audio System With Navigation, Am/FM/SiriusXM Stereo, Single CD Player And MP3 Player; See less; Wheel Type; Navigation; Remote Engine Start; Climate Control; Blind Spot System; See all features

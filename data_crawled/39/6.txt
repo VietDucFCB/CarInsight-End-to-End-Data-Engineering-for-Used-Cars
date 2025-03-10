@@ -1,17 +1,17 @@
-Title: 2021 Nissan Altima 2.5 SV FWD
-Cash Price: $13,188
-Finance Price: $208/moEstimate
-Finance Details: $1,319 due at signing · 72 mo · 7.99% APR
-Exterior: Gun Metallic
-Interior: Charcoal
-Mileage: Eastchester, NY (658 miles away)
-Fuel Type: Gas
-MPG: 27 city / 37 highway
+Title: 2023 Genesis Electrified G80 Sedan
+Cash Price: $37,444
+Finance Price: $602/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Uyuni White
+Interior: Maroon Brown/Havana Brown
+Mileage: 15,435 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
+Drivetrain: AWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 97 days ago
-VIN: 1N4BL4DV1MN416201
-Stock Number: 416201
-Features: Body Colored Splash Guards; Mid Year Change; Chrome Bumper Protector; Floor Mats/Trunk Mat/Hideaway Net; Trunk Organizer Tray; Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less
+Location: Indianapolis, IN
+Listed Since: 20 days ago
+VIN: KMTGE4S19PU002749
+Stock Number: GRS126
+Features: Option Group 01; Maroon Brown/Havana Brown, Nappa Leather Seating Surfaces; Rear Bumper Applique; First Aid Kit; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation System; Option Group 01; 21 Speakers; AM/FM radio: SiriusXM; Radio data system; See all features

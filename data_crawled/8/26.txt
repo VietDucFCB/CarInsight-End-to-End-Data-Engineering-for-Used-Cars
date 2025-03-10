@@ -1,17 +1,17 @@
-Title: 2015 Ford Focus SE Sedan
-Cash Price: $6,995
-Finance Price: $130/moEstimate
-Finance Details: $700 due at signing · 72 mo · 14.22% APR
-Exterior: Tuxedo Black
-Interior: Charcoal Black
-Mileage: Naugatuck, CT (2507 miles away)
+Title: 2018 Toyota Camry XSE V6 Automatic
+Cash Price: $19,249
+Finance Price: $289/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Cockpit Red
+Mileage: 83,038 miles
 Fuel Type: Gas
-MPG: 26 city / 36 highway
+MPG: 22 city / 32 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 12 days ago
-VIN: 1FADP3F2XFL267229
-Stock Number: 267229N
-Features: 
+Engine: 3.5L V-6 Gas V
+Location: Lake City, FL
+Listed Since: 20 days ago
+VIN: 4T1BZ1HK3JU013387
+Stock Number: X0759A
+Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 9 Speakers; AM/FM radio: SiriusXM; CD player; Radio data system; Radio: Entune 3.0 Audio Plus; See all features

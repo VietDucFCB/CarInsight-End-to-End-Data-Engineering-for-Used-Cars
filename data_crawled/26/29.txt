@@ -1,17 +1,17 @@
-Title: 2023 Chevrolet Malibu LT
-Cash Price: $16,249
-Finance Price: $241/moEstimate
-Finance Details: $1,625 due at signing · 72 mo · 5.74% APR
-Exterior: Mineral Gray Metallic
-Interior: Jet Black
-Mileage: Orlando, FL (305 miles away)
+Title: 2017 Ram ProMaster Cargo Van 1500 Low Roof 136"
+Cash Price: $12,990
+Finance Price: $181/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Gray
+Mileage: 114,074 miles
 Fuel Type: Gas
-MPG: 27 city / 35 highway
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 30 days ago
-VIN: 1G1ZD5ST5PF202008
-Stock Number: OCPF202008
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Driver Confidence Package; License Plate Bracket, Front; Rear Park Assist; Lane Change Alert With Side Blind Zone Alert; Rear Cross Traffic Alert; Deleted 3 Years Of Remote Access.; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; Driver Confidence Package; Preferred Equipment Group 1LT; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; See all features
+Engine: 3.6L V-6 Gas V
+Location: Tampa, FL
+Listed Since: 26 days ago
+VIN: 3C6TRVAG4HE521910
+Stock Number: 4889
+Features: Engine: 3.6L V6 24V VVT; Transmission: 6 Speed Automatic 62te; Quick Order Package 21A; 16" X 6.0" Steel Wheels; Tires: 225/75R16C BSW All Season; Gray, Cloth Bucket Seats; Premium Appearance Group; 16" Wheel Covers; Front License Plate Bracket; Rear Hinged Doors with Fixed Glass; Right Sliding Door with Fixed Glass; Speed Control; See less; Wheel Type; Manual AIR Conditioning; 2 Assist Handle(S); Digital Media Auxiliary Jack Audio; MP3 Audio - CD/MP3; AM/FM Audio - Radio; See all features

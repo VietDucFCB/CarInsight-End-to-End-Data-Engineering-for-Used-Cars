@@ -1,17 +1,17 @@
-Title: 2021 Toyota Tacoma SR5 Double Cab 5' Bed V6 2WD Automatic
-Cash Price: $17,999
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Barcelona Red Metallic
-Interior: Gray
-Mileage: Clearwater, FL (2148 miles away)
+Title: 2021 Mercedes-Benz C 300 Sedan 4MATIC
+Cash Price: $14,988
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 70,295 miles
 Fuel Type: Gas
-MPG: 19 city / 24 highway
+MPG: 23 city / 33 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 13 days ago
-VIN: 5TFAZ5CN3MX095634
-Stock Number: TMX095634
-Features: Wheel Type; Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; Tow Hitch; See less; HARD TRI-FOLD TONNEAU COVER; Rear Wheel Drive; Tow Hitch; Power Steering; ABS; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Hempstead, NY
+Listed Since: 12 days ago
+VIN: W1KWF8EB6MR651934
+Stock Number: G16794
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less

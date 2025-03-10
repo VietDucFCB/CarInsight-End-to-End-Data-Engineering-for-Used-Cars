@@ -1,17 +1,17 @@
-Title: 2023 Toyota Mirai XLE
-Cash Price: $13,186
-Finance Price: $204/moEstimate
-Finance Details: $1,319 due at signing · 72 mo · 7.24% APR
-Exterior: Oxygen White
-Interior: Black W/Silver
-Mileage: Torrance, CA (18 miles away)
-Fuel Type: Hydrogen
-MPG: 76 city / 71 highway
+Title: 2020 Hyundai Elantra SEL IVT (SULEV)
+Cash Price: $9,999
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Gray
+Interior: Gray
+Mileage: 93,575 miles
+Fuel Type: Gas
+MPG: 30 city / 40 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 19 days ago
-VIN: JTDAAAAA4PA009206
-Stock Number: PA009206A
-Features: Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Gainesville, GA
+Listed Since: 39 days ago
+VIN: KMHD84LFFLU961493
+Stock Number: 11371
+Features: Exhaust - Hidden; Exhaust Tip Color - Stainless Steel; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Window Trim - Black; Steering Ratio - 12.7; Turns Lock-To-Lock - 2.4; Air Filtration; Door Sill Trim - Scuff Plate; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Interior Accents - Metallic-Tone; Rear Vents - Second Row; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Assist Handle - Front; Assist Handle - Rear; Cargo Area Light; Center Console - Front Console With Armrest And Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Panic Alarm; Multi-Function Remote - Trunk Release; One-Touch Windows - 1; Overhead Console - Front; Power Outlet(S) - Two 12v Front; Power Steering - Variable/Speed-Proportional; Power Windows - Lockout Button; Reading Lights - Front; Rearview Mirror - Manual Day/Night; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Cruise Control; Steering Wheel Mounted Controls - Phone; Steering Wheel Mounted Controls - Voice Control; Storage - Accessory Hook; Storage - Door Pockets; Storage - Front Seatback; Storage - Sunglasses Holder; Vanity Mirrors - Dual; Axle Ratio - 4.89; Front Brake Type - Ventilated Disc; Front Shock Type - Twin-Tube Gas; Front Spring Type - Coil; Front Struts - Macpherson; Front Suspension Type - Lower Control Arms; Hill Holder Control; Rear Brake Type - Disc; Rear Shock Type - Monotube; Rear Spring Type - Coil; Rear Suspension Type - Torsion Beam; Abs - 4-Wheel; Braking Assist; Drive Mode Selector; Electronic Brakeforce Distribution; Front Brake Diameter - 11.0; Front Stabilizer Bar - Diameter 22 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 10.3; Rear Suspension Classification - Semi-Independent; Stability Control; Traction Control; Alternator - 120 Amps; Battery - Maintenance-Free; Battery Saver; Connected In-Car Apps - Google Pois; Connected In-Car Apps - Google Search; Electronic Messaging Assistance - Voice Operated; Gauge - Tachometer; Hands-Free Phone Call Integration - Voice Operated; Infotainment Screen Size - 7 In.; Instrument Cluster Screen Size - 3.5 In.; Smartphone Integration - Android Auto; Smartphone Integration - Apple Carplay; Total Speakers - 6; Warnings And Reminders - Coolant Temperature Warning; Warnings And Reminders - Lamp Failure; Warnings And Reminders - Low Oil Pressure; Wireless Data Link - Bluetooth; Antenna Type - Diversity; Antenna Type - Element; Auxiliary Audio Input - Bluetooth; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; Digital Odometer; Electronic Messaging Assistance - With Read Function; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; Multi-Function Display; Radio - Am/Fm; See less

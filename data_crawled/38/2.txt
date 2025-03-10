@@ -1,17 +1,17 @@
-Title: 2022 Ford F-150 XL Regular Cab 6.5' Box 2WD
-Cash Price: $17,999
+Title: 2022 Ford F-150 XL SuperCrew 5.5' Box 4WD
+Cash Price: $34,218
 Finance Price: 
-Finance Details: $1,800 due at signing · 72 mo · 8.31% APR
-Exterior: Oxford White
-Interior: Black W/Medium Dark Slate
-Mileage: Summerville, SC (22 miles away)
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Black
+Mileage: 23,226 miles
 Fuel Type: Gas
-MPG: 20 city / 24 highway
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.3L V-6 Gas V
-Location: N/A
-Listed Since: Listed 10 days ago
-VIN: 1FTMF1CB3NKD90459
-Stock Number: R629
-Features: Equipment Group 100A Standard; Trailer Tow Package; 4 Speakers; AM/FM radio; AM/FM Stereo w/4 Speakers; Radio data system; Air Conditioning; Rear Window Defroster; Power steering; Steering wheel mounted audio controls; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Emergency communication system: SYNC 4 911 Assist; Front anti-roll bar; Front wheel independent suspension; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Rear-View Camera; Auto High-beam Headlights; Delay-off headlights; Fully automatic headlights; Auto High Beam; Rear step bumper; Compass; Driver door bin; Front reading lights; Lane-Keeping System; Outside temperature display; Overhead console; Passenger vanity mirror; Pre-Collision Assist w/Automatic Emergency Braking; Reverse Sensing System; SYNC 4; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Voltmeter; Cloth 40/20/40 Front Seat; Front Center Armrest; Passenger door bin; Class IV Trailer Hitch Receiver; Integrated Trailer Brake Controller; Wheels: 17'' Silver Steel; Rear Window Fixed Privacy Glass; Variably intermittent wipers; Electronic Locking w/3.73 Axle Ratio; *Certified Pre-Owned 3 month/ 3; 000 Mile Warranty; *NO SMOKE SMELL; *BACKUP CAMERA; *BLUETOOTH; HANDS-FREE; *ANDROID AUTO; *APPLE CARPLAY; *XM RADIO; *USB INPUT; *STEERING WHEEL AUDIO CONTROLS; *MICROSOFT SYNC SYSTEM; *STANDARD CAB; *TOW PACKAGE; *COLLISION AVOIDANCE SYSTEM; *LANE DEPARTURE WARNING; *ULTRA SONIC REAR PARKING ASSIST; *PUSH TO START; See less
+Drivetrain: 4WD
+Engine: 2.7L V-6 Gas V
+Location: Exeter, NH
+Listed Since: 59 days ago
+VIN: 1FTEW1EP5NKD46492
+Stock Number: MP7554
+Features: Rear Window Fixed Privacy Glass; XL Chrome Appearance Package; Trailer Tow Package; 8 Way Power Driver'S Seat with Power Lumbar; FX4 Off Road Package; Tough Bed Spray In Bedliner; Equipment Group 101A High; See less; Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Lane Keep Assist; See all features; Equipment Group 101A High; GVWR: 6; 470 lbs Payload Package; STX Appearance Package; 6 Speakers; See all features

@@ -1,17 +1,17 @@
-Title: 2018 Ford F-150 XLT SuperCrew 5.5' Box 4WD
-Cash Price: $16,777
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Stone Gray
-Interior: Medium Earth Gray
-Mileage: Colorado Springs, CO (833 miles away)
+Title: 2021 Land Rover Range Rover Westminster SWB
+Cash Price: $39,598
+Finance Price: $639/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Verbier Silver
+Interior: Unknown
+Mileage: 59,381 miles
 Fuel Type: Gas
 MPG: 18 city / 23 highway
 Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: 3.3L V-6 Gas V
-Location: N/A
-Listed Since: Listed 64 days ago
-VIN: 1FTEW1EB9JKE48036
-Stock Number: 544123A
-Features: GVWR: 6; 500 lbs Payload Package; 6 Speakers; AM/FM radio; CD player; Radio data system; Radio: AM/FM Stereo/Single-CD Player; Air Conditioning; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; SYNC; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Emergency communication system: 911 Assist; Front anti-roll bar; Front wheel independent suspension; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Bumpers: chrome; Power door mirrors; Rear step bumper; Compass; Driver door bin; Driver vanity mirror; Front reading lights; Illuminated entry; Outside temperature display; Passenger vanity mirror; Rear reading lights; Tachometer; Telescoping steering wheel; Tilt steering wheel; Voltmeter; Split folding rear seat; Front Center Armrest w/Storage; Passenger door bin; Alloy wheels; Wheels: 17'' Silver Painted Aluminum; Variably intermittent wipers; 3.73 Axle Ratio; See less
+Engine: 3.0L Inline-6 Gas Inline
+Location: Houston, TX
+Listed Since: 2 days ago
+VIN: SALGS2RU4MA456361
+Stock Number: A456361
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Turbo/Supercharged; Four Wheel Drive; Air Suspension; Active Suspension; Power Steering; See all features

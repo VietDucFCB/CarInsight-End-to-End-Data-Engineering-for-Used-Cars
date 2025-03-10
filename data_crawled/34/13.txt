@@ -1,17 +1,17 @@
-Title: 2012 Mercedes-Benz ML 350 BlueTEC 4MATIC
-Cash Price: $8,495
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Diamond White Metallic
-Interior: Almond Beige/Black
-Mileage: Orlando, FL (310 miles away)
-Fuel Type: Diesel
-MPG: 20 city / 27 highway
+Title: 2024 Toyota Highlander LE AWD
+Cash Price: $30,799
+Finance Price: $488/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Magnetic Gray Metallic
+Interior: Black
+Mileage: 26,118 miles
+Fuel Type: Gas
+MPG: 21 city / 28 highway
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: 3.0L V-6 Diesel V
-Location: N/A
-Listed Since: Listed 89 days ago
-VIN: 4JGDA2EB3CA068999
-Stock Number: 2431
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Seat Material; Front Heated Seats; Climate Control; Bluetooth; See less; Air Conditioning; Climate Control; Dual Zone Climate Control; Cruise Control; Tinted Windows; See all features
+Engine: 2.4L Inline-4 Gas Inline
+Location: Live Oak, TX
+Listed Since: 9 days ago
+VIN: 5TDKDRBH4RS528882
+Stock Number: 54103302
+Features: Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Third Row Seating; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; 6 Speakers; AM/FM radio: SiriusXM; Radio: 8'' Toyota Audio Multimedia; Air Conditioning; Automatic temperature control; See all features

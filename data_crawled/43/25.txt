@@ -1,17 +1,17 @@
-Title: 2021 Jeep Gladiator High Altitude
-Cash Price: $28,200
-Finance Price: $436/moEstimate
-Finance Details: $2,820 due at signing · 72 mo · 7.31% APR
-Exterior: Bright White Clearcoat
-Interior: Black
-Mileage: Independence, MO (918 miles away)
-Fuel Type: Diesel
-MPG: 17 city / 22 highway
+Title: 2022 Chrysler Pacifica Hybrid Touring L FWD
+Cash Price: $16,170
+Finance Price: $236/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ceramic Gray Clearcoat
+Interior: Black/Alloy/Black
+Mileage: 69,427 miles
+Fuel Type: Plug-In Hybrid
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.0L V-6 Diesel V
-Location: N/A
-Listed Since: Listed 13 days ago
-VIN: 1C6JJTFM9ML611282
-Stock Number: B2165A
-Features: Engine: 3.0L V6 Turbo Diesel with Ess G3; Transmission: 8 Speed Automatic (8HP75); Quick Order Package 26N High Altitude; Black, Leather Trimmed Bucket Seats; GVWR: 6,350 LBS; Cold Weather Group; Trailer Tow Package; Anti Spin Differential Rear Axle; Body Color 3 Piece Hard Top; Front License Plate Bracket; Mopar Spray In Bedliner; Bluetooth Wireless Speaker; Remote Start System; Mopar Hardtop Headliner; Mopar All Weather Floor Mats; Mopar Hard Tri Fold Tonneau Cover; Mopar Grab Handle Kit; See less; Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; See all features
+Drivetrain: FWD
+Engine: N/A
+Location: Miami Lakes, FL
+Listed Since: 107 days ago
+VIN: 2C4RC1L76NR161026
+Stock Number: JR5100
+Features: Engine: 3.6L V6 Hybrid; Transmission: Eflite Si Evt; Quick Order Package 2el; 17" X 7.0" Diamond Cut with Painted Pockets Wheels; Tires: 235/65R17 BSW As; Safety Sphere Unavailable; Black Seats; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; See all features; Quick Order Package 2EL; Safety Sphere Unavailable; 6 Speakers; AM/FM radio: SiriusXM; GPS Antenna Input; See all features

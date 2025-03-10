@@ -1,17 +1,17 @@
-Title: 2023 Nissan Rogue SV AWD
-Cash Price: $16,948
-Finance Price: $262/moEstimate
-Finance Details: $1,695 due at signing · 72 mo · 7.31% APR
-Exterior: Pearl White Tricoat
-Interior: Light Gray
-Mileage: Amityville, NY (654 miles away)
+Title: 2015 Ford Escape SE 4WD
+Cash Price: $9,590
+Finance Price: $122/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
+Interior: Medium Light Stone
+Mileage: 89,415 miles
 Fuel Type: Gas
-MPG: 28 city / 35 highway
+MPG: 22 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 202 days ago
-VIN: JN8BT3BB5PW459973
-Stock Number: A293
-Features: Light Gray, Seat Trim; Chrome Rear Bumper Protector; Black Splash Guards (Set Of 4); Wheel Type; Apple CarPlay; Android Auto; Seat Material; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 6 Speakers; AM/FM Radio; AM/FM radio: SiriusXM; Radio data system; Air Conditioning; See all features
+Drivetrain: 4WD
+Engine: 1.6L Inline-4 Gas Inline
+Location: Las Vegas, NV
+Listed Since: 9 days ago
+VIN: 1FMCU9GX3FUC13868
+Stock Number: null
+Features: Wheel Type; Backup Camera; Bluetooth; 4wd Type - On Demand; Abs - 4-Wheel; Active Grille Shutters; Air Filtration; Airbag Deactivation - Occupant Sensing Passenger; Antenna Type - Diversity; Antenna Type - Mast; Anti-Theft System - Alarm; Anti-Theft System - Vehicle Immobilizer; Armrests - Rear Folding; Assist Handle - Front; Assist Handle - Rear; Auxiliary Audio Input - Bluetooth; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Axle Ratio - 3.51; Battery Saver; Braking Assist; Camera System - Rearview; Capless Fuel Filler System; Cargo Area Light; Center Console - Front Console With Armrest And Storage; Child Safety Door Locks; Child Seat Anchors - Latch System; Clock; Compass; Connected In-Car Apps - App Marketplace Integration; Cruise Control; Crumple Zones - Front; Cupholders - Front; Cupholders - Rear; Digital Odometer; Door Handle Color - Body-Color; Driver Seat Power Adjustments - 10; Driver Seat Power Adjustments - Height; Driver Seat Power Adjustments - Lumbar; Driver Seat Power Adjustments - Reclining; Electronic Brakeforce Distribution; Electronic Messaging Assistance - With Read Function; Emergency Locking Retractors - Front; Emergency Locking Retractors - Rear; Exhaust - Dual Tip; Exhaust Tip Color - Chrome; External Temperature Display; Floor Mat Material - Carpet; Floor Material - Carpet; Floor Mats - Front; Floor Mats - Rear; Front Air Conditioning; Front Air Conditioning Zones - Single; Front Airbags - Dual; Front Brake Diameter - 12.6; Front Brake Type - Ventilated Disc; Front Bumper Color - Body-Color; Front Fog Lights; Front Headrests - 2; Front Headrests - Adjustable; Front Seat Type - Bucket; Front Seatbelts - 3-Point; Front Shock Type - Gas; Front Spring Type - Coil; Front Stabilizer Bar - Diameter 25 Mm; Front Struts - Macpherson; Front Suspension Classification - Independent; Front Suspension Type - Lower Control Arms; Front Wipers - Variable Intermittent; Gauge - Tachometer; Grille Color - Black; Grille Color - Chrome Accents; Headlights - Auto Delay Off; Headlights - Auto On/Off; Headlights - Halogen; Impact Sensor - Post-Collision Safety System; In-Dash Cd - Mp3 Playback; In-Dash Cd - Single Disc; Infotainment - Sync; Infotainment Screen Size - 4.2 In.; Interior Accents - Chrome; Keypad Entry; Knee Airbags - Driver; Liftgate Window - Manual Flip-Up; Mirror Color - Body-Color; Multi-Function Display; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Panic Alarm; Multi-Function Remote - Trunk Release; One-Touch Windows - 1; Overhead Console - Front; Passenger Seat Manual Adjustments - 4; Passenger Seat Manual Adjustments - Reclining; Power Brakes; Power Door Locks - Auto-Locking; Power Outlet(S) - 12v Cargo Area; Power Outlet(S) - 12v Front; Power Outlet(S) - 12v Rear; Power Steering; Power Steering - Variable/Speed-Proportional; Power Windows; Power Windows - Lockout Button; See less

@@ -1,17 +1,17 @@
-Title: 2021 Mercedes-Benz GLC 300 SUV 4MATIC
-Cash Price: $20,588
-Finance Price: $305/moEstimate
-Finance Details: $2,059 due at signing · 72 mo · 5.74% APR
-Exterior: Brilliant Blue Metallic
-Interior: Silk Beige/Black
-Mileage: Valley Stream, NY (2475 miles away)
+Title: 2022 Nissan Kicks S
+Cash Price: $12,999
+Finance Price: $181/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Fresh Powder
+Interior: Charcoal
+Mileage: 26,507 miles
 Fuel Type: Gas
-MPG: 21 city / 28 highway
+MPG: 31 city / 36 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 53 days ago
-VIN: W1N0G8EBXMG010562
-Stock Number: M16614
-Features: Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; 6 Speakers; AM/FM radio; Radio data system; Radio: MBUX Multimedia System; Air Conditioning; See all features
+Drivetrain: FWD
+Engine: 1.6L Inline-4 Gas Inline
+Location: Dallas, TX
+Listed Since: 8 days ago
+VIN: 3N1CP5BV6NL503057
+Stock Number: 503057
+Features: Wheel Type; Navigation; Apple CarPlay; Android Auto; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; [r92] Rear Spoiler; [b92] Splash Guards Grain (4 Piece); [s92] Exterior Ground Lighting; [h92] Rockford Fosgate Audio; [l92] Carpeted Floor Mats W/cargo Mat; See all features

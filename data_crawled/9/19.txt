@@ -1,17 +1,17 @@
-Title: 2018 Nissan Altima 2.5 SL
-Cash Price: $10,900
-Finance Price: $203/moEstimate
-Finance Details: $1,090 due at signing · 72 mo · 14.22% APR
-Exterior: Storm Blue
-Interior: Charcoal
-Mileage: Houston, TX (1366 miles away)
+Title: 2021 Mercedes-Benz GLC 300 SUV 4MATIC
+Cash Price: $20,588
+Finance Price: $312/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Brilliant Blue Metallic
+Interior: Silk Beige/Black
+Mileage: 60,963 miles
 Fuel Type: Gas
-MPG: 27 city / 38 highway
+MPG: 21 city / 28 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 120 days ago
-VIN: 1N4AL3AP9JC129417
-Stock Number: 900072
-Features: Charcoal, Cloth Seat Trim; Floor Mats Plus Trunk Mat (5 Piece Carpeted); Wheel Type; Moonroof; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; Child Safety Door Locks; Vehicle Anti-Theft; ABS Brakes; Driver Airbag; Front Side Airbag; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Valley Stream, NY
+Listed Since: 61 days ago
+VIN: W1N0G8EBXMG010562
+Stock Number: M16614
+Features: Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; 6 Speakers; AM/FM radio; Radio data system; Radio: MBUX Multimedia System; Air Conditioning; See all features

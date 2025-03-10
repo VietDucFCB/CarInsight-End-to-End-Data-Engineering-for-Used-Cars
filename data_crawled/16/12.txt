@@ -1,17 +1,17 @@
-Title: 2001 Ford Econoline Commercial Cutaway E-450 158" DRW
-Cash Price: $6,995
+Title: 2018 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $15,999
 Finance Price: Not Available
 Finance Details: Not Available
 Exterior: White
-Interior: Unknown
-Mileage: Hamler, OH (1937 miles away)
+Interior: Gray
+Mileage: 146,738 miles
 Fuel Type: Gas
-MPG: N/A
+MPG: 18 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 6.8L V-10 Gas V
-Location: N/A
-Listed Since: Listed 73 days ago
-VIN: 1FDXE45SX1HB63769
-Stock Number: 24046D
-Features: 2 Speakers; AM/FM radio; Air Conditioning; Front Air Conditioning; Headlights On Audible Alert; Light & Convenience Group; Power steering; 4-Wheel Antilock Braking System; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Front anti-roll bar; Front wheel independent suspension; Passenger Airbag; Dual rear wheels; Deluxe Engine Cover Console; Driver door bin; Passenger seat mounted armrest; Voltmeter; Driver's Seat Mounted Armrest; Dual Vinyl Bucket Seats; Front Bucket Seats; Vinyl Seat Trim; 55 Gallon Fuel Tank; Passenger door bin; Variably intermittent wipers; 4.56 Axle Ratio; See less
+Drivetrain: 4WD
+Engine: 2.7L V-6 Gas V
+Location: Smyrna, GA
+Listed Since: 51 days ago
+VIN: 1FTEW1EP4JKF06128
+Stock Number: F06128
+Features: Electronic Transfer Case; 70-Amp/Hr 610CCA Maintenance-Free Battery w/Run Down Protection; 200 Amp Alternator; Towing Equipment -inc: Trailer Sway Control; HD Shock Absorbers; Front Anti-Roll Bar; Electric Power-Assist Speed-Sensing Steering; Single Stainless Steel Exhaust; 26 Gal. Fuel Tank; Auto Locking Hubs; Double Wishbone Front Suspension w/Coil Springs; Solid Axle Rear Suspension w/Leaf Springs; 4-Wheel Disc Brakes w/4-Wheel ABS- Front And Rear Vented Discs- Brake Assist- Hill Hold Control and Electric Parking Brake; Regular Box Style; Steel Spare Wheel; Clearcoat Paint; Black Side Windows Trim; Aluminum Panels; Tailgate Rear Cargo Access; Cargo Lamp w/High Mount Stop Light; Fixed Antenna; 60-40 Folding Split-Bench Front Facing Fold-Up Cushion Rear Seat; Front Cupholder; Rear Cupholder; Compass; HVAC -inc: Underseat Ducts; Glove Box; Full Cloth Headliner; Urethane Gear Shifter Material; 3 12V DC Power Outlets; Fade-To-Off Interior Lighting; Pickup Cargo Box Lights; Outside Temp Gauge; Analog Appearance; Securilock Anti-Theft Ignition (pats) Immobilizer; Air Filtration; Side Impact Beams; Dual Stage Driver And Passenger Seat-Mounted Side Airbags; Tire Specific Low Tire Pressure Warning; Dual Stage Driver And Passenger Front Airbags; Airbag Occupancy Sensor; Safety Canopy System Curtain 1st And 2nd Row Airbags; Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point- Height Adjusters and Pretensioners; Rear Child Safety Locks; See less

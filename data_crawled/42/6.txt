@@ -1,17 +1,17 @@
-Title: 2019 Volkswagen Tiguan SE 4MOTION
-Cash Price: $12,990
-Finance Price: $242/moEstimate
-Finance Details: $1,299 due at signing · 72 mo · 14.22% APR
-Exterior: Deep Black Pearl
-Interior: Titan Black
-Mileage: Homestead, FL (505 miles away)
-Fuel Type: Gas
-MPG: 21 city / 29 highway
+Title: 2022 Toyota Prius LE FWD
+Cash Price: $18,999
+Finance Price: $284/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 19,524 miles
+Fuel Type: Hybrid
+MPG: 54 city / 50 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
+Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 100 days ago
-VIN: 3VV2B7AX9KM046287
-Stock Number: REA84365A
-Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; Turbocharged; All Wheel Drive; Power Steering; ABS; 4-Wheel Disc Brakes; See all features
+Location: Los Angeles, CA
+Listed Since: 62 days ago
+VIN: JTDKAMFU4N3180225
+Stock Number: N3180225
+Features: Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; Immobilizer; Keyless Entry; Daytime Running Lights; Dual Front Airbags; Side Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts; All Wheel ABS; See less

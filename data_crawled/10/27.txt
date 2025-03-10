@@ -1,17 +1,17 @@
-Title: 2017 Mercedes-Benz C 350e Sedan RWD
-Cash Price: $16,999
-Finance Price: $252/moEstimate
-Finance Details: $1,700 due at signing · 72 mo · 5.74% APR
-Exterior: Gray
-Interior: Black
-Mileage: Los Angeles, CA (8 miles away)
-Fuel Type: Hybrid
-MPG: N/A
+Title: 2015 Nissan Altima 2.5 SL
+Cash Price: $9,990
+Finance Price: $129/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Super Black
+Interior: Charcoal
+Mileage: 104,553 miles
+Fuel Type: Gas
+MPG: 27 city / 38 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 287 days ago
-VIN: 55SWF4HB1HU221043
-Stock Number: HU221043
-Features: Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; AM/FM CD/MP3; Immobilizer; Keyless Entry; Alarm; Daytime Running Lights; Dual Front Airbags; Side Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts; All Wheel ABS; Power Sun/Moon Roof; See less
+Drivetrain: FWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Merrillville, IN
+Listed Since: 3 days ago
+VIN: 1N4AL3AP0FC598015
+Stock Number: 16014A
+Features: Charcoal, Leather Appointed Seat Trim; Technology Package; Moonroof Package; Splash Guards; Trunk Sub Floor Organizer & Kits; Body Color Body Side Moldings; Floor Mats Plus Trunk Mat (5 Piece); See less; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; See all features; Engine: 2.5L DOHC 16-Valve I-4; Transmission: Xtronic CVT (Continuously Variable); Front-wheel drive; 4.83 Axle Ratio; 550CCA Maintenance-Free Battery w/Run Down Protection; See all features

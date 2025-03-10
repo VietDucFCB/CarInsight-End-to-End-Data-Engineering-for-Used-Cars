@@ -1,17 +1,17 @@
-Title: 2023 Jeep Wrangler Unlimited Rubicon 4xe
-Cash Price: $38,943
-Finance Price: $577/moEstimate
-Finance Details: $3,894 due at signing · 72 mo · 5.74% APR
-Exterior: Granite Crystal Metallic Clearcoat
+Title: 2024 Mazda Mazda3 Preferred Hatchback Automatic FWD
+Cash Price: $19,300
+Finance Price: $290/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Platinum Quartz Metallic
 Interior: Black
-Mileage: Lakewood, NJ (598 miles away)
-Fuel Type: Plug-In Hybrid
-MPG: N/A
+Mileage: 4,312 miles
+Fuel Type: Gas
+MPG: 27 city / 35 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 104 days ago
-VIN: 1C4JJXR62PW586127
-Stock Number: C586127P
-Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29V Rubicon; Tires: LT285/70R17C BSW Off Road; Steel Bumper Group; Trailer Tow & HD Electrical Group; Black 3 Piece Hard Top; Jeep Trail Rated Kit; Mopar All Weather Floor Mats; See less; Wheel Type; Premium Audio; Navigation; Climate Control; Backup Camera; See all features; Navigation System; 9 Speakers; AM/FM Radio: Siriusxm; Radio Data System; Radio: Uconnect 4C Nav W/8.4" Display; See all features
+Drivetrain: FWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Colorado Springs, CO
+Listed Since: 159 days ago
+VIN: JM1BPALMXR1655508
+Stock Number: 78063
+Features: Cargo Mat; Cargo Net; Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; 6 Speakers; AM/FM radio; MAZDA CONNECT Infotainment System; Radio data system; Radio: AM/FM Audio System; See all features

@@ -1,17 +1,17 @@
-Title: 2017 Hyundai Sonata Sport 2.4L (PZEV)
-Cash Price: $6,019
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Lakeside Blue
-Interior: Gray
-Mileage: Pinellas Park, FL (378 miles away)
+Title: 2015 Audi Q3 Prestige quattro
+Cash Price: $9,549
+Finance Price: $122/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Monsoon Gray Metallic
+Interior: Black
+Mileage: 98,048 miles
 Fuel Type: Gas
-MPG: 25 city / 35 highway
+MPG: 20 city / 28 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 3 days ago
-VIN: 5NPE34AF9HH463857
-Stock Number: HH463857
-Features: Gray, Seating Surfaces; Value Edition Package 02; Wheel Locks; Rear Bumper Applique; Carpeted Floor Mats; First Aid Kit; Wheel Type; Moonroof; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Backup Camera; Bluetooth; See less; Sun/Moonroof; Keyless Start; First Aid Kit (Pio); Carpeted Floor Mats (Pio); Rear Spoiler; See all features
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: New Rochelle, NY
+Listed Since: 8 days ago
+VIN: WA1GFCFS4FR003571
+Stock Number: U18313T
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; Driver Assistance Package; Prestige Package; Sport Package; 10 Speakers; AM/FM radio; See all features

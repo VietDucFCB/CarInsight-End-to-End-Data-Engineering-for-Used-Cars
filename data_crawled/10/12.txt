@@ -1,17 +1,17 @@
-Title: 2020 Ford Escape SE AWD
-Cash Price: $9,999
-Finance Price: $186/moEstimate
-Finance Details: $1,000 due at signing · 72 mo · 14.22% APR
-Exterior: Agate Black Metallic
-Interior: Beige
-Mileage: Smyrna, GA (1937 miles away)
+Title: 2011 Volkswagen Routan SE
+Cash Price: $7,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Black
+Interior: Gray
+Mileage: 86,043 miles
 Fuel Type: Gas
-MPG: 26 city / 31 highway
+MPG: 17 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 140 days ago
-VIN: 1FMCU9G6XLUA59372
-Stock Number: A59372
-Features: Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Engine: 1.5L EcoBoost -inc: auto start-stop technology; 3.81 axle ratio; GVWR: TBD; 50-State Emissions System; Transmission w/Driver Selectable Mode and Oil Cooler; See all features
+Drivetrain: FWD
+Engine: 3.6L V-6 Gas V
+Location: Escondido, CA
+Listed Since: 27 days ago
+VIN: 2V4RW3DG6BR625757
+Stock Number: null
+Features: Door Handle Color - Body-Color; Grille Color - Chrome; Mirror Color - Body-Color; Rear Trunk/Liftgate - Liftgate; Side Door Type - Dual Power Sliding; Floor Mat Material - Carpet; Floor Material - Carpet; Floor Mats - Front; Front Air Conditioning; Front Air Conditioning Zones - Dual; Rear Air Conditioning; Rear Air Conditioning Zones - Single; Shift Knob Trim - Leather; Steering Wheel Trim - Leather; Floor Mats - Rear; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Power Outlet(S) - Two 12v; Power Steering; Storage - Cargo Net; Universal Remote Transmitter - Garage Door Opener; Conversation Mirror; Vanity Mirrors - Dual Illuminating; Multi-Function Remote - Panic Alarm; Ambient Lighting; Footwell Lights; Reading Lights - Front; Rearview Mirror - Auto-Dimming; Abs - 4-Wheel; Braking Assist; Front Brake Diameter - 11.9; Front Brake Width - 1.1; Front Stabilizer Bar; Front Suspension Classification - Independent; Rear Brake Diameter - 12.0; Rear Brake Width - 0.47; Rear Suspension Classification - Semi-Independent; Stability Control; Traction Control; Front Shock Type - Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Gas; Rear Spring Type - Coil; Rear Suspension Type - Torsion Beam; Front Struts - Macpherson; Front Brake Type - Ventilated Disc; Rear Brake Type - Disc; Auxiliary Audio Input - Jack; Compass; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; In-Dash Cd - 6 Disc; Radio - Am/Fm; Satellite Radio - Siriusxm; Warnings And Reminders - Low Fuel Level; Wireless Data Link - Bluetooth; In-Dash Cd - Mp3 Playback; Total Speakers - 6; Gauge - Tachometer; In-Dash Cd - Dvd Audio; Warnings And Reminders - Coolant Temperature Warning; Warnings And Reminders - Lamp Failure; Warnings And Reminders - Low Oil Pressure; Daytime Running Lights; Headlights - Auto On/Off; Tire Pressure Monitoring System; Wheel Covers - Full; Tire Type - All Season; Wheels - Aluminum Alloy; Front Wipers - Variable Intermittent; Power Windows; Rear Privacy Glass; Rear Wiper; Window Defogger - Rear; Roof Rack Crossbars - Black; Oem Roof Height - Undefined; Active Head Restraints - Dual Front; Child Seat Anchors - Latch System; Front Airbags - Dual; Knee Airbags - Driver; Power Door Locks; Side Airbags - Front; Side Curtain Airbags - Front; Side Curtain Airbags - Third Row; Anti-Theft System - Alarm; Side Curtain Airbags - Rear; Airbag Deactivation - Occupant Sensing Passenger; Side Mirror Adjustments - Power; Side Mirrors - Heated; Child Safety Door Locks; Anti-Theft System - Vehicle Immobilizer; Front Seat Type - Bucket; Seatbelt Pretensioners - Front; Upholstery - Leatherette; Driver Seat - Heated; See less

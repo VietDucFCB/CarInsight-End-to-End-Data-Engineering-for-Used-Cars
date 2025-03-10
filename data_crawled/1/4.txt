@@ -1,17 +1,17 @@
-Title: 2022 Toyota Camry SE Automatic FWD
-Cash Price: $15,152
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Predawn Gray Mica
-Interior: Black
-Mileage: Fort Myers, FL (2231 miles away)
+Title: 2022 Chevrolet Malibu LT
+Cash Price: $13,900
+Finance Price: $197/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Mosaic Black Metallic
+Interior: Jet Black
+Mileage: 35,185 miles
 Fuel Type: Gas
-MPG: 28 city / 39 highway
+MPG: 29 city / 36 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 136 days ago
-VIN: 4T1G11AKXNU639869
-Stock Number: CU307
-Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; 4 Cylinder Engine; ABS; 4-Wheel Disc Brakes; 8-Speed A/T; A/C; See all features
+Engine: 1.5L Inline-4 Gas Inline
+Location: Houston, TX
+Listed Since: 3 days ago
+VIN: 1G1ZD5ST7NF166206
+Stock Number: null
+Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; License Plate Bracket, Front; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Black With Chrome Accents; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; See all features

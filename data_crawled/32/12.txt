@@ -1,17 +1,17 @@
-Title: 2018 Nissan Altima 2.5 SL
-Cash Price: $13,990
-Finance Price: $261/moEstimate
-Finance Details: $1,399 due at signing · 72 mo · 14.22% APR
-Exterior: White
-Interior: Tan
-Mileage: Everett, WA (2422 miles away)
+Title: 2014 Nissan JUKE SL AWD CVT
+Cash Price: $7,999
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: White Pearl
+Interior: Black/Red
+Mileage: 87,733 miles
 Fuel Type: Gas
-MPG: 27 city / 38 highway
+MPG: 25 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 40 days ago
-VIN: 1N4AL3AP5JC285261
-Stock Number: 285261
-Features: ABS (4-Wheel); Air Conditioning; Alarm System; AM/FM Stereo; Blind-Spot Monitor; Bluetooth Wireless; Bose Premium Sound; CD/MP3 (Single Disc); Color: White; Daytime Running Lights; Dual Air Bags; Dual Power Seats; F&amp;R Head Curtain Air Bags; Fog Lights; Heated Seats; Intelligent Cruise Control; Keyless Entry; Leather; LED Headlamps; Moon Roof; Navigation System; NissanConnect; Power Door Locks; Power Steering; Power Trunk Release; Power Windows; Premium Wheels; Push Button Start; R/V Monitor; Side Air Bags; SiriusXM Satellite; Technology Pkg; Tilt &amp; Telescoping Wheel; Traction Control; Vehicle Dynamic Control; See less
+Drivetrain: AWD
+Engine: 1.6L Inline-4 Gas Inline
+Location: San Diego, CA
+Listed Since: 30 days ago
+VIN: JN8AF5MV1ET483854
+Stock Number: null
+Features: Black/Red, Leather Seat Trim; [R10] Sport Package; [G01] Mid Year Change; [L93] Carpeted Floormats & Cargo Mat (L93); Center Armrest; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less; Door Handle Color - Body-Color; Fender Lip Moldings - Body-Color; Front Bumper Color - Body-Color; Grille Color - Black With Chrome Accents; Mirror Color - Red; See all features

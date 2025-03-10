@@ -1,17 +1,17 @@
-Title: 2004 BMW 330Ci Convertible
-Cash Price: $5,999
+Title: 2008 Mercedes-Benz CLS 550
+Cash Price: $12,999
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Mystic Blue Metallic
-Interior: Pearl
-Mileage: Sacramento, CA (2343 miles away)
+Exterior: Black
+Interior: Black
+Mileage: 21,776 miles
 Fuel Type: Gas
-MPG: 19 city / 28 highway
+MPG: 14 city / 21 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 372 days ago
-VIN: WBABW53484PL40249
-Stock Number: 13506
-Features: Wheel Type; Premium Audio; Seat Material; Power Door Locks; Navigation System; 6-Cyl 3.0 Liter; AM/FM Stereo; Harman Kardon Sound; Air Conditioning; Power Windows; Sport Pkg; Cold Weather Pkg; Performance Pkg; Power Steering; Leather; Premium Wheels 19+; Side Air Bags; CD/MP3 (Multi Disc); Dual Power Seats; Parking Sensors; BMW Assist; Automatic; Stability Control; Cruise Control; Dual Air Bags; Premium Pkg; Xenon Headlamps; ABS (4-Wheel); RWD; Traction Control; Hill Descent Control; Telescoping Wheel; See less
+Engine: 5.5L V-8 Gas V
+Location: Hallandale Beach, FL
+Listed Since: 80 days ago
+VIN: WDDDJ72X58A118512
+Stock Number: 118512
+Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Climate Control; Air Filtration - Active Charcoal; Center Console Trim - Leather; Center Console Trim - Wood; Dash Trim - Wood; Door Trim - Leather; Floor Mat Material - Carpet; Floor Mats - Front; Front Air Conditioning - Automatic Climate Control; Front Air Conditioning Zones - Dual; Rear Air Conditioning - Automatic Climate Control; Rear Air Conditioning Zones - Dual; Shift Knob Trim - Leather; Steering Wheel Trim - Leather; Floor Mats - Rear; Armrests - Rear Center Folding With Storage; Center Console - Front Console With Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Easy Entry - Power Driver Seat; Easy Entry - Power Steering Wheel; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Storage - Cargo Net; Storage - Cargo Tie-Down Anchors And Hooks; Storage - Door Pockets; Storage - Front Seatback; Universal Remote Transmitter; Power Outlet(S) - 12v Cargo Area; Power Outlet(S) - 12v Front; Power Outlet(S) - 12v Rear; Power Steering - Variable/Speed-Proportional; Vanity Mirrors - Dual Illuminating; Cargo Area Light; Reading Lights - Front; Reading Lights - Rear; Memorized Settings - 3 Driver; Memorized Settings - Driver Seat; Memorized Settings - Passenger Seat; Memorized Settings - Side Mirrors; Memorized Settings - Steering Wheel; One-Touch Windows - 4; Rearview Mirror - Auto-Dimming; Abs - 4-Wheel; Active Suspension; Air Suspension; Braking Assist; Driver Adjustable Suspension - Height; Driver Adjustable Suspension - Ride Control; Electronic Brakeforce Distribution; Front Brake Diameter - 13.0; Front Brake Width - 1.3; Front Stabilizer Bar; Front Suspension Classification - Independent; Front Suspension Type - Multi-Link; Rear Brake Diameter - 11.8; Rear Brake Width - 0.9; Rear Stabilizer Bar; Rear Suspension Classification - Independent; Rear Suspension Type - Multi-Link; Self Leveling Suspension; Stability Control; Suspension Control - Electronic; Traction Control; Front Spring Type - Pneumatic; Rear Spring Type - Pneumatic; Front Brake Type - Ventilated Disc; Rear Brake Type - Ventilated Disc; Antenna Type - Element; Clock; External Temperature Display; In-Dash Cd - 6 Disc; Radio - Am/Fm; Satellite Communications - Teleaid; Satellite Radio - Siriusxm; Speed Sensitive Volume Control; Subwoofer - 1; Trip Odometer; Warnings And Reminders - Low Fuel Level; Premium Brand - Harman/Kardon; Surround Sound - 7.1; Total Speakers - 13; Gauge - Tachometer; Daytime Running Lights; Front Fog Lights; Headlights - Auto Delay Off; Headlights - Auto On; Rear Fog Lights; Exterior Entry Lights - Approach Lamps; Tire Pressure Monitoring System; Spare Tire Mount Location - Inside; Spare Tire Size - Temporary; Spare Wheel Type - Steel; Tire Profile - 40; Tire Speed Rating - Z; Tire Type - Performance; Tire Width - 245; Wheel Diameter - 18 Inch; See less

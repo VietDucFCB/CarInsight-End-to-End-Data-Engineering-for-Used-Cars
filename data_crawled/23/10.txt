@@ -1,17 +1,17 @@
-Title: 2015 Jeep Grand Cherokee Limited 4WD
-Cash Price: $14,400
-Finance Price: $247/moEstimate
-Finance Details: $1,440 due at signing · 72 mo · 11.02% APR
-Exterior: Granite Crystal Metallic Clearcoat
-Interior: Black
-Mileage: Pittsburgh, PA (2144 miles away)
+Title: 2016 Ford Econoline Commercial Cutaway E-450 176" DRW
+Cash Price: $14,999
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Gray
+Mileage: 117,765 miles
 Fuel Type: Gas
-MPG: 17 city / 24 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 56 days ago
-VIN: 1C4RJFBG8FC753400
-Stock Number: TR15JEEPGC
-Features: Engine: 3.6L V6 24V VVT; Transmission: 8 Speed Automatic (845re); Quick Order Package 23H; 3.45 Rear Axle Ratio; 18" X 8.0" Aluminum Polished Wheels; Tires: P265/60R18 BSW As On/Off Road LR; Black, Premium Leather Trimmed Bucket Seats; GVWR: 6,500 LBS; Radio: Uconnect 8.4 Nav; See less; Wheel Type; Power Trunk/Liftgate; Navigation; Seat Material; Front Heated Seats; See all features; Engine: 3.6L V6 24V VVT; 3.45 Rear Axle Ratio; Normal Duty Suspension; GVWR: 6-500 lbs; 50 State Emissions; See all features
+Drivetrain: RWD
+Engine: 6.8L V-10 Gas V
+Location: Chantilly, VA
+Listed Since: 88 days ago
+VIN: 1FDXE4FS2GDC31030
+Stock Number: JTC31030
+Features: ABS (4-Wheel); Premium Wheels; Towing Pkg; 16' x 8' Box; Automatic 5-Spd w/Overdrive & TorqShift; V10 6.8 Liter; Power Steering; Dual Air Bags; Premium Sound; 2WD; See less

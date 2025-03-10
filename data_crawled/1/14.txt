@@ -1,17 +1,17 @@
-Title: 2022 Ford F-150 XLT SuperCab 8' Box 2WD
-Cash Price: $26,215
-Finance Price: $489/moEstimate
-Finance Details: $2,622 due at signing · 72 mo · 14.22% APR
-Exterior: Agate Black Metallic
-Interior: Black W/Medium Dark Slate
-Mileage: Arab, AL (1821 miles away)
+Title: 2023 Ram ProMaster Cargo Van 2500 High Roof 159" EXT
+Cash Price: $22,988
+Finance Price: $353/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Black
+Mileage: 68,670 miles
 Fuel Type: Gas
-MPG: 20 city / 26 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 2.7L V-6 Gas V
-Location: N/A
-Listed Since: Listed 51 days ago
-VIN: 1FTEX1CP5NKF30251
-Stock Number: U5204A
-Features: Trailer Tow Package; 2.7L V6 Ecoboost Payload Package; Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; 2.7L V6 EcoBoost Payload Package; Bed Utility Package; Equipment Group 300A Standard; Trailer Tow Package; 6 Speakers; See all features
+Drivetrain: FWD
+Engine: 3.6L V-6 Gas V
+Location: Valley Stream, NY
+Listed Since: 44 days ago
+VIN: 3C6LRVDG5PE563741
+Stock Number: M16663
+Features: Engine: 3.6L V6 24V VVT; Transmission: 9 Speed 948te Automatic; Quick Order Package 22A; 16" X 6.0" Steel Wheels; Tires: LT225/75r16e BSW All Season; Black, Vinyl Bucket Seats; Wide Power Heated Mirrors; Front License Plate Bracket; Speed Control; Passenger Bucket Seat; See less; Backup Camera; Bluetooth; Quick Order Package 22A; 4 Speakers; AM/FM radio: SiriusXM; Radio: Uconnect 5 w/7'' Display; Air Conditioning; See all features

@@ -1,17 +1,17 @@
-Title: 2017 Buick Enclave Leather FWD
-Cash Price: $15,662
-Finance Price: $292/moEstimate
-Finance Details: $1,566 due at signing · 72 mo · 14.22% APR
-Exterior: Ebony Twilight Metallic
-Interior: Ebony With Ebony Interior Accents
-Mileage: Brownsville, TX (1157 miles away)
-Fuel Type: Gas
-MPG: 15 city / 22 highway
+Title: 2023 Volvo XC40 Recharge Plus
+Cash Price: $29,199
+Finance Price: $531/moEstimate
+Finance Details: $2,500 due at signing · 60 mo · 7.19% APR
+Exterior: Black Stone
+Interior: Blkblue
+Mileage: 23,455 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 5GAKRBKD7HJ171801
-Stock Number: PPG2502531
-Features: Engine, 3.6L Variable Valve Timing V6 With Sidi (Spark Ignition Direct Injection), Dohc; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Leather Preferred Equipment Group; Wheels, 20" (50.8 CM) Chrome Clad Cast Aluminum With Bronze Accents; Tires, P255/55R20 All Season, Blackwall; Seating, 7 Passenger, Front Bucket; Ebony With Ebony Interior Accents, Perforated Leather Seating Surface; Audio System, Color Touch Navigation Radio With Intellilink; Buick Interior Protection Package; Enclave Tuscan Edition; Grille, Bronze Toned; License Plate Bracket, Front Mounting Package; Audio System Feature, Bose Performance Enhanced Premium; Audio System Controls, Rear With Headphone Jacks And Display; Navtraffic.; All Weather Floor Mats, First And Second Row; All Weather Floor Mats, Third Row; Cargo Mat, All Weather; Forward Collision Alert And Lane Departure Warning; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; See all features; Preferred Equipment Group 1SL; 3.16 Axle Ratio; Wheels: 19'' 10-Spoke Aluminum; Wheels: 20'' Chrome-Clad Cast Aluminum w/Bronze Pockets; 7-Passenger Seating; See all features
+Drivetrain: AWD
+Engine: N/A
+Location: San Francisco, CA
+Listed Since: 46 days ago
+VIN: YV4ED3ULXP2069922
+Stock Number: P2069922
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation system: Sensus Navigation Pro; Internet access capable: Digital Services Package w/ 4 Year Subscription; 8 Speakers; Audio memory; Radio data system; See all features

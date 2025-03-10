@@ -1,17 +1,17 @@
-Title: 2015 Ford Escape SE 4WD
-Cash Price: $8,500
-Finance Price: $159/moEstimate
-Finance Details: $850 due at signing · 72 mo · 14.22% APR
-Exterior: Tuxedo Black
-Interior: Beige
-Mileage: Newark, CA (313 miles away)
+Title: 2022 Dodge Challenger GT AWD
+Cash Price: $16,126
+Finance Price: $235/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Smoke Show
+Interior: Black
+Mileage: 64,487 miles
 Fuel Type: Gas
-MPG: 22 city / 29 highway
+MPG: 18 city / 27 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 1FMCU9GX7FUA97610
-Stock Number: A97610
-Features: Wheel Type; Backup Camera; Bluetooth; ABS (4-Wheel); Hill Start Assist Control; Power Windows; Traction Control; Fog Lights; 4WD; Auto 6-Spd w/SelShft; Keyless Entry; AM/FM Stereo; Power Seat; CD/MP3 (Single Disc); SiriusXM Satellite; SYNC; MyFord; Side Air Bags; Tilt Wheel; Backup Camera; Power Steering; Cruise Control; Alloy Wheels; Power Door Locks; Air Conditioning; Anti-Theft System; Leather; AdvanceTrac; 4-Cyl EcoBoost 1.6T; F&R Head Curtain Air Bags; Dual Air Bags; See less
+Drivetrain: AWD
+Engine: 3.6L V-6 Gas V
+Location: Fort Lauderdale, FL
+Listed Since: 50 days ago
+VIN: 2C3CDZKG7NH234479
+Stock Number: LU1195
+Features: Engine: 3.6L V6 24V VVT; Transmission: 8 Speed Automatic (850re); Quick Order Package 21J; 20" X 8" Black Noise Awd Wheels; Blacktop Package; Driver Convenience Group; Plus Package; Front License Plate Bracket; Radio: Uconnect 4C with 8.4" Display; SiriusXM Satellite Radio; See less; Wheel Type; Premium Audio; Apple CarPlay; Android Auto; Seat Material; See all features

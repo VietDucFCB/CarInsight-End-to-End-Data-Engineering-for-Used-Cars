@@ -1,17 +1,17 @@
-Title: 2019 BMW X3 sDrive30i RWD
-Cash Price: $16,490
-Finance Price: $324/moEstimate
-Finance Details: $1,649 due at signing · 72 mo · 16.22% APR
-Exterior: Alpine White
+Title: 2019 Tesla Model 3 Performance Dual Motor
+Cash Price: $17,995
+Finance Price: $267/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Pearl White Multi-Coat
 Interior: Black
-Mileage: Plano, TX (1256 miles away)
-Fuel Type: Gas
-MPG: 23 city / 30 highway
+Mileage: 86,663 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: RWD
+Drivetrain: AWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 1 day ago
-VIN: 5UXTR7C54KLR44077
-Stock Number: R44077AV
-Features: 18" X 7.0" Y Spoke (Style 688) Wheels; Alpine White; Black, Sensatec Upholstery; Convenience Package; Space Saver Spare; Panoramic Moonroof; Heated Front Seats; Heated Steering Wheel; Navigation System; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Seat Material; See all features; Navigation System; 12 Speakers; AM/FM radio; Hi-Fi Sound System; Radio data system; See all features
+Location: Temple Hills, MD
+Listed Since: 30 days ago
+VIN: 5YJ3E1EB1KF199708
+Stock Number: 199708
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less

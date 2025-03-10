@@ -1,17 +1,17 @@
-Title: 2017 Ford Focus SEL Hatchback
-Cash Price: $5,450
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Oxford White
-Interior: Charcoal Black
-Mileage: Fontana, CA (61 miles away)
+Title: 2017 Kia Sedona LX
+Cash Price: $10,000
+Finance Price: $129/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright Silver
+Interior: Gray
+Mileage: 103,499 miles
 Fuel Type: Gas
-MPG: 26 city / 36 highway
-Transmission: Manual Transmission
+MPG: 18 city / 24 highway
+Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 50 days ago
-VIN: 1FADP3M27HL211075
-Stock Number: 211075
-Features: Equipment Group 250A; Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Engine:; 2.0L; I-4; Gdi; Ti-Vct; Pzev
+Engine: 3.3L V-6 Gas V
+Location: Independence, MO
+Listed Since: 11 days ago
+VIN: KNDMB5C18H6312914
+Stock Number: X14400A
+Features: Gray, Seat Trim; LX Essentials Premium Package; Remote Start (Push Button Start); Carpeted Floor Mats; Cargo Net; Wheel Type; Android Auto; Seat Material; Front Heated Seats; Third Row Seating; Remote Engine Start; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less

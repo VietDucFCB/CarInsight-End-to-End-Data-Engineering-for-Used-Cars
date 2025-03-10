@@ -1,17 +1,17 @@
-Title: 2013 Toyota Tacoma Access Cab I4 4WD Manual
-Cash Price: $17,999
+Title: 2021 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $23,998
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: White
-Interior: Gray
-Mileage: Chantilly, VA (446 miles away)
+Exterior: Black
+Interior: Black
+Mileage: 121,777 miles
 Fuel Type: Gas
-MPG: 18 city / 20 highway
-Transmission: Manual Transmission
+MPG: 19 city / 22 highway
+Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 5TFUX4EN2DX021051
-Stock Number: S021051
-Features: Power Door Locks; 4WD/AWD; ABS Brakes; Electronic Brake Assistance; Limited Slip Differential; Traction Control; Vehicle Stability Control System; Driver Airbag; Front Side Airbag; Passenger Airbag; Side Head Curtain Airbag; Air Conditioning; Tachometer; Tilt Steering; Tilt Steering Column; Telescopic Steering Column; Tire Pressure Monitor; Trip Computer; AM/FM Radio; CD Player; Second Row Folding Seat; Cargo Area Tiedowns; Pickup Truck Bed Liner; Daytime Running Lights; Front Air Dam; Skid Plate; Splash Guards; Full Size Spare Tire; Steel Wheels; Power Windows; Interval Wipers; See less
+Engine: 3.5L V-6 Gas V
+Location: Memphis, TN
+Listed Since: 268 days ago
+VIN: 1FTFW1E89MFB31170
+Stock Number: B31170
+Features: Tilt & Telescoping Wheel; Reverse Sensing System; Side Air Bags; FordPass Connect; ABS (4-Wheel); AM/FM Stereo; Hill Start Assist Control; XLT Chrome Appearance Pkg; Alarm System; Power Steering; Cruise Control; Towing Pkg; Blind-Spot Information System; Ford Co-Pilot360 Assist; Power Windows; SYNC; F&R Head Curtain Air Bags; Keyless Entry; Dual Air Bags; Daytime Running Lights; AdvanceTrac; Automatic 10-Spd w/Sport Mode; Lane Keeping System; 4WD; Air Conditioning; Power Door Locks; Alloy Wheels; Backup Camera; Traction Control; Fog Lights; V6 EcoBoost Twin Turbo 3.5 Liter; See less

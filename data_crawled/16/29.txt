@@ -1,17 +1,17 @@
-Title: 2018 Kia Optima LX
-Cash Price: $11,398
-Finance Price: $213/moEstimate
-Finance Details: $1,140 due at signing · 72 mo · 14.22% APR
-Exterior: Ebony Black
-Interior: Beige
-Mileage: Houston, TX (1378 miles away)
-Fuel Type: Gas
-MPG: 25 city / 36 highway
+Title: 2022 Kia Niro EV EX
+Cash Price: $15,966
+Finance Price: $232/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Runway Red
+Interior: Charcoal
+Mileage: 28,505 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 85 days ago
-VIN: 5XXGT4L33JG222129
-Stock Number: G222129
-Features: Beige, Cloth Seat Trim; Carpeted Floor Mats; Wheel Type; Apple CarPlay; Android Auto; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; CARPETED FLOOR MATS; BEIGE  CLOTH SEAT TRIM  -inc: CleanTex anti-soiling; EBONY BLACK; Front Wheel Drive; Power Steering; See all features
+Location: Temple Hills, MD
+Listed Since: 88 days ago
+VIN: KNDCC3LG9N5122574
+Stock Number: 122574
+Features: Wheel Locks; Cargo Mat; Carpeted Floor Mats; Cargo Net; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less

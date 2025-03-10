@@ -1,17 +1,17 @@
-Title: 2012 Tesla Model S Performance RWD
-Cash Price: $15,495
+Title: 2008 Honda Civic EX Sedan Automatic
+Cash Price: $3,750
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Gray
-Interior: Black
-Mileage: Clarksville, TN (499 miles away)
-Fuel Type: Electric
-MPG: N/A
+Exterior: Nighthawk Black Pearl
+Interior: Gray Cloth Interior
+Mileage: 226,843 miles
+Fuel Type: Gas
+MPG: 25 city / 36 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 160 days ago
-VIN: 5YJSA1CP4CFP02719
-Stock Number: P02719
-Features: Panorama Roof; Daytime Running Lights; Stability Control; Dual Power Seats; Rear Spoiler; Head Curtain Air Bags; Tilt Wheel; ABS (4-Wheel); AM/FM Stereo; RWD; Bluetooth Wireless; Alarm System; Leather; Air Conditioning; Single-Speed Fixed Gear; Heated Seats; Power Steering; Alloy Wheels; Active Air Suspension; Knee Air Bags; Fog Lights; AC Electric Motor; Power Windows; Side Air Bags; Cruise Control; Backup Camera; Keyless Entry; Dual Air Bags; Power Trunk Release; See less
+Drivetrain: FWD
+Engine: 1.8L Inline-4 Gas Inline
+Location: Dallas, TX
+Listed Since: 121 days ago
+VIN: 1HGFA16828L094033
+Stock Number: P24541
+Features: ABS Brakes; Air Conditioning; Alloy Wheels; AM/FM Radio; CD Player; Child Safety Door Locks; Cruise Control; Daytime Running Lights; Driver Airbag; Front Air Dam; Front Side Airbag; Interval Wipers; Keyless Entry; Manual Sunroof; Passenger Airbag; Power Adjustable Exterior Mirror; Power Door Locks; Power Sunroof; Power Windows; Rear Window Defogger; Second Row Folding Seat; Side Head Curtain Airbag; Steering Wheel Mounted Controls; Tachometer; Telescopic Steering Column; Tilt Steering; Tilt Steering Column; Tire Pressure Monitor; Trunk Anti-Trap Device; Vehicle Anti-Theft; See less

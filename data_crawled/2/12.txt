@@ -1,17 +1,17 @@
-Title: 2023 Chevrolet Malibu LT
-Cash Price: $13,799
-Finance Price: $216/moEstimate
-Finance Details: $1,380 due at signing · 72 mo · 7.7% APR
-Exterior: Sterling Gray Metallic
-Interior: Jet Black
-Mileage: Houston, TX (1394 miles away)
+Title: 2021 Jeep Wrangler Unlimited Sahara High Altitude
+Cash Price: $22,488
+Finance Price: $345/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Billet Silver Metallic Clearcoat
+Interior: Black
+Mileage: 70,455 miles
 Fuel Type: Gas
-MPG: 27 city / 35 highway
+MPG: 21 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 24 days ago
-VIN: 1G1ZD5ST3PF205781
-Stock Number: 52583112
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 16" (40.6 CM) Aluminum; Tires, P205/65R16 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Deleted 3 Years Of Remote Access.; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; Premium audio system: Chevrolet Infotainment 3 Plus; Radio data system; See all features
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Orlando, FL
+Listed Since: 5 days ago
+VIN: 1C4HJXEG2MW548177
+Stock Number: A0530
+Features: 8 Speakers; AM/FM radio: SiriusXM; Apple CarPlay; GPS Antenna Input; Radio data system; Radio: Uconnect 4 w/7'' Display; Air Conditioning; Automatic temperature control; Front dual zone A/C; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Heavy Duty Suspension w/Gas Shocks; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Integrated roll-over protection; Low tire pressure warning; Occupant sensing airbag; Rear anti-roll bar; Brake assist; Electronic Stability Control; ParkView Rear Back-Up Camera; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Aux Battery; Stop-Start Dual Battery System; Heated door mirrors; Non-Lock Fuel Cap w/o Discriminator; Power door mirrors; Apple CarPlay/Android Auto; Compass; Driver door bin; Driver vanity mirror; Front reading lights; Garage door transmitter; Google Android Auto; Illuminated entry; Integrated Voice Command w/Bluetooth; Leather steering wheel; Outside temperature display; Passenger vanity mirror; Rear reading lights; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Voltmeter; Cloth Low-Back Bucket Seats; Front Bucket Seats; Split folding rear seat; Front Center Armrest w/Storage; Passenger door bin; Alloy wheels; Wheels: 18'' x 7.5'' Polished w/Gray Spokes; Variably intermittent wipers; 3.45 Rear Axle Ratio; See less

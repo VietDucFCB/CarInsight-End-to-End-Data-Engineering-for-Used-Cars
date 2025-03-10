@@ -1,17 +1,17 @@
-Title: 2016 Chevrolet Malibu LS with 1LS
-Cash Price: $6,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Silver Ice Metallic
-Interior: Jet Black
-Mileage: Fredricksburg, VA (409 miles away)
+Title: 2024 Ford E-Series Cutaway E-350 SRW 138" WB
+Cash Price: $35,000
+Finance Price: $560/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Gray
+Mileage: 3,889 miles
 Fuel Type: Gas
-MPG: 27 city / 37 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 58 days ago
-VIN: 1G1ZB5ST3GF351913
-Stock Number: EAG2943
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, 6 Speed Automatic; Preferred Equipment Group; Seats, Front Bucket; Jet Black, Premium Cloth Seat Trim; Audio System, Chevrolet Mylink Radio With 7" Diagonal Color Touch Screen, Am/FM Stereo; License Plate Bracket, Front; See less; Wheel Type; Apple CarPlay; Android Auto; Backup Camera; Bluetooth; A/C Front; Alloy Wheels; CD Player; Anti-Lock Brakes; Compact Disc /AM/FM; See all features
+Drivetrain: RWD
+Engine: 7.3L V-8 Gas V
+Location: Brea, CA
+Listed Since: 18 days ago
+VIN: 1FDWE3FN2RDD26741
+Stock Number: FORDECON
+Features: 

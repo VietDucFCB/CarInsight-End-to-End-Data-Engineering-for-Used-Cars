@@ -1,17 +1,17 @@
-Title: 2023 Toyota Tacoma TRD Pro Double Cab 5' Bed V6 4WD Manual
-Cash Price: $39,497
-Finance Price: $737/moEstimate
-Finance Details: $3,950 due at signing · 72 mo · 14.22% APR
-Exterior: Barcelona Red Metallic
-Interior: Black
-Mileage: Vancouver, WA (2416 miles away)
-Fuel Type: Gas
-MPG: 17 city / 20 highway
+Title: 2015 BMW i3 60 Ah
+Cash Price: $7,745
+Finance Price: $90/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Laurel Gray Metallic W/Bmw I Frozen Blue Accent
+Interior: Tera Dalbergia Brown
+Mileage: 51,592 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 44 days ago
-VIN: 3TMCZ5AN3PM606474
-Stock Number: B20188
-Features: Wheel Type; Moonroof; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features
+Drivetrain: RWD
+Engine: N/A
+Location: Fort Worth, TX
+Listed Since: 30 days ago
+VIN: WBY1Z2C59FV287619
+Stock Number: A-806
+Features: 

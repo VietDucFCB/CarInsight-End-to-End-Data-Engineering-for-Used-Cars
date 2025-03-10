@@ -1,17 +1,17 @@
-Title: 1997 Chevrolet S-10 LS Extended Cab Standard Box 2WD
-Cash Price: $3,500
+Title: 2017 Toyota Tacoma TRD Sport Double Cab 5' Bed V6 4WD Automatic
+Cash Price: $16,000
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: White
-Interior: Gray
-Mileage: Seattle, WA (2425 miles away)
+Exterior: Magnetic Gray Metallic
+Interior: Black/Orange
+Mileage: 189,054 miles
 Fuel Type: Gas
-MPG: 23 city / 30 highway
+MPG: 18 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 4.3L V-6 Gas V
-Location: N/A
-Listed Since: Listed 92 days ago
-VIN: 1GCCS19X9V8172887
-Stock Number: 172887
-Features: 
+Drivetrain: 4WD
+Engine: 3.5L V-6 Gas V
+Location: Niles, MI
+Listed Since: 23 days ago
+VIN: 3TMCZ5AN2HM048537
+Stock Number: N12705A
+Features: Wheel Type; Navigation; Backup Camera; Bluetooth; Navigation System; 6 Speakers; AM/FM radio: SiriusXM; CD player; Radio: Entune Premium w/AM/FM/CD/Nav/App Suite; Air Conditioning; 120V/400W Deck Mounted AC Power; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Speed-sensing steering; Traction control; ABS brakes; Anti-whiplash front head restraints; Dual front impact airbags; Dual front side impact airbags; Engine Immobilizer; Front anti-roll bar; Front wheel independent suspension; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Smart Key w/Push Button Start; Brake assist; Electronic Stability Control; Exterior Parking Camera Rear; Front fog lights; LED Daytime Running Lights; Panic alarm; Remote Keyless Entry System; Security system; Cruise Control; Speed control; Bumpers: body-color; Color-Keyed Overfenders; Power door mirrors; Rear step bumper; Turn signal indicator mirrors; Wide Angle Front Fog Lamps; Auto-Dimming Inside Rear-View Mirror w/Compass; Auto-dimming Rear-View mirror; Compass; Driver door bin; Front reading lights; Illuminated entry; Leather Shift Knob; Outside temperature display; Overhead console; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Fabric Seat Trim (FD); Front Bucket Seats; Front Center Armrest; Split folding rear seat; Passenger door bin; Alloy wheels; Wheels: 17'' x 7.5'' Machined Alloy; Power Sliding Rear Window w/Privacy Glass; Variable Intermittent Wipers; Variably intermittent wipers; Axle Ratio: 3.91; See less

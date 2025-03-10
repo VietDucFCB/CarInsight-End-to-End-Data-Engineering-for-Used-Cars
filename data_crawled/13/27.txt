@@ -1,17 +1,17 @@
-Title: 2018 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof SWB RWD
-Cash Price: $16,999
-Finance Price: $268/moEstimate
-Finance Details: $1,700 due at signing · 72 mo · 7.99% APR
-Exterior: Blue
-Interior: Black
-Mileage: Raleigh, NC (2249 miles away)
-Fuel Type: Diesel
-MPG: N/A
+Title: 2016 Rolls-Royce Ghost RWD
+Cash Price: $109,999
+Finance Price: $1,853/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ensign Red
+Interior: Leather Heated Front Bucket Seats
+Mileage: 27,087 miles
+Fuel Type: Gas
+MPG: 13 city / 21 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 3.0L V-6 Diesel V
-Location: N/A
-Listed Since: Listed 53 days ago
-VIN: WD3PE7CD0JP635018
-Stock Number: 635018
-Features: 
+Engine: 6.6L V-12 Gas V
+Location: Los Angeles, CA
+Listed Since: 6 days ago
+VIN: SCA664S59GUX53657
+Stock Number: X53657
+Features: Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Remote Engine Start; Climate Control; Parking Sensors; Bluetooth; See less; Variable Power Steering; Dual Power Seats; Premium Wheels 19+; Dynamic Traction Control; Air Conditioning; See all features

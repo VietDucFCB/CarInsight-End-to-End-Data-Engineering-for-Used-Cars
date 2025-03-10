@@ -1,17 +1,17 @@
-Title: 2023 Ford F-150 XLT SuperCrew 5.5' Box 4WD
-Cash Price: $34,998
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Black
-Interior: Tan
-Mileage: Dothan, AL (0 miles away)
+Title: 2021 Ford Expedition XLT RWD
+Cash Price: $22,500
+Finance Price: $345/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Agate Black Metallic
+Interior: Unknown
+Mileage: 94,326 miles
 Fuel Type: Gas
-MPG: 19 city / 22 highway
+MPG: 17 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
+Drivetrain: RWD
 Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 1FTFW1E87PFA34473
-Stock Number: 26479841
-Features: 4WD/AWD; Turbo Charged Engine; Satellite Radio Ready; Parking Sensors; Rear View Camera; Bed Liner; Alloy Wheels; Auxiliary Audio Input; Overhead Airbags; Traction Control; Side Airbags; AM/FM Stereo; Power Mirrors; Cloth Seats; Cruise Control; Rear Defroster; Air Conditioning; Power Windows; Power Locks; Sync System; ABS Brakes; Automatic Transmission; Android Auto; Bluetooth Technology; Apple CarPlay; Lane Departure Warning; Blind Spot Monitor; Fog Lamps; WiFi Hotspot; Daytime Running Lights; Automatic Highbeams; See less
+Location: Tampa, FL
+Listed Since: 200 days ago
+VIN: 1FMJU1HT9MEA77273
+Stock Number: T2691
+Features: Wheel Type; Apple CarPlay; Android Auto; Third Row Seating; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Engine:; 3.5L; Ecoboost; V6

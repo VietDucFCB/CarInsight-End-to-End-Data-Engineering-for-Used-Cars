@@ -1,17 +1,17 @@
-Title: 2020 Chevrolet Silverado 1500 RST Crew Cab Short Bed 4WD
-Cash Price: $18,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Northsky Blue Metallic
-Interior: Jet Black
-Mileage: Cumming, GA (1952 miles away)
+Title: 2024 Ford Mustang EcoBoost Premium Fastback
+Cash Price: $28,700
+Finance Price: $452/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
+Interior: Black Onyx
+Mileage: 2,636 miles
 Fuel Type: Gas
-MPG: 19 city / 22 highway
+MPG: 22 city / 33 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 60 days ago
-VIN: 3GCUYEED3LG147125
-Stock Number: R107569B
-Features: Engine, 5.3L Ecotec3 V8; Transmission, 8 Speed Automatic, Electronically Controlled; GVWR, 7100 LBS. (3221 KG); Rear Axle, 3.23 Ratio; RST Preferred Equipment Group; Wheels, 20" X 9" (50.8 CM X 22.9 CM) Painted Aluminum; Tires, 275/60R20SL All Terrain, Blackwall; Tire, Spare 255/80R17SL All Season, Blackwall; Seats, Front Bucket; Jet Black, Cloth Seat Trim; Audio System, Chevrolet Infotainment 3 Plus System; All Star Edition; Convenience Package With Bucket Seats; Z71 Off Road Package; Convenience Package II; Trailering Package; Hill Descent Control; Transfer Case, Two Speed; Differential, Heavy Duty Locking Rear; Cooling, External Engine Oil Cooler; Cooling, Auxiliary External Transmission Oil Cooler; Air Cleaner, High Capacity; Alternator, 170 Amps; Trailer Brake Controller, Integrated; Skid Plates; Exhaust, Dual With Polished Outlets; Radio, HD; SiriusXM Radio; Bose Sound System, Premium 7 Speaker System; Seat Adjuster, Driver 10 Way Power Including Lumbar; Seating, Heated Driver And Front Outboard Passenger; Seat, Cloth Rear With Storage Package; Center Console, Floor Mounted; Steering Wheel, Leather Wrapped; Steering Wheel, Heated; Steering Column, Manual Tilt And Telescoping; Window, Power, Rear Sliding; Universal Home Remote; Power Outlet, Instrument Panel, 120 Volt; Usb Ports (Inside Console With Bucket Seats), 2; Power Outlet, Bed Mounted, 120 Volt; Air Conditioning, Dual Zone Automatic Climate Control; HD Rear Vision Camera; Hitch Guidance; See less; Wheel Type; Premium Audio; Apple CarPlay; Android Auto; Front Heated Seats; See all features; AIR CLEANER  HIGH-CAPACITY; GVWR  7100 LBS. (3221 KG); DIFFERENTIAL  HEAVY-DUTY LOCKING REAR; STEERING COLUMN  MANUAL TILT AND TELESCOPING; HILL DESCENT CONTROL; See all features
+Drivetrain: RWD
+Engine: 2.3L Inline-4 Gas Inline
+Location: San Antonio, TX
+Listed Since: 10 days ago
+VIN: 1FA6P8TH1R5117324
+Stock Number: 94683
+Features: Premium Floor Liners Front & Rear (with Carpet Mats); Mini Spare Wheel & Tire; 19" X 8.5" Premier Polished Aluminum Wheels; Equipment Group 200A Standard Package; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; AM/FM Stereo; Radio data system; Air Conditioning; Automatic temperature control; Rear window defroster; See all features

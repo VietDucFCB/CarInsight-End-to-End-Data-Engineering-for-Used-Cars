@@ -1,17 +1,17 @@
-Title: 2020 Chevrolet Bolt EV LT
-Cash Price: $11,989
-Finance Price: $185/moEstimate
-Finance Details: $1,199 due at signing · 72 mo · 7.24% APR
-Exterior: Mosaic Black Metallic
-Interior: Dark Galvanized/Sky Cool Gray
-Mileage: Loveland, CO (1481 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2020 Jeep Cherokee Trailhawk 4WD
+Cash Price: $14,998
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Black
+Mileage: 58,556 miles
+Fuel Type: Gas
+MPG: 18 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 11 days ago
-VIN: 1G1FY6S03L4114292
-Stock Number: P2596
-Features: Engine, None; Electric Drive Unit, (200 HP [150 KW] 266 LB FT Of Torque [360 N M]); LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Painted Aluminum; Tires, P215/50R17 All Season Blackwall, Michelin Selfseal Puncture Sealing; Seats, Front Bucket; Dark Galvanized/SKY Cool Gray, Deluxe Cloth Seat Trim; Audio System, Chevrolet Infotainment System; Comfort And Convenience Package; Driver Confidence Package; DC Fast Charging; License Plate Bracket, Front Mounting; Seats, Heated Driver And Front Passenger; Steering Wheel, 3 Spoke Leather Wrapped; Steering Wheel, Heated; Mirror, Inside Rearview Auto Dimming; Rear Parking Assist; Rear Cross Traffic Alert; Lane Change Alert With Side Blind Zone Alert; See less; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Front Heated Seats; See all features; Comfort and Convenience Package: Automatic Heated Steering Wheel; Auto-Dimming Inside Rearview Mirror; Heated Driver and Front Passenger Seats; 3-Spoke Leather-Wrapped Steering Wheel; Driver Confidence Package: Rear Cross-Traffic Alert; Rear Park Assist; Lane Change Alert with Side Blind Zone Alert; Preferred Equipment Group 2LT; Apple CarPlay/Android Auto smart device mirroring; Mobile hotspot internet access; See all features
+Drivetrain: 4WD
+Engine: 3.2L V-6 Gas V
+Location: Fredericksburg, VA
+Listed Since: 57 days ago
+VIN: 1C4PJMBX5LD574152
+Stock Number: DN4152
+Features: Engine: 3.2L V6 24V VVT with Ess; Transmission: 9 Speed 948te Auto with Active Drive II; Quick Order Package 27E Trailhawk; 3.517 Axle Ratio; 17" X 7.5" Painted Diamond Cut Aluminum Wheels; Black, Cloth/Premium Vinyl Bucket Seats; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; V6 3.2 Liter; Power Windows; Uconnect; Alloy Wheels; Bluetooth Wireless; See all features

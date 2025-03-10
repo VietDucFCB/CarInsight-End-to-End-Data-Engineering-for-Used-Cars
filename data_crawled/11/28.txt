@@ -1,17 +1,17 @@
-Title: 2014 Subaru Outback 2.5i Limited Auto
-Cash Price: $6,205
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Carbide Gray Metallic
-Interior: Off Black
-Mileage: Braintree, MA (2608 miles away)
+Title: 2021 Mercedes-Benz C 300 Sedan 4MATIC
+Cash Price: $19,990
+Finance Price: $301/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Designo Diamond White Metallic
+Interior: Saddle Brown
+Mileage: 43,000 miles
 Fuel Type: Gas
-MPG: 24 city / 30 highway
+MPG: 23 city / 33 highway
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 80 days ago
-VIN: 4S4BRBNC0E3285460
-Stock Number: 020
-Features: Moonroof Package & Navigation System & Eyesight; Off Black, Perforated Leather Trimmed Upholstery; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; Roof Rack; Moon Roof; Fog Lights; Satellite Feature; Automatic CVT w/Manual Mode; See all features
+Engine: 2.0L Inline-4 Gas Inline
+Location: Great Neck, NY
+Listed Since: 27 days ago
+VIN: W1KWF8EB5MR627611
+Stock Number: C4807-300
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; Smart Device Integration; Turbocharged; All Wheel Drive; Power Steering; ABS; See all features

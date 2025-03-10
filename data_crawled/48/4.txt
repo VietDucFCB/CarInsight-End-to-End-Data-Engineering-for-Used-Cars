@@ -1,17 +1,17 @@
-Title: 2000 BMW Z3 Roadster 2.8L
-Cash Price: $8,990
+Title: 2014 Audi S6 Prestige Sedan
+Cash Price: $19,850
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Jet Black
+Exterior: Brilliant Black
 Interior: Black
-Mileage: Austin, TX (1057 miles away)
+Mileage: 87,742 miles
 Fuel Type: Gas
-MPG: 19 city / 26 highway
-Transmission: Manual Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 95 days ago
-VIN: WBACH3349YLF43959
-Stock Number: 448864x3
-Features: 
+MPG: 17 city / 27 highway
+Transmission: Automatic Transmission
+Drivetrain: AWD
+Engine: 4.0L V-8 Gas V
+Location: Bellingham, WA
+Listed Since: 5 days ago
+VIN: WAUF2AFC1EN039313
+Stock Number: 39313
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; 4WD type (full time); ABS (4-wheel); Air filtration; Air suspension; Airbag deactivation (occupant sensing passenger); See all features

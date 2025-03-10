@@ -1,17 +1,17 @@
-Title: 2012 Toyota RAV4 EV FWD
-Cash Price: $12,997
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Blizzard Pearl
-Interior: Ash
-Mileage: Tustin, CA (2177 miles away)
+Title: 2021 Hyundai Kona Electric SEL
+Cash Price: $15,227
+Finance Price: $219/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Lunar White
+Interior: Black
+Mileage: 43,644 miles
 Fuel Type: Electric
 MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 37 days ago
-VIN: 2T3YL4DV1CW001262
-Stock Number: CW001262P
-Features: Wheel Type; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less; Driver Air Bag; Passenger Air Bag; Passenger Air Bag On/Off Switch; Front Side Air Bag; Front Head Air Bag; See all features
+Location: Dublin, OH
+Listed Since: 22 days ago
+VIN: KM8K23AG2MU127875
+Stock Number: KC9727A
+Features: Option Group 01; Black, Cloth Seat Trim; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Option Group 01; 6 Speakers; AM/FM radio: SiriusXM; Radio: AM/FM/HD Radio/MP3/SiriusXM Audio System; Air Conditioning; See all features

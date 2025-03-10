@@ -1,17 +1,17 @@
-Title: 2012 Ford F-150 Platinum SuperCrew 5.5' Box 4WD
-Cash Price: $13,214
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: White Platinum Clearcoat Metallic
-Interior: Gray
-Mileage: Cedar Falls, IA (958 miles away)
+Title: 2022 BMW Plug-In Hybrid 330i xDrive Sedan
+Cash Price: $21,488
+Finance Price: $327/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Alpine White
+Interior: Black
+Mileage: 66,464 miles
 Fuel Type: Gas
-MPG: 14 city / 19 highway
+MPG: 25 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 37 days ago
-VIN: 1FTFW1EF7CFB45405
-Stock Number: TT38715B
-Features: Navigation w/Sony Single DVD/CD Player; GVWR: 7; 350 lbs Payload Package; Order Code 528A; 10 Speakers; AM/FM radio: SIRIUS; CD player; Premium audio system: Sony; Radio data system; Radio: Sony 6-Disc In-Dash CD Changer w/MP3; SIRIUS Integrated Satellite Radio; Air Conditioning; Automatic temperature control; Front dual zone A/C; Rear window defroster; Memory seat; Pedal memory; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel memory; Steering wheel mounted audio controls; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Front wheel independent suspension; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Power Moonroof; Electronic Stability Control; Exterior Parking Camera Rear; Rear Parking Sensors; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Auto-dimming door mirrors; Bodyside moldings; Bumpers: body-color; Front License Plate Bracket; Heated door mirrors; Power door mirrors; Rear step bumper; Tailgate Step; Turn signal indicator mirrors; Adjustable pedals; Auto tilt-away steering wheel; Auto-dimming Rear-View mirror; Compass; Driver door bin; Driver vanity mirror; Front reading lights; Garage door transmitter; Illuminated entry; Outside temperature display; Overhead console; Passenger vanity mirror; Rear reading lights; Rear seat center armrest; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Unique Leather Bucket Seats; Front Bucket Seats; Front Center Armrest; Heated front seats; Heated rear seats; Power passenger seat; Split folding rear seat; Ventilated front seats; Overhead Console w/Single Storage Bin; Passenger door bin; 20'' Polished Aluminum Wheels; Alloy wheels; Rain sensing wipers; Variably intermittent wipers; 3.55 Axle Ratio; Electronic Locking w/3.55 Axle Ratio; * LOCAL TRADE *; * 4WD *; * LEATHER *; * HEATED/COOLED SEATS *; * NAVIGATION *; * SUNROOF/MOONROOF *; * BACK-UP CAMERA *; * REMOTE START *; * LOW MILES *; * BLUETOOTH AUDIO/PHONE *; * ALLOY WHEELS *; * REAR PARK ASSIST *; * TONNEAU COVER *; See less
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Hempstead, NY
+Listed Since: 1 day ago
+VIN: 3MW5R7J04N8C25065
+Stock Number: G16358
+Features: 19" X 8" Double Spoke Bi Color Orbit Grey Wheels; M Sport Package; Driving Assistance Package; Premium Package; Shadowline Exterior Trim; Heated Front Seats; Heated Steering Wheel; Remote Engine Start; Park Distance Control; Live Cockpit Pro with Navi; See less; Wheel Type; Moonroof; Navigation; Apple CarPlay; Seat Material; See all features

@@ -1,17 +1,17 @@
-Title: 2009 Ford Super Duty F-350 Lariat Crew Cab 156" 4WD
-Cash Price: $9,500
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Oxford White Clearcoat
-Interior: Black
-Mileage: Lafayette, IN (651 miles away)
-Fuel Type: Diesel
-MPG: N/A
+Title: 2016 Nissan Altima 2.5 SL
+Cash Price: $8,990
+Finance Price: $112/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Pearl White
+Interior: Charcoal
+Mileage: 97,814 miles
+Fuel Type: Gas
+MPG: 27 city / 39 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 6.4L V-8 Diesel V
-Location: N/A
-Listed Since: Listed 38 days ago
-VIN: 1FTWW31R99EA05270
-Stock Number: TEA05270
-Features: 4 Speakers; AM/FM radio: SIRIUS(R); CD player; Premium Electronic AM/FM Stereo w/Single CD; Satellite Radio; Air Conditioning; Automatic temperature control; Front dual zone A/C; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Front anti-roll bar; Low tire pressure warning; Rear Parking Sensors; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Security system; Speed control; Bumpers: chrome; Heated door mirrors; Power door mirrors; Rear step bumper; Turn signal indicator mirrors; Auto-dimming Rear-View mirror; Compass; Driver door bin; Driver vanity mirror; Front reading lights; Illuminated entry; Leather steering wheel; Outside temperature display; Overhead console; Passenger vanity mirror; Rear reading lights; Rear seat center armrest; Tachometer; Tilt steering wheel; Trip computer; Voltmeter; Heated front seats; Leather Seating Surfaces 40/20/40 Split Bench Seat; Power passenger seat; Split folding rear seat; Front Center Armrest w/Storage; Passenger door bin; 18'' Premium Forged Polished Aluminum Wheels; Alloy wheels; Variably intermittent wipers; 3.73 Axle Ratio; See less
+Drivetrain: FWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: Riverdale, NJ
+Listed Since: 19 days ago
+VIN: 1N4AL3AP2GC250900
+Stock Number: 250900
+Features: Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; 4 Cylinder Engine; ABS; 4-Wheel Disc Brakes; A/C; A/T; See all features

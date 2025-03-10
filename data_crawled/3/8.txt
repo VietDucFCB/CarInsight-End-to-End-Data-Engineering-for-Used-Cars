@@ -1,17 +1,17 @@
-Title: 2020 Hyundai Elantra SEL 2.0L IVT
-Cash Price: $9,999
+Title: 2016 Mercedes-Benz C 300 Sedan RWD
+Cash Price: $10,895
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Gray
-Interior: Gray
-Mileage: Gainesville, GA (1971 miles away)
+Exterior: Polar White
+Interior: Black
+Mileage: 126,479 miles
 Fuel Type: Gas
-MPG: 30 city / 40 highway
+MPG: 25 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 31 days ago
-VIN: KMHD84LFFLU961493
-Stock Number: 11371
-Features: Exhaust - Hidden; Exhaust Tip Color - Stainless Steel; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Chrome; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Window Trim - Black; Steering Ratio - 12.7; Turns Lock-To-Lock - 2.4; Air Filtration; Door Sill Trim - Scuff Plate; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Interior Accents - Metallic-Tone; Rear Vents - Second Row; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Assist Handle - Front; Assist Handle - Rear; Cargo Area Light; Center Console - Front Console With Armrest And Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Panic Alarm; Multi-Function Remote - Trunk Release; One-Touch Windows - 1; Overhead Console - Front; Power Outlet(S) - Two 12v Front; Power Steering - Variable/Speed-Proportional; Power Windows - Lockout Button; Reading Lights - Front; Rearview Mirror - Manual Day/Night; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Cruise Control; Steering Wheel Mounted Controls - Phone; Steering Wheel Mounted Controls - Voice Control; Storage - Accessory Hook; Storage - Door Pockets; Storage - Front Seatback; Storage - Sunglasses Holder; Vanity Mirrors - Dual; Axle Ratio - 4.89; Front Brake Type - Ventilated Disc; Front Shock Type - Twin-Tube Gas; Front Spring Type - Coil; Front Struts - Macpherson; Front Suspension Type - Lower Control Arms; Hill Holder Control; Rear Brake Type - Disc; Rear Shock Type - Monotube; Rear Spring Type - Coil; Rear Suspension Type - Torsion Beam; Abs - 4-Wheel; Braking Assist; Drive Mode Selector; Electronic Brakeforce Distribution; Front Brake Diameter - 11.0; Front Stabilizer Bar - Diameter 22 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 10.3; Rear Suspension Classification - Semi-Independent; Stability Control; Traction Control; Alternator - 120 Amps; Battery - Maintenance-Free; Battery Saver; Connected In-Car Apps - Google Pois; Connected In-Car Apps - Google Search; Electronic Messaging Assistance - Voice Operated; Gauge - Tachometer; Hands-Free Phone Call Integration - Voice Operated; Infotainment Screen Size - 7 In.; Instrument Cluster Screen Size - 3.5 In.; Smartphone Integration - Android Auto; Smartphone Integration - Apple Carplay; Total Speakers - 6; Warnings And Reminders - Coolant Temperature Warning; Warnings And Reminders - Lamp Failure; Warnings And Reminders - Low Oil Pressure; Wireless Data Link - Bluetooth; Antenna Type - Diversity; Antenna Type - Element; Auxiliary Audio Input - Bluetooth; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; Digital Odometer; Electronic Messaging Assistance - With Read Function; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; Multi-Function Display; Radio - Am/Fm; See less
+Drivetrain: RWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Arlington, TX
+Listed Since: 13 days ago
+VIN: 55SWF4JB5GU124887
+Stock Number: 124887
+Features: Remote Trunk Release; mbrace; Electromechanical Steering; Dual Power Seats; Electronic Stability Control; RWD; Backup Camera; F&R Side Air Bags; Auto 7-Spd 7G-Tronic +; Power Door Locks; 4-Cyl Turbo 2.0 Liter; harman/kardon Sound; Air Conditioning; Navigation System; Alarm System; Cruise Control; AM/FM/HD Radio; ABS (4-Wheel); Leather; Knee Air Bags; Tilt & Telescoping Wheel; Keyless Entry; Dual Air Bags; Power Windows; Daytime Running Lights; F&R Head Curtain Air Bags; Bluetooth Wireless; CD/MP3 (Single Disc); Hill Start Assist Control; Alloy Wheels; Traction Control; See less

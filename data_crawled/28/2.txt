@@ -1,17 +1,17 @@
-Title: 2016 Mercedes-Benz GLE 350 RWD
-Cash Price: $12,400
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Lunar Blue Metallic
-Interior: Unknown
-Mileage: Orlando, FL (302 miles away)
+Title: 2024 Toyota Tacoma Limited Double Cab 5' Bed 4WD Automatic
+Cash Price: $39,000
+Finance Price: $629/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 10,323 miles
 Fuel Type: Gas
-MPG: 18 city / 24 highway
+MPG: 20 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 15 days ago
-VIN: 4JGDA5JB0GA754382
-Stock Number: 754382
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Bluetooth; Tow Hitch; See less; Child Safety Door Locks; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Traction Control; See all features
+Drivetrain: 4WD
+Engine: 2.4L Inline-4 Gas Inline
+Location: Boerne, TX
+Listed Since: 8 days ago
+VIN: 3TYLB5JN6RT006981
+Stock Number: 50446A
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; 6 Speakers; AM/FM radio: SiriusXM; Radio: 8'' Toyota Audio Multimedia; Air Conditioning; Rear window defroster; See all features

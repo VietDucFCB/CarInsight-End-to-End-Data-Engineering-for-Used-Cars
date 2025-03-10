@@ -1,17 +1,17 @@
-Title: 2022 Toyota RAV4 LE AWD
-Cash Price: $16,698
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Magnetic Gray Metallic
+Title: 2019 Hyundai Elantra SEL 2.0L Automatic
+Cash Price: $9,295
+Finance Price: $117/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Symphony Silver
 Interior: Black
-Mileage: Danvers, MA (2609 miles away)
+Mileage: 104,336 miles
 Fuel Type: Gas
-MPG: 27 city / 34 highway
+MPG: 28 city / 37 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 51 days ago
-VIN: 2T3F1RFV3NW295662
-Stock Number: NW295662
-Features: Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; Driver Air Bag; Passenger Air Bag; Front Head Air Bag; Rear Head Air Bag; A/C; AM/FM Stereo; ABS; 4-Wheel Disc Brakes; Cruise Control; Rear Defrost; Child Safety Locks; All Wheel Drive; 4 Cylinder Engine; Gasoline Fuel; Daytime Running Lights; Keyless Entry; Power Door Locks; Power Mirror(s); Pass-Through Rear Seat; Cloth Seats; Bucket Seats; Power Steering; Adjustable Steering Wheel; Tires - Front All-Season; Tires - Rear All-Season; Temporary Spare Tire; Power Windows; Intermittent Wipers; Satellite Radio; MP3 Player; Privacy Glass; Steering Wheel Audio Controls; Engine Immobilizer; Driver Vanity Mirror; Passenger Vanity Mirror; Rear Spoiler; Transmission w/Dual Shift Mode; Tire Pressure Monitor; Trip Computer; Wheel Covers; Steel Wheels; Telematics; 8-Speed A/T; Back-Up Camera; Stability Control; Brake Assist; Auxiliary Audio Input; Lane Keeping Assist; WiFi Hotspot; Adaptive Cruise Control; Brake Actuated Limited Slip Differential; Smart Device Integration; Apple CarPlay; See less
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Orlando, FL
+Listed Since: 44 days ago
+VIN: 5NPD84LF7KH421642
+Stock Number: KH421642
+Features: Black, Premium Cloth Seat Trim; Wheel Type; Apple CarPlay; Android Auto; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Lane Keeping Assist; Cargo Package -Inc: Reversible Cargo Tray; Cargo Net; Trunk Hooks (Pio); Black; See all features

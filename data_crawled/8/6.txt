@@ -1,17 +1,17 @@
-Title: 2024 Chevrolet Trax LT FWD
-Cash Price: $17,991
-Finance Price: $284/moEstimate
-Finance Details: $1,799 due at signing · 72 mo · 7.99% APR
-Exterior: Sterling Gray Metallic
-Interior: Jet Black With Blue Accents
-Mileage: Indianapolis, IN (1815 miles away)
-Fuel Type: Gas
-MPG: 28 city / 32 highway
+Title: 2022 Toyota Prius LE FWD
+Cash Price: $17,999
+Finance Price: $267/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black
+Interior: Black
+Mileage: 22,314 miles
+Fuel Type: Hybrid
+MPG: 54 city / 50 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 31 days ago
-VIN: KL77LHE29RC236038
-Stock Number: 236038
-Features: Engine, Ecotec 1.2L Turbo Dohc Di With Variable Valve Timing (VVT); Transmission, 6 Speed Automatic; Axle, 3.50 Final Drive Ratio; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Gray Painted Machined Aluminum; Seats, Front Bucket; Audio System, 11" Diagonal HD Color Touchscreen; Driver Confidence Package; LT Convenience Package; Mirrors, Outside Heated Power Adjustable, Manual Folding; License Plate Front Mounting Package; Seats, Heated Driver And Front Passenger; Steering Wheel, Wrapped; Steering Wheel, Heated; Keyless Open, Front Doors; Adaptive Cruise Control; Lane Change Alert With Side Blind Zone Alert; Rear Cross Traffic Alert; Rear Park Assist; See less; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; See all features; Front Pedestrian Automatic emergency braking; Front Automatic emergency braking; Lane keeping assist; Check rear seat reminder; Pedestrian Detection Pre-collision warning system; See all features
+Location: Los Angeles, CA
+Listed Since: 55 days ago
+VIN: JTDKAMFU7N3180476
+Stock Number: N3180476
+Features: Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; Immobilizer; Keyless Entry; Daytime Running Lights; Dual Front Airbags; Side Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts; All Wheel ABS; See less

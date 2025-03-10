@@ -1,17 +1,17 @@
-Title: 2017 Chevrolet Sonic Premier Sedan Automatic
-Cash Price: $5,999
-Finance Price: $95/moEstimate
-Finance Details: $600 due at signing · 72 mo · 7.99% APR
-Exterior: Silver Ice Metallic
-Interior: Jet Black/Dark Titanium
-Mileage: Riverside, CA (2149 miles away)
+Title: 2013 Land Rover Range Rover SC
+Cash Price: $17,495
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Orkney Grey Metallic
+Interior: Ebony
+Mileage: 95,485 miles
 Fuel Type: Gas
-MPG: 27 city / 36 highway
+MPG: 13 city / 19 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 1G1JF5SB4H4134358
-Stock Number: 6859
-Features: Engine, Ecotec Turbo 1.4L Variable Valve Timing Dohc 4 Cylinder Sequential Mfi; Transmission, 6 Speed Automatic; Premier Preferred Equipment Group; Wheels, 17" (43.2 CM) Painted Aluminum; Seats, Front Bucket With Recline And Height Adjustable Headrests; Jet Black/Dark Titanium, Perforated Leatherette Seating Surfaces; Audio System, Chevrolet Mylink Radio With 7" Diagonal Color Touch Screen, Am/FM Stereo; See less; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; See all features; Air filtration; Front air conditioning; Front air conditioning zones: single; Airbag deactivation: occupant sensing passenger; Front airbags: dual; See all features
+Drivetrain: 4WD
+Engine: 5.0L V-8 Gas V
+Location: Salt Lake, UT
+Listed Since: 69 days ago
+VIN: SALGS2EF8DA118548
+Stock Number: T2392
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less; Adaptive Cruise Control; Orkney Grey Metallic; Park Assist; Rear Seat Entertainment; Vision Assist Pack; Wood/Leather Heated Steering Wheel

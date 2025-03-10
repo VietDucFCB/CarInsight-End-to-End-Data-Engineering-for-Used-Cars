@@ -1,17 +1,17 @@
-Title: 2022 Ram 1500 Big Horn Quad Cab 6'4" Box 2WD
-Cash Price: $26,498
-Finance Price: $494/moEstimate
-Finance Details: $2,650 due at signing · 72 mo · 14.22% APR
-Exterior: Bright White Clearcoat
+Title: 2023 Audi RS e-tron GT quattro
+Cash Price: $87,880
+Finance Price: $1,472/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ibis White
 Interior: Black
-Mileage: Houston, TX (943 miles away)
-Fuel Type: Gas
-MPG: 20 city / 25 highway
+Mileage: 3,542 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 204 days ago
-VIN: 1C6RREBG1NN290819
-Stock Number: N290819
-Features: Engine: 3.6L V6 24V VVT Etorque Upg I; Transmission: 8 Speed Automatic (850re); Quick Order Package 23Z Big Horn; 3.21 Rear Axle Ratio; 18" X 8" Cast Aluminum Painted Wheels; Tires: 275/65R18 BSW All Season LRR; GVWR: 6,800 LBS; Trailer Tow Group; Big Horn Level A Equipment Group; Bed Utility Group; Trailer Brake Control; Front License Plate Bracket; Pick Up Box Lighting; Radio: Uconnect 5 W with 8.4" Display; See less; Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Backup Camera; See all features; WHEEL TO WHEEL SIDE STEPS; BRIGHT WHITE CLEARCOAT; TRANSMISSION: 8-SPEED AUTOMATIC (850RE)  (STD); PICK-UP BOX LIGHTING; GVWR: 6 800 LBS  (STD); See all features
+Drivetrain: AWD
+Engine: N/A
+Location: Seattle, WA
+Listed Since: 51 days ago
+VIN: WAUBHBFW8P7900667
+Stock Number: MAN900667
+Features: Full Leather Interior; Carbon Performance Package; Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation System; Carbon Performance Package; 16 Speakers; Radio data system; Radio: Bang & Olufsen Sound System w/3D Sound; See all features

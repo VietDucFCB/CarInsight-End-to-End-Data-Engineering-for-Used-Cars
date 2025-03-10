@@ -1,17 +1,17 @@
-Title: 2018 Tesla Model S 100D
-Cash Price: $27,990
-Finance Price: $442/moEstimate
-Finance Details: $2,799 due at signing · 72 mo · 7.99% APR
-Exterior: Gray
+Title: 2013 Chrysler 200 S Convertible
+Cash Price: $8,991
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Bright White
 Interior: Black
-Mileage: Laguna Hills, CA (2174 miles away)
-Fuel Type: Electric
-MPG: N/A
+Mileage: 51,995 miles
+Fuel Type: Gas
+MPG: 19 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 46 days ago
-VIN: 5YJSA1E21JF265258
-Stock Number: 99241211
-Features: Cruise Control; Backup Camera; Premium Wheels 19+; F&R Parking Sensors; Power Steering; ABS (4-Wheel); Dual AC Electric Motors; All Glass Panoramic Roof; Fog Lights; Electronic Stability Control; Single-Speed Fixed Gear; AWD; Side Air Bags; Power Liftgate Release; Heated Seats; Blind-Spot Alert; AM/FM/HD Radio; Bluetooth Wireless; Dual Power Seats; Knee Air Bags; F&R Head Curtain Air Bags; Dual Air Bags; Power Door Locks; Air Conditioning; Lane Departure Warning; Smart Air Suspension; LED Headlamps; Hill Start Assist; Tilt & Telescoping Wheel; Electronic Traction Control; Alarm System; Daytime Running Lights; Power Windows; Navigation System; See less
+Drivetrain: FWD
+Engine: 3.6L V-6 Gas V
+Location: Sarasota, FL
+Listed Since: 24 days ago
+VIN: 1C3BCBGG2DN693519
+Stock Number: 693519
+Features: 3.6L VVT 24 Valve V6 Engine; 6 Speed Automatic Transmission; 27S S Customer Preferred Order Selection PKG; Bright White PWR Retractable Hard Top; Black, Leather Trimmed S Bucket Seats; Touring Suspension; Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Bluetooth; 27S S Customer Preferred Order Selection Pkg; 3.6L Vvt 24-Valve V6 Engine; 50 State Emissions; 6-Speed Automatic Transmission; 6E1 Order Code; Black; Leather-Trimmed S Bucket Seats; Bright White; Bright White Pwr Retractable Hard Top; Touring Suspension; See less

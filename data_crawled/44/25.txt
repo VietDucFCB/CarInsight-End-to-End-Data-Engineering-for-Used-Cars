@@ -1,17 +1,17 @@
-Title: 2003 Mercedes-Benz SL 500
-Cash Price: $12,800
+Title: 1999 Jaguar XK8 Convertible
+Cash Price: $8,995
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Champagne
-Interior: Black
-Mileage: Vallejo, CA (2390 miles away)
+Exterior: Meteorite
+Interior: Charcoal
+Mileage: 49,800 miles
 Fuel Type: Gas
-MPG: 15 city / 22 highway
+MPG: 17 city / 24 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 69 days ago
-VIN: WDBSK75F03F009211
-Stock Number: 1363
-Features: Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Climate Control; AM/FM Compact Disc Player; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; Automatic Load-Leveling; Electronic Brake Assistance; Traction Control; Vehicle Stability Control System; Driver Airbag; Front Side Airbag; Front Side Airbag with Head Protection; Passenger Airbag; First Aid Kit; Trunk Anti-Trap Device; Keyless Entry; Air Conditioning; Separate Driver Front Passenger Climate Controls; Cruise Control; Tachometer; Tilt Steering; Tilt Steering Column; Leather Steering Wheel; Steering Wheel Mounted Controls; Telescopic Steering Column; Trip Computer; AM FM Radio; CD Player; CD Changer; Navigation Aid; Subwoofer; Telematics System; Driver Multi-Adjustable Power Seat; Front Heated Seat; Front Power Lumbar Support; Front Power Memory Seat; Leather Seats; Passenger Multi-Adjustable Power Seat; Cargo Area Tiedowns; Removable Top; Automatic Headlights; Daytime Running Lights; Fog Lights; High Intensity Discharge Headlights; Front Air Dam; Rear Spoiler; Wind Deflector for Convertibles; Power Liftgate Lid; Alloy Wheels; Power Windows; Electrochromic Exterior Rearview Mirror; Glass Rear Window on Convertible; Heated Mirrors; Electrochromic Interior Rearview Mirror; Power Adjustable Exterior Mirror; Interval Wipers; Rain Sensing Wipers; Rear Window Defogger; Push Button Start; See less
+Engine: 4.0L V-8 Gas V
+Location: Oceanside, CA
+Listed Since: 30 days ago
+VIN: SAJGX2044XC036230
+Stock Number: null
+Features: Wheel Type; Seat Material; Abs - 4-Wheel; Anti-Theft System - Alarm; Cassette; Center Console; Convertible Roof - Power; Cruise Control; Driver Seat Power Adjustments; Front Air Conditioning; Front Air Conditioning - Automatic Climate Control; Front Airbags - Dual; Front Fog Lights; Front Seat Type - Bucket; Front Wipers - Intermittent; Gauge - Tachometer; Headlights - Auto On/Off; Memorized Settings - Driver Seat; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Passenger Seat Power Adjustments; Power Brakes; Power Door Locks; Power Steering; Power Windows; Premium Brand; Radio - Am/Fm; Rearview Mirror - Auto-Dimming; Shift Knob Trim - Wood; Side Mirror Adjustments - Power; Side Mirrors - Heated; Steering Wheel - Power Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Trim - Leather; Tinted Glass; Traction Control; Trip Odometer; Tuned Suspension - Sport; Universal Remote Transmitter - Garage Door Opener; Upholstery - Leather; Wheel Diameter - 17 Inch; Wheels - Aluminum Alloy; Window Defogger - Rear; See less

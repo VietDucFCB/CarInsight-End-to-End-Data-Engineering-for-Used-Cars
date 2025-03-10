@@ -1,17 +1,17 @@
-Title: 2019 Chevrolet Equinox Premier with 2LZ AWD
-Cash Price: $13,004
-Finance Price: 
-Finance Details: $1,300 due at signing · 72 mo · 9.19% APR
-Exterior: Mosaic Black Metallic
-Interior: Jet Black
-Mileage: Woodside, NY (644 miles away)
+Title: 2020 Jeep Compass Trailhawk 4WD
+Cash Price: $9,674
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Redline Pearlcoat
+Interior: Ruby Red/Black
+Mileage: 185,198 miles
 Fuel Type: Gas
-MPG: 22 city / 28 highway
+MPG: 22 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 23 days ago
-VIN: 3GNAXYEX4KL379666
-Stock Number: U1464T
-Features: Engine, 2.0L Turbo, 4 Cylinder, Sidi, VVT; Transmission, 9 Speed Automatic, Electronically Controlled With Overdrive; Axle, 3.17 Final Drive Ratio; Premier Preferred Equipment Group; Wheels, 19" (48.3 CM) Bright Machined; Seats, Front Bucket; Jet Black, Perforated Leather Appointed Seat Trim; Audio System, Chevrolet Infotainment 3 Premium System With Connected Navigation, 8" Diagonal HD Color Touchscreen; Infotainment II Package; Interior Protection Package; Confidence & Convenience II Package; Driver Confidence II Package; Driver Convenience II Package; Sunroof, Power; Rear Splash Guards, Custom Molded; Headlamp Control, Intellibeam Auto High Beam; License Plate Front Mounting Package; Audio System Feature, Bose Premium 7 Speaker System; Radio, HD; Seat, Ventilated Driver; Seat, Ventilated Front Passenger; Seat Adjuster, Front Passenger 8 Way Power With 2 Way Power Lumbar; Seats, Heated, Rear, Outboard Positions; All Weather Floor Mats; Steering Wheel, Heated; Adaptive Cruise Control Camera; Cargo Mat; Low Speed Forward Automatic Braking; HD Surround Vision; Forward Collision Alert; Following Distance Indicator; Front Pedestrian Braking; Lane Keep Assist With Lane Departure Warning; Safety Alert Seat; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; 2 Rear USB Charging-Only Ports; 2 USB Data Ports; 2 USB Data Ports with SD Card Reader; Bluetooth For Phone; Bose Premium 7-Speaker Audio System Feature; See all features
+Drivetrain: 4WD
+Engine: 2.4L Inline-4 Gas Inline
+Location: Raleigh, NC
+Listed Since: 23 days ago
+VIN: 3C4NJDDB8LT108881
+Stock Number: 108881
+Features: Engine: 2.4L I4 Zero Evap M Air with Ess; Transmission: 9 Speed 948te Automatic; Quick Order Package 2ge; 17" X 6.5" Aluminum Wheels; Tu Tone Paint Group; Black Clearcoat; Ruby Red/Black, Premium Cloth/Leather Trim Bucket Seats; Front License Plate Bracket; See less; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Climate Control; See all features; Tilt & Telescoping Wheel; Alloy Wheels; ABS (4-Wheel); Leather; Power Windows; See all features

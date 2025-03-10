@@ -1,17 +1,17 @@
-Title: 2007 Honda CR-V EX-L 4WD
-Cash Price: $5,690
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Whistler Silver Metallic
-Interior: Gray
-Mileage: Westminster, CO (1475 miles away)
+Title: 2022 Ford Mustang EcoBoost Premium Convertible
+Cash Price: $17,499
+Finance Price: $259/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxford White
+Interior: Ebony
+Mileage: 73,364 miles
 Fuel Type: Gas
-MPG: 22 city / 28 highway
+MPG: 20 city / 27 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 12 days ago
-VIN: JHLRE48747C101457
-Stock Number: 7C101457
-Features: 
+Drivetrain: RWD
+Engine: 2.3L Inline-4 Gas Inline
+Location: Irving, TX
+Listed Since: 6 days ago
+VIN: 1FATP8UH4N5100769
+Stock Number: 98413534
+Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; 9 Speakers; AM/FM radio: SiriusXM; AM/FM Stereo; Radio data system; SiriusXM Radio; See all features

@@ -1,17 +1,17 @@
-Title: 2018 Tesla Model X 100D
-Cash Price: $27,999
-Finance Price: $522/moEstimate
-Finance Details: $2,800 due at signing · 72 mo · 14.22% APR
-Exterior: Black
-Interior: Black
-Mileage: Newark, CA (2382 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2018 Dodge Grand Caravan SE
+Cash Price: $10,495
+Finance Price: $138/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White Knuckle Clearcoat
+Interior: Black/Light Graystone
+Mileage: 62,300 miles
+Fuel Type: Gas
+MPG: 17 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 3 days ago
-VIN: 5YJXCAE20JF091361
-Stock Number: 091361
-Features: Bluetooth Wireless; Smart Air Suspension; Air Conditioning; Tilt & Telescoping Wheel; Dual Power Seats; LED Headlamps; Electronic Stability Control; Towing Pkg; Alarm System; Knee Air Bags; Dual Air Bags; AM/FM/HD Radio; Fog Lights; Forward Camera System; Keyless Entry; F&R Head Curtain Air Bags; F&R Parking Sensors; Single-Speed Fixed Gear; Power Steering; F&R Side Air Bags; Heated Seats; Power Liftgate Release; Air Conditioning Rear; Dual AC Electric Motors; ABS (4-Wheel); Cruise Control; Blind-Spot Warning System; Power Windows; Traction Control; Lane Keep Assist; AWD; Daytime Running Lights; Oversized Premium Wheels 20+; Navigation System; See less
+Drivetrain: FWD
+Engine: 3.6L V-6 Gas V
+Location: Naugatuck, CT
+Listed Since: 43 days ago
+VIN: 2C4RDGBG6JR312880
+Stock Number: 312880N
+Features: Engine: 3.6L V6 24V VVT; Transmission: 6 Speed Automatic 62te; Quick Order Package 29S Se; 17" X 6.5" Steel Wheels; Tires: P225/65R17 BSW Touring; Black/Light Graystone, Cloth Low Back Bucket Seats; 2ND Row Stow'N Go Bucket Seats; Uconnect Hands Free Group; Compact Spare Tire; See less; Third Row Seating; Backup Camera; Bluetooth

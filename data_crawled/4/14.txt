@@ -1,17 +1,17 @@
-Title: 2018 Chevrolet Silverado 1500 LT Z71 Crew Cab Short Box 4WD
-Cash Price: $17,500
-Finance Price: $326/moEstimate
-Finance Details: $1,750 due at signing · 72 mo · 14.22% APR
-Exterior: Iridescent Pearl Tricoat
-Interior: Jet Black
-Mileage: Bordentown, NJ (2426 miles away)
+Title: 2017 Nissan Rogue S AWD
+Cash Price: $6,970
+Finance Price: $77/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Magnetic Black
+Interior: Charcoal
+Mileage: 119,817 miles
 Fuel Type: Gas
-MPG: 17 city / 22 highway
+MPG: 25 city / 32 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 5.3L V-8 Gas V
-Location: N/A
-Listed Since: Listed 103 days ago
-VIN: 3GCUKREC7JG313983
-Stock Number: 313983
-Features: Engine, 5.3L Ecotec3 V8 With Active Fuel Management, Direct Injection And Variable Valve Timing; Transmission, 6 Speed Automatic, Electronically Controlled; GVWR, 7200 LBS. (3266 KG); Rear Axle, 3.08 Ratio; LT Preferred Equipment Group; Wheels, 18" X 8.5" (45.7 CM X 21.6 CM) Bright Machined Aluminum; Tires, P265/65R18 All Terrain, White Outlined Letter; Paint, Solid; Seats, Front 40/20/40 Split Bench, 3 Passenger, Available In Cloth Or Leather; Jet Black, Leather Appointed Seat Trim; Audio System, Chevrolet Mylink Radio With Navigation And 8" Diagonal Color Touch Screen, Am/FM Stereo; LT Plus Package; All Star Edition; Cooling, Auxiliary External Transmission Oil Cooler; Trailer Brake Controller, Integrated; Wheel, Full Size Spare, 17" (43.2 CM) Steel; Assist Steps, Chromed Tubular, 6" Rectangular; License Plate Kit, Front; Seat Adjuster, Driver 10 Way Power; Seating, Heated Driver And Front Passenger; Steering Column, Manual Tilt And Telescoping; Pedals, Power Adjustable; Remote Vehicle Starter System; Universal Home Remote; Theft Deterrent System, Unauthorized Entry; Air Conditioning, Dual Zone Automatic Climate Control; Defogger, Rear Window Electric; Window, Power, Rear Sliding With Rear Defogger; Power Outlet, 110 Volt Ac; Rear Park Assist, Ultrasonic; See less; Wheel Type; Navigation; Apple CarPlay; Android Auto; Seat Material; See all features
+Drivetrain: AWD
+Engine: 2.5L Inline-4 Gas Inline
+Location: south holland, IL
+Listed Since: 33 days ago
+VIN: JN8AT2MV3HW260046
+Stock Number: null
+Features: Charcoal, Cloth Seat Trim; [L92] Floor Mats & 2 PC Cargo Area Protector; Blind Spot System; Backup Camera; Bluetooth; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Black With Chrome Accents; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rear Spoiler Color - Body-Color; Window Trim - Chrome; Rear Spoiler - Roofline; Rear Trunk/Liftgate - Liftgate; Steering Ratio - 17.1; Turns Lock-To-Lock - 3.1; Air Filtration; Floor Material - Cargo Area Carpet; Floor Material - Carpet; Front Air Conditioning; Front Air Conditioning Zones - Single; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Interior Accents - Metallic-Tone; Armrests - Rear Folding; Rear Vents - Second Row; Armrests - Rear Center With Cupholders; Armrests - Rear Center With Pass-Thru; Assist Handle - Front; Assist Handle - Rear; Cargo Cover - Hard; Center Console - Front Console With Armrest And Storage; Cruise Control; Cupholders - Front; Cupholders - Rear; Multi-Function Remote - Keyless Entry; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Phone; Storage - Cargo Tie-Down Anchors And Hooks; Storage - Door Pockets; Storage - Dual Level Cargo Area; Storage - Front Seatback; Storage - Sunglasses Holder; Power Outlet(S) - 12v Cargo Area; Power Outlet(S) - Two 12v Front; Power Steering - Variable/Speed-Proportional; Vanity Mirrors - Dual; Multi-Function Remote - Panic Alarm; Overhead Console - Front; Storage - In Floor; Steering Wheel Mounted Controls - Cruise Control; Ambient Lighting; Cargo Area Light; Reading Lights - Front; Reading Lights - Rear; Power Windows - Lockout Button; Rearview Mirror - Manual Day/Night; 4wd Type - On Demand; Abs - 4-Wheel; Braking Assist; Cornering Brake Control; Drive Mode Selector; Electronic Brakeforce Distribution; Front Brake Diameter - 11.8; Front Brake Width - 1.04; Front Stabilizer Bar - Diameter 23 Mm; Front Suspension Classification - Independent; Locking Differential - Center; Power Brakes; Rear Brake Diameter - 11.7; Rear Brake Width - 0.64; Rear Stabilizer Bar - Diameter 19 Mm; Rear Suspension Classification - Independent; Rear Suspension Type - Multi-Link; Stability Control; Traction Control; Hill Holder Control; Front Shock Type - Twin-Tube Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Twin-Tube Gas; Rear Spring Type - Coil; Front Struts; Front Brake Type - Ventilated Disc; Rear Brake Type - Ventilated Disc; Axle Ratio - 6.39; Off-Road Driving Assist - Hill Descent; Alternator - 110 Amps; Battery Saver; Antenna Type - Diversity; Antenna Type - Mast; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Jack; Auxiliary Audio Input - Usb; Clock; Digital Odometer; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; In-Dash Cd - Single Disc; Multi-Function Display; Radio - Am/Fm; Radio Data System; Satellite Radio - Siriusxm; See less

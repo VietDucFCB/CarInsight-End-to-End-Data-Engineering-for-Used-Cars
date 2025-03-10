@@ -1,17 +1,17 @@
-Title: 2020 Tesla Model X Performance
-Cash Price: $41,000
-Finance Price: $674/moEstimate
-Finance Details: $4,100 due at signing · 72 mo · 9.49% APR
-Exterior: Solid Black
-Interior: Black
-Mileage: Van Nuys, CA (2209 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2015 BMW M5 Sedan
+Cash Price: $32,000
+Finance Price: $508/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Sakhir Orange Metallic
+Interior: Silverstone
+Mileage: 66,342 miles
+Fuel Type: Gas
+MPG: 14 city / 20 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 5YJXCAE45LF280205
-Stock Number: TK11350
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Navigation System; 17 Speakers; Premium Audio System; Radio data system; Air Conditioning; See all features
+Drivetrain: RWD
+Engine: 4.4L V-8 Gas V
+Location: West Palm Beach, FL
+Listed Since: 20 days ago
+VIN: WBSFV9C59FD595397
+Stock Number: MB59998B
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Cruise Control; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation System; Competition Package; Competition Package (7MA); Executive Package; 16 Speakers; See all features

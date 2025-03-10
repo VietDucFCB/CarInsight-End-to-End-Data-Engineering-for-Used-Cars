@@ -1,17 +1,17 @@
-Title: 2016 Nissan Altima 2.5 S
-Cash Price: $6,677
+Title: 2011 Lexus LS 460 RWD
+Cash Price: $14,990
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Gray
+Exterior: Dark Gray
 Interior: Black
-Mileage: HEMET, CA (2130 miles away)
+Mileage: 132,501 miles
 Fuel Type: Gas
-MPG: 27 city / 39 highway
+MPG: 16 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 251 days ago
-VIN: 1N4AL3AP0GC149726
-Stock Number: 1088
-Features: FWD; Power Steering; Alarm System; Tilt & Telescoping Wheel; Power Windows; Keyless Entry; AM/FM Stereo; F&R Head Curtain Air Bags; Cruise Control; Power Seat; Bluetooth Wireless; Power Door Locks; Dual Air Bags; Remote Trunk Release; Premium Wheels; Vehicle Dynamic Control; Traction Control; Backup Camera; Side Air Bags; Automatic Xtronic CVT; CD/MP3 (Single Disc); ABS (4-Wheel); Air Conditioning; 4-Cyl 2.5 Liter; Keyless Start; See less
+Drivetrain: RWD
+Engine: 4.6L V-8 Gas V
+Location: Concord, CA
+Listed Since: 789 days ago
+VIN: JTHBL5EF8B5107909
+Stock Number: 100750
+Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Climate Control; Backup Camera; Bluetooth; See less; XM Satellite; Backup Camera; Safety Connect; Power Steering; Daytime Running Lights; See all features

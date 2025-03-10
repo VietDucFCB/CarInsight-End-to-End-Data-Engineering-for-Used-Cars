@@ -1,17 +1,17 @@
-Title: 2015 BMW X5 xDrive35i AWD
-Cash Price: $13,995
-Finance Price: $221/moEstimate
-Finance Details: $1,400 due at signing · 72 mo · 7.99% APR
-Exterior: Jet Black
+Title: 2023 Jeep Wrangler Unlimited Sahara 4xe
+Cash Price: $30,750
+Finance Price: $487/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
 Interior: Black
-Mileage: Fort Worth, TX (1228 miles away)
-Fuel Type: Gas
-MPG: 18 city / 27 highway
+Mileage: 35,701 miles
+Fuel Type: Plug-In Hybrid
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: AWD
+Drivetrain: 4WD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 10 days ago
-VIN: 5UXKR0C51F0P13597
-Stock Number: P13597
-Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Seat Material; Front Heated Seats; Climate Control; Parking Sensors; Bluetooth; See less; 4WD/AWD; Air Conditioning; Alarm System; Alloy Wheels; AM/FM; See all features
+Location: Humble, TX
+Listed Since: 21 days ago
+VIN: 1C4JJXP61PW641136
+Stock Number: 00008801
+Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29P Sahara; Black 3 Piece Hard Top; Front License Plate Bracket; Wheel Type; Premium Audio; Navigation; Seat Material; Climate Control; Backup Camera; Bluetooth; See less; Fixed Antenna; 552w Regular Amplifier; 9 Alpine Speakers; Siriusxm Traffic Real-Time Traffic Display; 2 LCD Monitors In The Front; See all features

@@ -1,17 +1,17 @@
-Title: 2016 Chevrolet Malibu LT with 1LT
-Cash Price: $12,995
-Finance Price: $242/moEstimate
-Finance Details: $1,300 due at signing · 72 mo · 14.22% APR
-Exterior: Blue Velvet Metallic
-Interior: Dark Atmosphere/Medium Ash Gray
-Mileage: Tulsa, OK (938 miles away)
+Title: 2017 Maserati GranTurismo Sport Coupe
+Cash Price: $40,995
+Finance Price: $664/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bianco Eldorado
+Interior: Nero
+Mileage: 23,725 miles
 Fuel Type: Gas
-MPG: 27 city / 37 highway
+MPG: 13 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 23 days ago
-VIN: 1G1ZE5ST1GF260937
-Stock Number: 260937
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, 6 Speed Automatic; Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tire, P225/55R17; Seats, Front Bucket; Dark Atmosphere/Medium Ash Gray, Premium Cloth Seat Trim; Audio System, Chevrolet Mylink Radio With 7" Diagonal Color Touch Screen, Am/FM Stereo; License Plate Bracket, Front; Cargo Mat; See less; Wheel Type; Apple CarPlay; Android Auto; Backup Camera; Bluetooth; Air Conditioning; Power Mirrors; Clock; Steering Wheel Radio Controls; Driver Airbag; See all features
+Drivetrain: RWD
+Engine: 4.7L V-8 Gas V
+Location: Manassas, VA
+Listed Since: 7 days ago
+VIN: ZAM45VLA5H0236526
+Stock Number: 36526
+Features: Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Parking Sensors; Bluetooth; See less; Air Conditioning; Climate Control; Dual Zone Climate Control; Cruise Control; Power Steering; See all features

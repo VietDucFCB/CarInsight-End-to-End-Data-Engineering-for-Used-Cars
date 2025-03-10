@@ -1,17 +1,17 @@
-Title: 2019 Ford F-150 XLT SuperCrew 5.5' Box 2WD
-Cash Price: $14,990
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Unknown
-Interior: Unknown
-Mileage: Dallas, TX (1246 miles away)
-Fuel Type: Gas
-MPG: 19 city / 25 highway
+Title: 2022 Toyota RAV4 Hybrid LE AWD
+Cash Price: $20,678
+Finance Price: $313/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: White
+Interior: Black
+Mileage: 87,631 miles
+Fuel Type: Hybrid
+MPG: 41 city / 38 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 1FTEW1C50KKE41247
-Stock Number: E41247
-Features: Towing Pkg; SYNC; Dual Air Bags; Backup Camera; Bluetooth Wireless; Power Door Locks; Automatic 10-Spd w/Sport Mode; Alarm System; Side Air Bags; F&R Head Curtain Air Bags; ABS (4-Wheel); Fog Lights; Daytime Running Lights; Power Windows; FordPass Connect; Keyless Entry; Power Steering; Air Conditioning; V8 Flex Fuel 5.0 Liter; Alloy Wheels; AM/FM Stereo; Tilt & Telescoping Wheel; 2WD; AdvanceTrac; Traction Control; Hill Start Assist Control; Cruise Control; See less
+Drivetrain: AWD
+Engine: N/A
+Location: Mobile, AL
+Listed Since: 40 days ago
+VIN: 4T3LWRFV9NU051311
+Stock Number: NU051311
+Features: Wheel Type; Apple CarPlay; Android Auto; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; All Weather Liner Package (Tms) -Inc: All Weather Floor Liners (Ppo); Tonneau Cover; Lane Keeping Assist; Rear Spoiler; Black; See all features

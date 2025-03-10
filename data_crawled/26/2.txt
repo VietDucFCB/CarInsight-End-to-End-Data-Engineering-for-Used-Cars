@@ -1,17 +1,17 @@
-Title: 2014 Volkswagen Passat SEL Premium Sedan 3.6L V6 DSG
-Cash Price: $9,995
+Title: 2013 BMW X5 M
+Cash Price: $15,800
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Platinum Gray Metallic
-Interior: Titan Black
-Mileage: Raleigh, NC (224 miles away)
+Exterior: Black Sapphire Metallic
+Interior: Bamboo Beige
+Mileage: 85,721 miles
 Fuel Type: Gas
-MPG: 20 city / 28 highway
+MPG: 12 city / 17 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 43 days ago
-VIN: 1VWCM7A3XEC114254
-Stock Number: 114254
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Backup Camera; Bluetooth; See less
+Drivetrain: AWD
+Engine: 4.4L V-8 Gas V
+Location: Ocean, NJ
+Listed Since: 6 days ago
+VIN: 5YMGY0C53D0C11904
+Stock Number: D0C11904
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Parking Sensors; Bluetooth; See less; Turbocharged; All Wheel Drive; Air Suspension; Active Suspension; Power Steering; See all features

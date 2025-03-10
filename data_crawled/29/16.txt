@@ -1,17 +1,17 @@
-Title: 2014 Hyundai Genesis 3.8
-Cash Price: $8,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Caspian Black
-Interior: Jet Black
-Mileage: Glendale, AZ (1857 miles away)
+Title: 2015 Jeep Wrangler Unlimited Sport
+Cash Price: $17,500
+Finance Price: $259/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Black
+Mileage: 73,500 miles
 Fuel Type: Gas
-MPG: 18 city / 27 highway
+MPG: 16 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 3.8L V-6 Gas V
-Location: N/A
-Listed Since: Listed 145 days ago
-VIN: KMHGC4DD6EU260473
-Stock Number: 260473
-Features: Premium Package 02; Jet Black, Leather Seating Surfaces; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Bluetooth; See less
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Eugene, OR
+Listed Since: 3 days ago
+VIN: 1C4BJWDG5FL692196
+Stock Number: K13104A
+Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24S; 3.73 Rear Axle Ratio; 17" X 7.5" Aluminum Wheels; Tires: P255/75R17 Owl On/Off Road; Black, Cloth Bucket Seats; Connectivity Group; Black 3 Piece Hard Top; Sirius Satellite Radio; See less; Wheel Type; Bluetooth; Connectivity Group; Quick Order Package 24S; Sunrider Soft Top; 8 Speakers; AM/FM radio; See all features

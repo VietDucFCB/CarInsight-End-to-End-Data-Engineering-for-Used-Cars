@@ -1,17 +1,17 @@
-Title: 2022 Nissan Altima 2.5 SR FWD
-Cash Price: $14,595
-Finance Price: $272/moEstimate
-Finance Details: $1,460 due at signing · 72 mo · 14.22% APR
-Exterior: Gun Metallic
-Interior: Sport
-Mileage: Murfreesboro, TN (425 miles away)
+Title: 2022 Chevrolet Equinox Premier AWD
+Cash Price: $18,895
+Finance Price: $283/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Mosaic Black Metallic
+Interior: Jet Black/Maple Sugar
+Mileage: 108,797 miles
 Fuel Type: Gas
-MPG: 27 city / 37 highway
+MPG: 25 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 52 days ago
-VIN: 1N4BL4CV5NN315228
-Stock Number: 24534
-Features: [K01] Midnight Edition Package; Body Colored Splash Guards; Chrome Bumper Protector; SR Floor Mats/Trunk Mat/Hideaway Nets; Trunk Organizer Tray; Wheel Type; Moonroof; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Passenger Air Bag; AM/FM Stereo; 4-Wheel Disc Brakes; Rear Defrost; Front Wheel Drive; See all features
+Drivetrain: AWD
+Engine: 1.5L Inline-4 Gas Inline
+Location: Eastpointe, MI
+Listed Since: 25 days ago
+VIN: 2GNAXXEV9N6154662
+Stock Number: 1740013613
+Features: Engine, 1.5L Turbo Dohc 4 Cylinder, Sidi, VVT; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Axle, 3.87 Final Drive Ratio; Premier Preferred Equipment Group; Wheels, 18" (45.7 CM), Aluminum; Tires, P225/60R18 All Season Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 Plus System, 8" Diagonal HD Color Touchscreen; Confidence & Convenience II Package; Roadside Safety Package; Driver Confidence III Package; Driver Convenience II Package; License Plate Front Mounting Package; Not Equipped With Driver And Front Passenger Heated Or Ventilated Seats; Seat, Ventilated Driver; Seat, Ventilated Front Passenger; Seat Adjuster, Front Passenger 8 Way Power With 2 Way Power Lumbar; Not Equipped With Heated Rear Outboard Seats, See Dealer For Details; Seats, Heated, Rear, Outboard Positions; Adaptive Cruise Control; Automatic Parking Assist; HD Surround Vision; First Aid Kit; Highway Safety Kit; See less; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; See all features; Alloy wheels; None; Leather Interior; Power Windows; Power Locks; See all features

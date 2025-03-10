@@ -1,17 +1,17 @@
-Title: 2017 Jeep Wrangler Unlimited Rubicon
-Cash Price: $17,995
-Finance Price: $336/moEstimate
-Finance Details: $1,800 due at signing · 72 mo · 14.22% APR
-Exterior: Firecracker Red Clearcoat
-Interior: Black
-Mileage: Claremont, CA (2169 miles away)
-Fuel Type: Gas
-MPG: 16 city / 21 highway
+Title: 2018 Tesla Model S 100D
+Cash Price: $25,995
+Finance Price: $405/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Red
+Interior: Unknown
+Mileage: 40,573 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 114 days ago
-VIN: 1C4BJWFGXHL523680
-Stock Number: YK1656
-Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24R; 4.10 Rear Axle Ratio; Black, Cloth Seats with Adjustable Head Restraints; Connectivity Group; Black 3 Piece Hard Top; Add 4.10 Axle Ratio; Air Conditioning with Auto Temp Control; See less; Wheel Type; Seat Material; Bluetooth; Connectivity Group; Quick Order Package 24R; 8 Speakers; AM/FM radio: SiriusXM; Audio Jack Input for Mobile Devices; See all features
+Drivetrain: AWD
+Engine: N/A
+Location: Temple Hills, MD
+Listed Since: 148 days ago
+VIN: 5YJSA1E24JF259826
+Stock Number: 259826
+Features: 

@@ -1,17 +1,17 @@
-Title: 2023 Ford Edge SEL
-Cash Price: $20,000
-Finance Price: $303/moEstimate
-Finance Details: $2,000 due at signing · 72 mo · 6.5% APR
-Exterior: Oxford White
-Interior: Ebony
-Mileage: Ocala, FL (2153 miles away)
-Fuel Type: Gas
-MPG: 21 city / 28 highway
+Title: 2020 Hyundai Ioniq Electric Limited
+Cash Price: $14,995
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Electric Shadow
+Interior: Charcoal Black
+Mileage: 39,544 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: AWD
+Drivetrain: FWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 101 days ago
-VIN: 2FMPK4J91PBA18752
-Stock Number: BA18752
-Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Equipment Group 201A; 6 Speakers; AM/FM radio: SiriusXM with 360L; Radio: AM/FM Stereo/MP3 Capable; SiriusXM w/360L; See all features
+Location: Gardena, CA
+Listed Since: 5 days ago
+VIN: KMHC85LJ4LU070505
+Stock Number: GP1574
+Features: Option Group 01; Charcoal Black, Leather Seating Surfaces; Wheel Type; Moonroof; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Option Group 01; Wheels: 16'' x 6.5J Aluminum Alloy (EV Design); Heated Front Bucket Seats; Leather Seating Surfaces; Radio: AM/FM Premium Display Audio; See all features

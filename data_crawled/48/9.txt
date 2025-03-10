@@ -1,17 +1,17 @@
-Title: 2008 Ford Escape Hybrid I4 CVT 4WD
-Cash Price: $3,750
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Oxford White
-Interior: Stone
-Mileage: Avon, IN (601 miles away)
-Fuel Type: Hybrid
-MPG: 29 city / 27 highway
+Title: 2016 Lexus LS 460 RWD
+Cash Price: $29,000
+Finance Price: $457/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Nebula Gray Pearl
+Interior: Black
+Mileage: 55,791 miles
+Fuel Type: Gas
+MPG: 16 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 66 days ago
-VIN: 1FMCU59HX8KB79960
-Stock Number: P11160A
-Features: Wheel Type; GVWR: 4; 800 lbs Payload Package; 4 Speakers; AM/FM radio; AM/FM Single CD/MP3 & Satellite Capable; CD player; Radio data system; Air Conditioning; Automatic temperature control; Front dual zone A/C; Rear window defroster; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Four wheel independent suspension; Speed-sensing steering; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Brake assist; Delay-off headlights; Front fog lights; Fully automatic headlights; Panic alarm; Speed control; Bumpers: body-color; Power door mirrors; Roof rack: rails only; Driver door bin; Driver vanity mirror; Front reading lights; Illuminated entry; Outside temperature display; Passenger vanity mirror; Tachometer; Tilt steering wheel; Trip computer; Voltmeter; Front Bucket Seats; Front Center Armrest; Premium Cloth Buckets w/60/40 Split Rear Seat; Split folding rear seat; Passenger door bin; 16'' x 7'' Hybrid Unique Cast Aluminum Wheels; Alloy wheels; Rear window wiper; Variably intermittent wipers; 3.04 Axle Ratio; HURRY! GOING TO AUCTION SOON; THIS VEHICLE HAS NEVER BEEN INSPECTED; ADVISE INSPECTING BEFORE PURCHASE; VEHICLE IS SOLD AS-IS; ALL WHEEL DRIVE; Cruise Control; See less
+Drivetrain: RWD
+Engine: 4.6L V-8 Gas V
+Location: Mission Viejo, CA
+Listed Since: 7 days ago
+VIN: JTHBL5EF7G5140844
+Stock Number: G5140844
+Features: Wheel Type; Moonroof; Navigation; Seat Material; Front Heated Seats; Climate Control; Backup Camera; Parking Sensors; Bluetooth; See less

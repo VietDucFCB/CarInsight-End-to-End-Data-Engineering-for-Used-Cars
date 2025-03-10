@@ -1,17 +1,17 @@
-Title: 2023 Chevrolet Malibu LT
-Cash Price: $16,800
-Finance Price: $313/moEstimate
-Finance Details: $1,680 due at signing · 72 mo · 14.22% APR
-Exterior: Mineral Gray Metallic
-Interior: Jet Black
-Mileage: Houston, TX (1383 miles away)
+Title: 2014 INFINITI QX60 3.5 FWD
+Cash Price: $10,500
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Diamond Slate
+Interior: Graphite
+Mileage: 67,230 miles
 Fuel Type: Gas
-MPG: 27 city / 35 highway
+MPG: 20 city / 26 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 78 days ago
-VIN: 1G1ZD5ST4PF252804
-Stock Number: 244
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Sunroof, Power, Tilt Sliding; License Plate Bracket, Front; Deleted 3 Years Of Remote Access.; See less; Wheel Type; Moonroof; Apple CarPlay; Android Auto; Front Heated Seats; See all features; Safety Assist Pkg; Air Conditioning; OnStar; Dual Air Bags; Knee Air Bags; See all features
+Engine: 3.5L V-6 Gas V
+Location: North Richland Hills, TX
+Listed Since: 9 days ago
+VIN: 5N1AL0MN1EC544767
+Stock Number: 10974
+Features: Graphite, Leather Appointed Seats; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Third Row Seating; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; Child Safety Door Locks; Locking Pickup Truck Tailgate; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; See all features

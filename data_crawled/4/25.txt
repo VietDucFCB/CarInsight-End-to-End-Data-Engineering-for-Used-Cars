@@ -1,17 +1,17 @@
-Title: 2019 Honda Civic EX Sedan CVT
-Cash Price: $9,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Crystal Black Pearl
+Title: 2021 Tesla Model 3 Performance Dual Motor AWD
+Cash Price: $20,999
+Finance Price: $319/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Pearl White Multi-Coat
 Interior: Black
-Mileage: West Chester, OH (1913 miles away)
-Fuel Type: Gas
-MPG: 32 city / 42 highway
+Mileage: 25,070 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
+Drivetrain: AWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 226 days ago
-VIN: JHMFC1F39KX006817
-Stock Number: 006817
-Features: Wheel Type; Moonroof; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; See less; 4-Cyl Turbo 1.5 Liter; Automatic CVT; FWD; Honda LaneWatch; Hill Start Assist; See all features
+Location: Norco, CA
+Listed Since: 51 days ago
+VIN: 5YJ3E1EC5MF935898
+Stock Number: 935898
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Front Pedestrian Automatic emergency braking; Front Automatic emergency braking; Pedestrian Detection Pre-collision warning system; Audible Warning Pre-collision warning system; Visual Warning Pre-collision warning system; See all features

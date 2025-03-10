@@ -1,17 +1,17 @@
-Title: 2024 Chevrolet Equinox LT with 1LT FWD
-Cash Price: $16,899
-Finance Price: $262/moEstimate
-Finance Details: $1,690 due at signing · 72 mo · 7.31% APR
-Exterior: Sterling Gray Metallic
-Interior: Jet Black
-Mileage: Peoria, AZ (1862 miles away)
+Title: 2019 Jeep Cherokee Latitude FWD
+Cash Price: $12,852
+Finance Price: $178/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Black
+Mileage: 37,596 miles
 Fuel Type: Gas
-MPG: 26 city / 31 highway
+MPG: 22 city / 31 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 47 days ago
-VIN: 3GNAXKEGXRS137302
-Stock Number: 39422
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder, Sidi, VVT; Transmission, 6 Speed Automatic, Electronically Controlled With Overdrive; Axle, 3.50 Final Drive Ratio; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/65R17 All Season Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 7" Diagonal Color Touchscreen, Am/FM Stereo.; Deleted 3 Years Of Onstar Remote Access; See less; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Front Heated Seats; See all features; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; Premium audio system: Chevrolet Infotainment 3; Radio data system; See all features
+Engine: 2.4L Inline-4 Gas Inline
+Location: Fort Lauderdale, FL
+Listed Since: 86 days ago
+VIN: 1C4PJLCB1KD479521
+Stock Number: LU1136
+Features: Engine: 2.4L I4 Zero Evap M Air with Ess; Transmission: 9 Speed 948te Automatic; Quick Order Package 2BJ; 3.734 Axle Ratio; 17" X 7" Painted Aluminum Wheels; Black, Cloth Bucket Seats; GVWR: 5,050 LBS; Popular Appearance Group; SiriusXM Satellite Radio; See less; Wheel Type; Apple CarPlay; Android Auto; Backup Camera; Bluetooth

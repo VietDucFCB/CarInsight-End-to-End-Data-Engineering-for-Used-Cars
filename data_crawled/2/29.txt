@@ -1,17 +1,17 @@
-Title: 2016 Ford F-150 Lariat SuperCrew 5.5' Box 4WD
-Cash Price: $16,895
+Title: 2019 Ford Super Duty F-250 XLT 4WD SuperCab 6.75' Box
+Cash Price: $16,985
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Oxford White
-Interior: Black
-Mileage: Tempe, AZ (378 miles away)
+Exterior: White
+Interior: Gray
+Mileage: 169,741 miles
 Fuel Type: Gas
-MPG: 18 city / 23 highway
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: 4WD
-Engine: 2.7L V-6 Gas V
-Location: N/A
-Listed Since: Listed 29 days ago
-VIN: 1FTEW1EP4GKG01622
-Stock Number: 01622
-Features: Transmission: Electronic 6 Speed Automatic; Tires: P275/55R20 Owl A/T; Electronic Locking with 3.55 Axle Ratio; Front License Plate Bracket; Chrome Angular Step Bars; Twin Panel Moonroof; Pro Trailer Backup Assist; Voice Activated Navigation; Trailer Tow Package; FX4 Off Road Package; Tailgate Step with Tailgate Lift Assist; 20" Machined Aluminum Wheels; Extended Range 36 Gallon Fuel Tank; Integrated Trailer Brake Controller; Medium Light Camel, Leather Trimmed Bucket Seats; Equipment Group 501A Mid; See less; Wheel Type; Moonroof; Navigation; Apple CarPlay; Android Auto; See all features; Door Handle Color - Body-Color; Fender Lip Moldings - Body-Color; Front Bumper Color - Chrome; Grille Color - Chrome; Grille Color - Chrome Surround; See all features
+Engine: 6.2L V-8 Gas V
+Location: San Antonio, TX
+Listed Since: 3 days ago
+VIN: 1FT7X2B61KEC61280
+Stock Number: 26254
+Features: Vehicle Anti-Theft; ABS Brakes; Driver Airbag; Front Side Airbag; Passenger Airbag; Side Head Curtain Airbag; Cruise Control; Telescopic Steering Column; Front Split Bench Seat; Alloy Wheels; Power Windows; See less

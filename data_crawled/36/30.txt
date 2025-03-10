@@ -1,17 +1,17 @@
-Title: 2013 Volkswagen Passat 4dr Sedan 2.0L Manual TDI SE
-Cash Price: $6,596
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Candy White
-Interior: Titan Black
-Mileage: New Port Richey, FL (357 miles away)
-Fuel Type: Diesel
-MPG: 31 city / 43 highway
-Transmission: Manual Transmission
-Drivetrain: FWD
+Title: 2023 Volvo XC40 Recharge Plus
+Cash Price: $30,991
+Finance Price: $567/moEstimate
+Finance Details: $2,500 due at signing · 60 mo · 7.19% APR
+Exterior: Crystal White Metallic
+Interior: Charcoal
+Mileage: 10,117 miles
+Fuel Type: Electric
+MPG: N/A
+Transmission: Automatic Transmission
+Drivetrain: AWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 8 days ago
-VIN: 1VWBN7A36DC057526
-Stock Number: DC057526
-Features: 
+Location: Marietta, GA
+Listed Since: 26 days ago
+VIN: YV4ED3ULXP2019926
+Stock Number: NAC240742A
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Navigation system: Sensus Navigation Pro; Internet access capable: Digital Services Package w/ 4 Year Subscription; 8 Speakers; Audio memory; Radio data system; See all features

@@ -1,17 +1,17 @@
-Title: 2020 Tesla Model 3 Performance Dual Motor AWD
-Cash Price: $26,188
-Finance Price: $416/moEstimate
-Finance Details: $2,619 due at signing · 72 mo · 8.24% APR
-Exterior: Pearl White Multi-Coat
-Interior: Unknown
-Mileage: San Diego, CA (117 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2024 Chevrolet Malibu LT
+Cash Price: $17,000
+Finance Price: $250/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Mosaic Black Metallic
+Interior: Jet Black
+Mileage: 11,122 miles
+Fuel Type: Gas
+MPG: 27 city / 35 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 5YJ3E1EC2LF602007
-Stock Number: 42973
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Electric Motor; All Wheel Drive; Power Steering; ABS; 4-Wheel Disc Brakes; See all features
+Drivetrain: FWD
+Engine: 1.5L Inline-4 Gas Inline
+Location: Jacksonville, FL
+Listed Since: 12 days ago
+VIN: 1G1ZD5ST0RF147342
+Stock Number: 18440C
+Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 18" (45.7 CM) Bright Machined Aluminum; Tires, 245/45R18 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; MOSAIC BLACK METALLIC; ENGINE  1.5L TURBO DOHC 4-CYLINDER DI  with Variable Valve Timing (VVT) (163 hp [122 kW] @ 5700 rpm  184 lb-ft torque [248.4 N-m] @ 2500-3000 rpm) (STD); WHEELS  18" (45.7 CM) BRIGHT MACHINED ALUMINUM  with Lunar Gray pockets; TRANSMISSION  CONTINUOUSLY VARIABLE (CVT)  (STD); TIRES  245/45R18 ALL-SEASON  BLACKWALL; See all features

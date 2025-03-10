@@ -1,17 +1,17 @@
-Title: 2013 Ford F-150 XLT SuperCrew 5.5' Box 4WD
-Cash Price: $12,694
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Ingot Silver Metallic
-Interior: Black
-Mileage: Bryan, OH (1911 miles away)
+Title: 2021 Mercedes-Benz C 300 Sedan RWD
+Cash Price: $22,517
+Finance Price: $345/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Designo Diamond White Metallic
+Interior: Gray
+Mileage: 20,900 miles
 Fuel Type: Gas
-MPG: 14 city / 19 highway
+MPG: 23 city / 35 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 214 days ago
-VIN: 1FTFW1EF0DKE01859
-Stock Number: 71859
-Features: Four Wheel Drive; Tow Hooks; Power Steering; 4-Wheel Disc Brakes; Tires - Front All-Terrain; Tires - Rear All-Terrain; Aluminum Wheels; Conventional Spare Tire; Automatic Headlights; Fog Lamps; Power Mirror(s); Privacy Glass; Intermittent Wipers; Variable Speed Intermittent Wipers; Third Passenger Door; Fourth Passenger Door; AM/FM Stereo; CD Player; MP3 Capability; Steering Wheel Audio Controls; Bluetooth Connection; Telematics; Auxiliary Audio Input; Smart Device Integration; Requires Subscription; Cloth Seats; Split Bench Seat; Driver Adjustable Lumbar; Pass-Through Rear Seat; Rear Bench Seat; Floor Mats; Adjustable Steering Wheel; Power Windows; Security System; Cruise Control; Immobilizer; A/C; Driver Vanity Mirror; Passenger Vanity Mirror; ABS; Traction Control; Stability Control; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; Driver Restriction Features; Tire Pressure Monitor; See less
+Drivetrain: RWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Fort Myers, FL
+Listed Since: 49 days ago
+VIN: W1KWF8DB0MR617652
+Stock Number: 617652F01
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; 5 Speakers; AM/FM radio; HD Radio; Radio data system; Radio: Audio 20; See all features

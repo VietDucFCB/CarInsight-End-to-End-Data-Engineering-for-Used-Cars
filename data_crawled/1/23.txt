@@ -1,17 +1,17 @@
-Title: 2018 Tesla Model 3 Long Range RWD
-Cash Price: $15,990
-Finance Price: $252/moEstimate
-Finance Details: $1,599 due at signing · 72 mo · 7.99% APR
-Exterior: Silver
+Title: 2016 Jeep Wrangler Sport
+Cash Price: $11,250
+Finance Price: $151/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
 Interior: Black
-Mileage: Laguna Hills, CA (51 miles away)
-Fuel Type: Electric
-MPG: N/A
+Mileage: 98,834 miles
+Fuel Type: Gas
+MPG: 17 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 92 days ago
-VIN: 5YJ3E1EA2JF008707
-Stock Number: 99241119
-Features: Single-Speed Fixed Gear; ABS (4-Wheel); Premium Sound; Side Air Bags; Dual Air Bags; Power Windows; Keyless Entry; LED Headlamps; RWD; Knee Air Bags; Power Steering; Backup Camera; AM/FM Stereo; Dual Power Seats; AC Electric Motor; Alloy Wheels; Electronic Stability Control; Air Conditioning; Alarm System; Head Curtain Air Bags; Daytime Running Lights; Traction Control; Bluetooth Wireless; Fog Lights; Heated Seats; Navigation System; See less
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Grove City, OH
+Listed Since: 128 days ago
+VIN: 1C4AJWAG1GL219705
+Stock Number: 60091
+Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24B; 3.21 Rear Axle Ratio; 16" X 7.0" Styled Steel Wheels; Tires: P245/75R16 As Owl; Black, Cloth Seats with Adjustable Head Restraints; Black 3 Piece Hard Top; Deep Tint Sunscreen Windows; Sirius Satellite Radio; Air Conditioning; See less; Quick Order Package 24B; Sunrider Soft Top; 8 Speakers; AM/FM radio; Audio Jack Input for Mobile Devices; See all features

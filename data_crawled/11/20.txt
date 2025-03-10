@@ -1,17 +1,17 @@
-Title: 2013 FIAT 500e Hatchback
-Cash Price: $6,880
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Argento (Silver)
-Interior: Black Interior
-Mileage: Kent, WA (948 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2022 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $23,888
+Finance Price: $369/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Dk. Blue
+Interior: Gray
+Mileage: 113,972 miles
+Fuel Type: Gas
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 3C3CFFGE8DT740392
-Stock Number: 12004
-Features: 83 KW Electric Motor; Single Speed Transmission; 2ej Customer Preferred Order Selection PKG; 15" X 5.5" Front, 15" X 6.5" Rear Cast Aluminum Wheels; Black Interior, Leatherette Bucket Seats; Esport PKG; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Parking Sensors; Bluetooth; See less; 15" X 5.5" Front; 15" X 6.5" Rear Cast Aluminum Wheels; 2Ej Customer Preferred Order Selection Pkg; 50-State Emissions; 83 Kw Electric Motor; See all features
+Drivetrain: 4WD
+Engine: 3.3L V-6 Gas V
+Location: Milwaukie, OR
+Listed Since: 27 days ago
+VIN: 1FTEW1EB0NFA73958
+Stock Number: 50282
+Features: Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less

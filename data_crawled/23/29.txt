@@ -1,17 +1,17 @@
-Title: 2016 FIAT 500e Hatchback
-Cash Price: $8,998
-Finance Price: $168/moEstimate
-Finance Details: $900 due at signing · 72 mo · 14.22% APR
-Exterior: Bianco Perla (Pearl White Tri-Coat)
-Interior: Black
-Mileage: Coon Rapids, MN (1537 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2024 Chrysler Pacifica Limited FWD
+Cash Price: $32,500
+Finance Price: $517/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Bright White Clearcoat
+Interior: Black/Alloy/Black
+Mileage: 4,692 miles
+Fuel Type: Gas
+MPG: 19 city / 28 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 10 days ago
-VIN: 3C3CFFGE8GT180376
-Stock Number: 26H1194T
-Features: Quick Order Package 2ej; 15" X 5.5" FR & 15" X 6.5" RR Aluminum Wheels; Black, Leatherette Bucket Seats; Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Parking Sensors; Bluetooth; See less; BLACK  LEATHERETTE BUCKET SEATS; MANUFACTURER'S STATEMENT OF ORIGIN; BIANCO PERLA (PEARL WHITE TRI-COAT); WHEELS: 15" X 5.5" FR & 15" X 6.5" RR ALUMINUM  (STD); QUICK ORDER PACKAGE 2EJ; See all features
+Engine: 3.6L V-6 Gas V
+Location: Mobile, AL
+Listed Since: 39 days ago
+VIN: 2C4RC1GGXRR160381
+Stock Number: P160381
+Features: Engine: 3.6L V6 24V VVT Upg I with Ess; Transmission: 9 Speed 948te Automatic; Quick Order Package 27P; 18" X 7.5" Painted Aluminum Design 2 Wheels; Tires: 245/60R18 BSW As Self Sealing; Safety Sphere; Trailer Tow Group; Uconnect Theater Family Group; Black Seats; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Navigation System; Quick Order Package 27P; Safety Sphere; Trailer Tow Group; Uconnect Theater Family Group; See all features

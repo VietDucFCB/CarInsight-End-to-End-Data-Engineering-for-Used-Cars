@@ -1,17 +1,17 @@
-Title: 2009 Mercedes-Benz SL 550 Roadster
-Cash Price: $13,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Black
-Interior: Black
-Mileage: Denver, CO (841 miles away)
+Title: 2023 Chevrolet Malibu LT
+Cash Price: $17,000
+Finance Price: $250/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Mineral Gray Metallic
+Interior: Jet Black
+Mileage: 44,774 miles
 Fuel Type: Gas
-MPG: 13 city / 21 highway
+MPG: 27 city / 35 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 5.5L V-8 Gas V
-Location: N/A
-Listed Since: Listed 129 days ago
-VIN: WDBSK71F19F148908
-Stock Number: 11375D
-Features: Wheel Type; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; Bluetooth; See less; Navigation System; Leather Seats; Heated Seats; Bluetooth; Convertible rear window: glass; See all features
+Drivetrain: FWD
+Engine: 1.5L Inline-4 Gas Inline
+Location: Kansas City, MO
+Listed Since: 34 days ago
+VIN: 1G1ZD5ST6PF134379
+Stock Number: X102176
+Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); 1LT Preferred Equipment Group; Wheels, 18" (45.7 CM) Bright Machined Aluminum With Lunar Gray Pockets; Tires, 245/45R18 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; Driver Confidence Package; License Plate Bracket, Front; Rear Park Assist; Lane Change Alert With Side Blind Zone Alert; Rear Cross Traffic Alert; Deleted 3 Years Of Remote Access.; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features

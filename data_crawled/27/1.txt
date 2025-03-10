@@ -1,17 +1,17 @@
-Title: 2013 Land Rover Range Rover Sport HSE
-Cash Price: $12,950
+Title: 2013 Lexus RX 350 FWD
+Cash Price: $11,999
 Finance Price: Not Available
 Finance Details: Not Available
 Exterior: White
-Interior: Black
-Mileage: Overland Park, KS (928 miles away)
+Interior: Saddle Tan
+Mileage: 107,020 miles
 Fuel Type: Gas
-MPG: 13 city / 18 highway
+MPG: 18 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 19 days ago
-VIN: SALSF2D47DA786601
-Stock Number: A99486
-Features: Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; AM/FM CD/MP3; Satellite; AM/FM CD/DVD; Sentry Key; Keyless Entry; Alarm; Dual Front Airbags; Side Airbags; Head Airbags; Rear Head Airbags; Active Seatbelts; All Wheel ABS; Power Sun/Moon Roof; See less
+Drivetrain: FWD
+Engine: 3.5L V-6 Gas V
+Location: Houston, TX
+Listed Since: 38 days ago
+VIN: 2T2ZK1BA0DC107506
+Stock Number: 107506
+Features: 

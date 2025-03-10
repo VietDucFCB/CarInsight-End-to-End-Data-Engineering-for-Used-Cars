@@ -38,11 +38,11 @@ hdfs_root = "/data_lake/raw/cars"
 input_path = f"{hdfs_root}/year_*/month_*/day_*/*.json"
 
 try:
-    # Đọc dữ liệu với các option debug
+    # Đọc dữ liệu, chú ý 'multiLine' để đọc file có nhiều dòng JSON
     df = spark.read \
         .option("mergeSchema", "true") \
         .option("mode", "PERMISSIVE") \
-        .option("columnNameOfCorruptRecord", "_corrupt_record") \
+        .option("multiLine", "true") \
         .schema(schema) \
         .json(input_path)
 
@@ -51,13 +51,6 @@ try:
 
     print("Sample data (5 rows):")
     df.show(5, truncate=False)
-
-    # Kiểm tra record bị corrupt
-    corrupt_df = df.filter(col("_corrupt_record").isNotNull())
-    corrupt_count = corrupt_df.count()
-    if corrupt_count > 0:
-        print(f"Found {corrupt_count} corrupt records:")
-        corrupt_df.select("_corrupt_record").show(5, truncate=False)
 
     # Kiểm tra danh sách file được đọc
     print("Files read from HDFS:")
@@ -115,7 +108,7 @@ except Exception as e:
     spark.stop()
     exit(1)
 
-# 5. LOAD (giữ nguyên phần này nếu cần)
+# 5. LOAD
 print("Loading data to PostgreSQL Data Warehouse...")
 try:
     postgres_url = "jdbc:postgresql://localhost:5432/DataWarehouse"

@@ -1,17 +1,17 @@
-Title: 2003 Mercedes-Benz SL 500
-Cash Price: $9,947
+Title: 2012 Aston Martin Rapide Sedan Auto
+Cash Price: $47,900
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Black
+Exterior: White
 Interior: Black
-Mileage: Chicago, IL (764 miles away)
+Mileage: 41,603 miles
 Fuel Type: Gas
-MPG: 15 city / 22 highway
+MPG: 13 city / 19 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 5.0L V-8 Gas V
-Location: N/A
-Listed Since: Listed 174 days ago
-VIN: WDBSK75F03F022654
-Stock Number: 1989
-Features: Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Climate Control; 5.0L SOHC SMPI 24-valve V8 engine; 5-speed automatic transmission; Rear wheel drive; Fully electronic ignition system w/knock sensor timing control; Independent 4-link front/5-arm rear suspension w/anti-dive technology; Active Body Control (ABC)-inc: coil spring & electronically controlled hydraulic cylinder w/gas pressurized shock absorber at each wheel; P255/45WR17 all-season high-performance tires; Compact spare tire; 17" x 8.5" 7-spoke aluminum wheels; Rack & pinion vehicle-speed-sensitive pwr steering; Front cross-drilled/rear ventilated disc brakes; Sensotronic brake control; Electrohydraulic retractable aluminum hardtop; Attachable mesh wind deflector; Halogen front foglamps; Red rear foglamp; Dual heated pwr mirrors w/3-position memory & auto dimming driver mirror; Dual aero-blade windshield wipers w/heated parking position & infrared rain sensor; Dual retractable cup holders; Illuminated/climate controlled glove-box & armrest storage; Velour carpeting & floor mats; Parcel net in right footwell; Pwr tilt/telescoping steering column; Multi-function steering wheel; Selective/programmable locking/unlocking; Universal integrated garage door opener; Dual reading lamps; Anti-theft alarm system w/starter interlock & tow-away protection; Automatic dual zone climate control-inc: dust filter- residual-heat REST mode; Rear window defroster; Bose sound system w/AudioPilot-inc: antitheft-coded AM/FM stereo/weather band radio & CD player/CD-Rom drive- CD changer controls- (8) speakers- navigation system & COMAND system; Rearview mirror w/auto-dimming feature; Dual illuminated visor vanity mirrors; Tele-Aid-inc: 24-hour contact w/Mercedes Benz for emergency aid- information- roadside assistance; Sensotronic brake control; Driver & front passenger front airbag supplemental restraint system; Babysmart automatic child seat recognition system; Door mounted head & body side-impact airbags; Adjustable seat-mounted 3-point front shoulder belts w/height adjustment & emergency tensioning retractors; Pop-up roll bar; Illuminated emergency interior trunk release; See less
+Engine: 5.9L V-12 Gas V
+Location: Roseville, CA
+Listed Since: 54 days ago
+VIN: SCFHDDAJ2CAF02601
+Stock Number: 9026M
+Features: 

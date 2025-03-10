@@ -1,17 +1,17 @@
-Title: 2022 Chevrolet Malibu LT
-Cash Price: $12,900
-Finance Price: $241/moEstimate
-Finance Details: $1,290 due at signing · 72 mo · 14.22% APR
-Exterior: Northsky Blue Metallic
-Interior: Jet Black
-Mileage: Sanford, FL (2212 miles away)
+Title: 2017 Chevrolet Express Commercial Cutaway 3500 Van 139"
+Cash Price: $14,995
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Summit White
+Interior: Medium Pewter
+Mileage: 57,575 miles
 Fuel Type: Gas
-MPG: 29 city / 36 highway
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 50 days ago
-VIN: 1G1ZD5ST3NF158443
-Stock Number: POE8443
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, Continuously Variable (CVT); LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Audio System, Chevrolet Infotainment 3 System, 8" Diagonal Color Touchscreen, Am/FM Stereo.; License Plate Bracket, Front; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; Preferred Equipment Group 1LT; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; Premium audio system: Chevrolet Infotainment 3 Plus; See all features
+Drivetrain: RWD
+Engine: 4.8L V-8 Gas V
+Location: Levittown, PA
+Listed Since: 10 days ago
+VIN: 1GB0GRFF0H1304595
+Stock Number: 552
+Features: Body, Standard; Wheel Configuration, Rear, Single; Engine, Vortec 4.8L V8; Transmission, 6 Speed Automatic, Heavy Duty; GVWR, 9900 LBS. (4490 KG); Rear Axle, 3.42 Ratio; 3500 Van Preferred Equipment Group; Wheels, 4 16" X 6.5" (40.6 CM X 16.5 CM), 8 Lug Painted Steel, Heavy Duty; Tires, Front LT245/75r16e All Season, Blackwall; Tires, Rear LT245/75r16e All Season, Blackwall; Paint, Solid; Medium Pewter, Custom Cloth Seat Trim; Seating Arrangement, Driver And Front Passenger Highback Bucket; Air Conditioning, Single Zone Manual; Audio System, Am/FM Stereo With MP3 Player; Body, Soft Mount Donut And Bolt; Mirrors, Outside Manual, Black; Seats, Front Bucket With Custom Cloth Trim, Head Restraints And Inboard Armrests; Console, Engine Cover; Air Bags, Driver And Right Front Passenger, Seat Mounted Side Impact And Head Curtain Side Impact; Fleet Free Maintenance Credit.; Fuel, Additional 3 Gallons; Suspension, Rear Multi Leaf In Lieu Of The Standard Tapered Leaf; Fuel Fill Cap With Stainless Steel Tether In Lieu Of The Standard Plastic Tether; See less; Steering Ratio - 17.2; Turns Lock-To-Lock - 3.0; Abs - 4-Wheel; Axle Ratio - 3.42; Daytime Running Lights; See all features

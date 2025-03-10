@@ -1,17 +1,17 @@
-Title: 2015 Chevrolet Equinox LS AWD
-Cash Price: $4,650
+Title: 2013 Jeep Wrangler Unlimited Sahara
+Cash Price: $11,936
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Silver Ice Metallic
-Interior: Jet Black
-Mileage: Parma, OH (2057 miles away)
+Exterior: Billet Silver Metallic
+Interior: Black Interior
+Mileage: 110,623 miles
 Fuel Type: Gas
-MPG: 20 city / 29 highway
+MPG: 16 city / 21 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 399 days ago
-VIN: 1GNFLEEK6FZ112239
-Stock Number: 23420
-Features: Engine, 2.4L Dohc 4 Cylinder Sidi (Spark Ignition Direct Injection); Transmission, 6 Speed Automatic With Overdrive; LS Preferred Equipment Group; Seats, Deluxe Front Bucket; Jet Black, Cloth; Audio System, Am/FM/SiriusXM Stereo With CD Player And MP3/Wma Playback Capability; License Plate Bracket, Front; Cargo Area Close Out Panel; See less; Wheel Type; Bluetooth; Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; See all features
+Drivetrain: 4WD
+Engine: 3.6L V-6 Gas V
+Location: Wilmington, DE
+Listed Since: 75 days ago
+VIN: 1C4BJWEG7DL562836
+Stock Number: 8573A
+Features: 3.6L Smpi 24V VVT V6 Engine; 5 Speed Automatic Transmission; 24G Customer Preferred Order Selection PKG; 3.73 Axle Ratio; 18" X 7.5" Satin Carbon Polished Aluminum Wheels; P255/70R18 On/Off Road Owl Tires; Black Interior, Cloth Seat Trim; Body Color 3 Piece Hard Top; See less; Wheel Type; Premium Audio; Quick Order Package 24G; Body Color 3-Piece Hard Top; 7 Speakers; AM/FM radio: SIRIUS; Audio Jack Input for Mobile Devices; See all features

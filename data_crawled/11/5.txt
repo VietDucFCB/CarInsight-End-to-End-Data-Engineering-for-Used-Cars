@@ -1,17 +1,17 @@
-Title: 2022 Mazda MX-30 EV Premium Plus
-Cash Price: $16,586
-Finance Price: $309/moEstimate
-Finance Details: $1,659 due at signing · 72 mo · 14.22% APR
-Exterior: Machine Gray Metallic
-Interior: Black W/Vintage Brown
-Mileage: Santa Clarita,, CA (28 miles away)
-Fuel Type: Electric
-MPG: N/A
+Title: 2021 Ford F-150 XL Regular Cab 8' Box 4WD
+Cash Price: $16,990
+Finance Price: $250/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Unknown
+Interior: Unknown
+Mileage: 102,319 miles
+Fuel Type: Gas
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 14 days ago
-VIN: JM1DRADB6N0100622
-Stock Number: 2H0430
-Features: Premium Plus Package; Black with Vintage Brown, Leatherette & Cloth Seat Trim; Machine Gray Metallic Paint Charge; Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Premium Plus Package; 12 Speakers; Radio data system; Radio: FM HD Radio w/Bose Premium Audio; Air Conditioning; See all features
+Drivetrain: 4WD
+Engine: 3.3L V-6 Gas V
+Location: Dallas, TX
+Listed Since: 12 days ago
+VIN: 1FTMF1EB6MKD87857
+Stock Number: D87857
+Features: Dual Air Bags; Alloy Wheels; Backup Camera; Towing Pkg; Power Door Locks; Automatic 10-Spd w/Sport Mode; V6 Flex Fuel 3.3 Liter; AdvanceTrac; FordPass Connect; Air Conditioning; Perimeter Alarm System; Hill Start Assist; AM/FM Stereo; Daytime Running Lights; Traction Control; Tilt & Telescoping Wheel; Power Steering; 4WD; Head Curtain Air Bags; Side Air Bags; Ford Co-Pilot360; SYNC; Lane Keeping System; Cruise Control; ABS (4-Wheel); Power Windows; See less

@@ -1,17 +1,17 @@
-Title: 2018 Ford Transit Connect Van XLT with Rear Symmetrical Doors LWB
-Cash Price: $11,650
-Finance Price: $184/moEstimate
-Finance Details: $1,165 due at signing · 72 mo · 7.99% APR
-Exterior: Frozen White
+Title: 2016 Ford Focus SE Sedan
+Cash Price: $6,495
+Finance Price: $69/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Kona Blue
 Interior: Charcoal Black
-Mileage: Fontana, CA (2153 miles away)
+Mileage: 76,300 miles
 Fuel Type: Gas
-MPG: 20 city / 27 highway
+MPG: 26 city / 36 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 53 days ago
-VIN: NM0LS7F76J1345532
-Stock Number: 345532
+Engine: 2.0L Inline-4 Gas Inline
+Location: Naugatuck, CT
+Listed Since: 34 days ago
+VIN: 1FADP3F26GL248131
+Stock Number: 248131N
 Features: 

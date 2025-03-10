@@ -1,17 +1,17 @@
-Title: 2022 Hyundai Tucson SEL AWD
-Cash Price: $15,800
-Finance Price: $248/moEstimate
-Finance Details: $1,580 due at signing · 72 mo · 7.74% APR
-Exterior: Portofino Gray
-Interior: Gray
-Mileage: Great Neck, NY (2474 miles away)
+Title: 2022 Ford F-150 XLT SuperCrew 5.5' Box 4WD
+Cash Price: $30,990
+Finance Price: $491/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Stone Gray Metallic
+Interior: Black W/Baja Tan
+Mileage: 36,992 miles
 Fuel Type: Gas
-MPG: 24 city / 29 highway
+MPG: 19 city / 22 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 19 days ago
-VIN: 5NMJBCAE8NH032566
-Stock Number: C4643-105
-Features: Option Group 01; Gray, Seat Trim; Front And Rear Mudguards; Carpeted Floor Mats; Cargo Net; Cargo Tray; Cargo Cover; First Aid Kit; See less; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; See all features; FIRST AID KIT; CARGO NET; GRAY  STAIN & ODOR RESISTANT CLOTH SEAT TRIM; PORTOFINO GRAY; OPTION GROUP 01  -inc: standard equipment; See all features
+Drivetrain: 4WD
+Engine: 3.3L V-6 Gas V
+Location: Grand Rapids, MI
+Listed Since: 13 days ago
+VIN: 1FTEW1EB0NKE39652
+Stock Number: Y3605
+Features: Wheel Type; Apple CarPlay; Android Auto; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less

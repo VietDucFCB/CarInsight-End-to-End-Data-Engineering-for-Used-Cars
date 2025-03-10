@@ -1,17 +1,17 @@
-Title: 2016 Mercedes-Benz E 350 4MATIC Luxury Sedan
-Cash Price: $10,495
-Finance Price: $166/moEstimate
-Finance Details: $1,050 due at signing · 72 mo · 7.99% APR
-Exterior: Black
+Title: 2019 Dodge Grand Caravan SE
+Cash Price: $9,995
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: White Knuckle Clearcoat
 Interior: Black
-Mileage: Elizabeth, NJ (629 miles away)
+Mileage: 121,187 miles
 Fuel Type: Gas
-MPG: 20 city / 28 highway
+MPG: 17 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 3 days ago
-VIN: WDDHF8JBXGB259342
-Stock Number: 259342
-Features: Sunroof/Moonroof; Navigation System; Leather Seats; Bluetooth; Moonroof / Sunroof: one-touch open/close  power glass; remotely operated; sliding sunshade; tilt/slide; Driver seat power adjustments: 4-way power lumbar  height; reclining; 14; Front headrests: adjustable  2; Front seat type: bucket; Passenger seat power adjustments: 4-way power lumbar  height; reclining; 14; Rear headrests: adjustable  3; Rear seat type: bench; Upholstery: leatherette; ABS: 4-wheel; Brake drying:; Braking assist:; Electronic brakeforce distribution:; Emergency braking preparation:; Front brake type: ventilated disc; Power brakes:; Rear brake type: ventilated disc; Auto start/stop:; Daytime running lights:; Exterior entry lights: approach lamps; Headlights: LED  auto delay off; auto on/off; Rear fog lights:; Taillights: LED; Active head restraints: dual front; Child safety door locks:; Child seat anchors: LATCH system; Crumple zones: front  rear; Driver attention alert system:; Emergency interior trunk release:; Impact sensor: battery disconnect  door unlock; fuel cut-off; post-collision safety system; Airbag deactivation: occupant sensing passenger; Front airbags: dual; Knee airbags: driver; Side airbags: front; Side curtain airbags: front  rear; Side mirror adjustments: power; Side mirrors: driver side auto-dimming  driver side only heated; heated; integrated turn signals; Front wipers: rain sensing  variable intermittent; Heated windshield washer jets:; Power windows:; Window defogger: rear; Anti-theft system: alarm  vehicle immobilizer; Power door locks: auto-locking; Emergency locking retractors: front; Front seatbelts: 3-point; Rear seatbelts: 3-point; Seatbelt force limiters: front  rear; Seatbelt pretensioners: front  rear; Seatbelt warning sensor: front; 4WD type: full time; Front shock type: gas; Front spring type: coil; Front stabilizer bar:; Front struts: MacPherson; Front suspension classification: independent; Front suspension type: multi-link; Rear shock type: gas; Rear spring type: coil; Rear stabilizer bar:; Rear suspension classification: independent; Rear suspension type: multi-link; Driver assistance app: roadside assistance; Hands-free phone call integration: voice operated; Navigation data: real time traffic; Satellite communications: mbrace; Smart device app function: horn/light operation  lock operation; maintenance status; vehicle location; Wireless data link: Bluetooth; Antenna type: diversity; Auxiliary audio input: Bluetooth  USB; iPod/iPhone; jack; In-Dash CD: 6 disc  MP3 Playback; Radio: AM/FM  HD radio; Radio data system:; Satellite radio: SiriusXM; Speed sensitive volume control:; Total speakers: 8; Run flat tires:; Tire Pressure Monitoring System:; Tire type: all season; Wheels: aluminum alloy; Clock:; Compass:; See less
+Drivetrain: FWD
+Engine: 3.6L V-6 Gas V
+Location: Fredricksburg, VA
+Listed Since: 23 days ago
+VIN: 2C4RDGBG5KR782562
+Stock Number: 11188
+Features: Engine: 3.6L V6 24V VVT (FFV); Transmission: 6 Speed Automatic 62te; Quick Order Package 29S Se; 17" X 6.5" Steel Wheels; Tires: 225/65R17 BSW Touring; Black/Light Graystone, Cloth Low Back Bucket Seats; 2ND Row Bench with Rear Stow 'N Go 60/40; See less; Third Row Seating; Backup Camera; FWD; Automatic 6-Spd; V6 Flex Fuel 3.6 Liter; ABS (4-Wheel); Air Conditioning; See all features

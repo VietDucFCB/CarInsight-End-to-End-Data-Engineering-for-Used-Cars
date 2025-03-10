@@ -1,17 +1,17 @@
-Title: 2018 Chevrolet Malibu LT with 1LT
-Cash Price: $10,000
-Finance Price: $206/moEstimate
-Finance Details: $1,000 due at signing · 72 mo · 18.22% APR
-Exterior: Nightfall Gray Metallic
-Interior: Jet Black
-Mileage: Irving, TX (1240 miles away)
+Title: 2022 BMW X3 sDrive30i RWD
+Cash Price: $21,500
+Finance Price: $328/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Dark Graphite Metallic
+Interior: Cognac
+Mileage: 81,438 miles
 Fuel Type: Gas
-MPG: 27 city / 36 highway
+MPG: 23 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 16 days ago
-VIN: 1G1ZD5ST6JF135863
-Stock Number: MHF251254A
-Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, 6 Speed Automatic; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Jet Black, Premium Cloth Seat Trim; Audio System, Chevrolet Mylink Radio With 7" Diagonal Color Touch Screen, Am/FM Stereo; License Plate Bracket, Front; See less; Wheel Type; Apple CarPlay; Android Auto; Climate Control; Backup Camera; Bluetooth; Preferred Equipment Group 1LT; 6 Speakers; 6-Speaker Audio System Feature; AM/FM radio: SiriusXM; Radio data system; See all features
+Drivetrain: RWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Pensacola, FL
+Listed Since: 67 days ago
+VIN: 5UX43DP02N9K61332
+Stock Number: N9K61332
+Features: 19" X 7.5" Y Spoke (Style 693) Wheels; Premium Package 2; Panoramic Moonroof; Heated Front Seats; Heated Steering Wheel; Comfort Access Keyless Entry; Live Cockpit Pro with Navigation; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Navigation; Apple CarPlay; See all features; Driver Air Bag; Passenger Air Bag; Front Head Air Bag; Rear Head Air Bag; Multi-Zone A/C; See all features

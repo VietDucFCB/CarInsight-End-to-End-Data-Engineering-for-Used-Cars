@@ -1,17 +1,17 @@
-Title: 2008 Mercedes-Benz S 550 RWD
-Cash Price: $10,888
-Finance Price: Not Available
-Finance Details: Not Available
+Title: 2017 Mercedes-Benz C 300 Sedan RWD
+Cash Price: $14,999
+Finance Price: $215/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
 Exterior: Black
-Interior: Black
-Mileage: Malvern, PA (560 miles away)
+Interior: White
+Mileage: 71,488 miles
 Fuel Type: Gas
-MPG: 14 city / 21 highway
+MPG: 23 city / 30 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 5.5L V-8 Gas V
-Location: N/A
-Listed Since: Listed 451 days ago
-VIN: WDDNG71X98A154501
-Stock Number: 154501
-Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Climate Control; See less; V8 5.5 Liter; Auto 7-Spd Touch Shift; RWD; Hill Ascent Control; Traction Control; See all features
+Engine: 2.0L Inline-4 Gas Inline
+Location: Los Angeles, CA
+Listed Since: 31 days ago
+VIN: 55SWF4JB0HU217401
+Stock Number: 217401
+Features: Alarm System; Tilt & Telescoping Wheel; Keyless Entry; Auto 7-Spd 7G-Tronic +; Traction Control; AM/FM/HD Radio; RWD; Cruise Control; harman/kardon Surround Sound; Rear Spoiler; Power Door Locks; Dual Air Bags; Sport Pkg; Hill Start Assist Control; Remote Trunk Release; Electronic Stability Control; F&R Head Curtain Air Bags; Electromechanical Power Steering; Power Windows; Dual Power Seats; CD/MP3 (Single Disc); Bluetooth Wireless; Air Conditioning; F&R Side Air Bags; Backup Camera; KEYLESS-GO; mbrace; Alloy Wheels; Knee Air Bags; 4-Cyl Turbo 2.0 Liter; Daytime Running Lights; SiriusXM Satellite; ABS (4-Wheel); See less

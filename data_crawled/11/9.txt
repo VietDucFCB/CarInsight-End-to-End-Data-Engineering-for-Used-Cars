@@ -1,17 +1,17 @@
-Title: 2020 Kia Soul S IVT
-Cash Price: $11,500
-Finance Price: $214/moEstimate
-Finance Details: $1,150 due at signing · 72 mo · 14.22% APR
-Exterior: Cherry Black
-Interior: Black
-Mileage: Houston, TX (1377 miles away)
-Fuel Type: Gas
-MPG: 27 city / 33 highway
+Title: 2021 Toyota Mirai XLE
+Cash Price: $10,977
+Finance Price: $146/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Oxygen White
+Interior: Black W/Silver
+Mileage: 42,146 miles
+Fuel Type: Hydrogen
+MPG: 76 city / 71 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
+Drivetrain: RWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 17 days ago
-VIN: KNDJ23AU2L7023647
-Stock Number: 023647
-Features: Black, Woven Cloth Seat Trim; Carpeted Floor Mats; Cargo Net; Wheel Type; Apple CarPlay; Android Auto; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Power Door Locks; Cruise Control; Keyless Entry; FWD; Lane Keep Assist; See all features
+Location: San Diego, CA
+Listed Since: 23 days ago
+VIN: JTDAAAAAXMA001199
+Stock Number: 16449
+Features: Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Premium; Paint

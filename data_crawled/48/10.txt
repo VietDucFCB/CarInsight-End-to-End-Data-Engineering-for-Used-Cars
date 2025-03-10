@@ -1,17 +1,17 @@
-Title: 2013 BMW 335i Convertible
-Cash Price: $12,980
+Title: 2011 Ford Taurus SHO AWD
+Cash Price: $7,995
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Alpine White
-Interior: Black
-Mileage: Manassas Park, VA (437 miles away)
+Exterior: Tuxedo Black Metallic
+Interior: Charcoal Black
+Mileage: 122,995 miles
 Fuel Type: Gas
-MPG: 23 city / 33 highway
+MPG: 17 city / 25 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 92 days ago
-VIN: WBADX7C51DE745925
-Stock Number: 22802A
-Features: Wheel Type; Seat Material; Climate Control; Bluetooth; Real Time Traffic Information; Convertible HardTop; 8 Speakers; AM/FM radio; CD player; Hands-Free Bluetooth; harman/kardon Surround Sound System; Hi-Fi Sound System; iPod & USB Adapter; Radio data system; Radio: Anti-Theft AM/FM/HD Stereo CD/MP3 Player; SIRIUS Satellite Radio; Air Conditioning; Automatic temperature control; Front dual zone A/C; Rear air conditioning; Rear window defroster; Comfort Access Keyless Entry; Lumbar Support; Memory seat; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel mounted A/C controls; Steering wheel mounted audio controls; Voice-Command; Four wheel independent suspension; M Sports Leather Steering Wheel w/Paddle Shifters; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Anti-whiplash front head restraints; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Increased Top Speed Limiter; Integrated roll-over protection; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Rear anti-roll bar; BMW Assist w/Enhanced Bluetooth® & USB; Smartphone Integration; Brake assist; Electronic Stability Control; Delay-off headlights; Front fog lights; Fully automatic headlights; High intensity discharge headlights: Bi-xenon; Retractable Headlight Washers; Panic alarm; Security system; Speed control; Aerodynamic Kit; Auto-Dimming Interior & Exterior Mirrors; Bumpers: body-color; Heated door mirrors; M Sport Suspension; Power door mirrors; Auto-Dimming Rear-View Mirror; Bamboo Anthracite Wood Trim; BMW Apps; Convertible roof lining; Driver door bin; Driver vanity mirror; Front reading lights; Genuine wood console insert; Genuine wood dashboard insert; Genuine wood door panel insert; Illuminated entry; Interior Mirror w/Compass; Leather Shift Knob; Navigation & BMW Assist w/Enhanced BT & USB; Online Information Services; Outside temperature display; Passenger vanity mirror; Power convertible roof; Rear reading lights; Rear seat center armrest; Sport steering wheel; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; Universal Garage-Door Opener; Dakota Leather Upholstery; Front Bucket Seats; Front Center Armrest; Heated Front Seats; Power passenger seat; Sport Seats; Passenger door bin; 17'' Light Alloy Star-Spoke (Style 339) Wheels; 18'' Light Alloy Star-Spoke (Style 193M) Wheels; Alloy wheels; Glass rear window; Rain sensing wipers; Variably intermittent wipers; See less
+Drivetrain: AWD
+Engine: 3.5L V-6 Gas V
+Location: Moyock, NC
+Listed Since: 49 days ago
+VIN: 1FAHP2KT2BG133179
+Stock Number: 133179
+Features: 

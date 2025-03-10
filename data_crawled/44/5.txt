@@ -1,17 +1,17 @@
-Title: 2022 Honda Civic LX Sedan CVT
-Cash Price: $18,995
-Finance Price: $300/moEstimate
-Finance Details: $1,900 due at signing · 72 mo · 7.99% APR
-Exterior: Platinum White Pearl
-Interior: Gray
-Mileage: Garland, TX (970 miles away)
+Title: 2021 BMW 330i xDrive
+Cash Price: $15,911
+Finance Price: $231/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Phytonic Blue Metallic
+Interior: Canberra Beige
+Mileage: 62,907 miles
 Fuel Type: Gas
-MPG: 31 city / 40 highway
+MPG: 25 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 47 days ago
-VIN: 2HGFE2F25NH525057
-Stock Number: 525057
-Features: Apple CarPlay; Android Auto; Cruise Control; Lane Keep Assist; Backup Camera; Bluetooth; Door Handle Color - Body-Color; Front Bumper Color - Body-Color; Grille Color - Black; Mirror Color - Body-Color; Rear Bumper Color - Body-Color; Rear Spoiler Color - Body-Color; Window Trim - Chrome; Rear Spoiler - Decklid; Exhaust - Hidden; Turns Lock-To-Lock - 2.27; Steering Ratio - 11.3; Air Filtration; Dash Trim - Metallic; Floor Mat Material - Carpet; Floor Material - Carpet; Floor Mats - Front; Front Air Conditioning - Automatic Climate Control; Front Air Conditioning Zones - Single; Shift Knob Trim - Urethane; Steering Wheel Trim - Urethane; Floor Mats - Rear; Rear Vents - Second Row; Adaptive Cruise Control; Assist Handle - Front; Assist Handle - Rear; Capless Fuel Filler System; Center Console - Front Console With Armrest And Storage; Cupholders - Front; Multi-Function Remote - Keyless Entry; Multi-Function Remote - Trunk Release; Steering Wheel - Tilt And Telescopic; Steering Wheel Mounted Controls - Audio; Steering Wheel Mounted Controls - Phone; Storage - Door Pockets; Power Outlet(S) - 12v Front; Power Steering - Variable/Speed-Proportional; Vanity Mirrors - Dual; Multi-Function Remote - Panic Alarm; Steering Wheel Mounted Controls - Cruise Control; Ambient Lighting; Cargo Area Light; Push-Button Start; Reading Lights - Front; Steering Wheel Mounted Controls - Multi-Function; One-Touch Windows - 2; Power Windows - Lockout Button; Steering Wheel Mounted Controls - Voice Control; Rearview Mirror - Manual Day/Night; Adaptive Stop And Go Cruise Control - Semi-Automatic; Autonomous Lane Guidance - Lane Centering; Power Outlet(S) - Usb Front; Abs - 4-Wheel; Axle Ratio - 3.94; Braking Assist; Cornering Brake Control; Drive Mode Selector; Electronic Brakeforce Distribution; Electronic Parking Brake - Auto Off; Front Brake Diameter - 11.1; Front Stabilizer Bar - Diameter 27 Mm; Front Suspension Classification - Independent; Power Brakes; Rear Brake Diameter - 10.2; Rear Stabilizer Bar - Diameter 17 Mm; Rear Suspension Classification - Independent; Rear Suspension Type - Multi-Link; Stability Control; Traction Control; Hill Holder Control; Front Shock Type - Gas; Front Spring Type - Coil; Front Suspension Type - Lower Control Arms; Rear Shock Type - Gas; Rear Spring Type - Coil; Front Struts - Macpherson; Front Brake Type - Ventilated Disc; Rear Brake Type - Disc; Battery - Maintenance-Free; Battery Saver; Auto Start/Stop; Antenna Type - Mast; Auxiliary Audio Input - Ipod/Iphone; Auxiliary Audio Input - Usb; Clock; Digital Odometer; External Temperature Display; Fuel Economy Display - Mpg; Fuel Economy Display - Range; Multi-Function Display; Radio - Am/Fm; Radio - Touch Screen Display; Radio Data System; Speed Sensitive Volume Control; Trip Odometer; Warnings And Reminders - Low Battery; Warnings And Reminders - Low Fuel Level; Warnings And Reminders - Low Washer Fluid; Warnings And Reminders - Turn Off Headlights; Watts - 160; Electronic Messaging Assistance - With Read Function; See less
+Drivetrain: AWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Bronx, NY
+Listed Since: 6 days ago
+VIN: WBA5R7C08MFL00711
+Stock Number: 18091
+Features: 18" X 7.5" V Spoke Bi Color Orbit Grey Wheels; Canberra Beige, Sensatec Upholstery; Driving Assistance Package; Premium Package; Heated Front Seats; Heated Steering Wheel; Remote Engine Start; Ambient Lighting; Park Distance Control; Live Cockpit Pro with Navi; See less; Wheel Type; Moonroof; Navigation; Apple CarPlay; Android Auto; See all features; Navigation; Navigation System; Connected Package Pro; Driving Assistance Package; Premium Package; See all features

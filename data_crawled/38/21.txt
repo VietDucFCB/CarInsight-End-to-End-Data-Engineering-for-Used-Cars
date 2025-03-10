@@ -1,17 +1,17 @@
-Title: 2015 Hyundai Sonata Limited 2.0T
-Cash Price: $12,999
-Finance Price: $205/moEstimate
-Finance Details: $1,300 due at signing · 72 mo · 7.99% APR
-Exterior: Symphony Silver
-Interior: Gray
-Mileage: Fresno, CA (2262 miles away)
+Title: 2017 Hyundai Santa Fe Sport Base 2.4L AWD
+Cash Price: $8,499
+Finance Price: $103/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Nightfall Blue
+Interior: Beige
+Mileage: 113,745 miles
 Fuel Type: Gas
-MPG: 21 city / 31 highway
+MPG: 20 city / 26 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 36 days ago
-VIN: 5NPE34AB3FH176816
-Stock Number: 1456
-Features: Gray, Leather Seating Surfaces with Contrast Stitching; Winter Package; Cargo Net; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Front Cooled Seats; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less
+Drivetrain: AWD
+Engine: 2.4L Inline-4 Gas Inline
+Location: Houston, TX
+Listed Since: 152 days ago
+VIN: 5XYZTDLB4HG438139
+Stock Number: 438139
+Features: 

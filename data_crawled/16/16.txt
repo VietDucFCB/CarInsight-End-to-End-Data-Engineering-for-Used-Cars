@@ -1,17 +1,17 @@
-Title: 2017 Chevrolet Bolt EV Premier
-Cash Price: $11,322
-Finance Price: $170/moEstimate
-Finance Details: $1,132 due at signing · 72 mo · 6.24% APR
+Title: 2018 Chevrolet Malibu LT with 1LT
+Cash Price: $10,995
+Finance Price: $146/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
 Exterior: Summit White
-Interior: Dark Galvanized Gray
-Mileage: Puyallup, WA (932 miles away)
-Fuel Type: Electric
-MPG: N/A
+Interior: Jet Black
+Mileage: 101,328 miles
+Fuel Type: Gas
+MPG: 27 city / 36 highway
 Transmission: Automatic Transmission
 Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 104 days ago
-VIN: 1G1FX6S09H4157433
-Stock Number: R9560
-Features: Engine, None; Electric Drive Unit, (200 HP [150 KW] 266 LB FT Of Torque [360 N M]); Premier Preferred Equipment Group; Seats, Front Bucket; Dark Galvanized Gray, Perforated Leather Appointed Seat Trim; Audio System, Chevrolet Mylink Radio; Infotainment Package; Driver Confidence II Package; Black Bowtie Emblems, Front And Rear; Grille, Black; Headlamps, Intellibeam, Automatic High Beam; License Plate Bracket, Front Mounting; Audio System Feature, Bose Premium 7 Speaker System, Including Subwoofer; Audio System Feature, Usb Charging Only Ports (2) For Rear Passengers; Wireless Charging For Devices; Low Speed Forward Automatic Braking; Following Distance Indicator; Forward Collision Alert; Lane Keep Assist; Pedestrian Braking, Front; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; See all features; Driver Confidence II Package; Infotainment Package; Preferred Equipment Group 2LZ; 2 USB Ports & Auxiliary Input Jack; 6 Speakers; See all features
+Engine: 1.5L Inline-4 Gas Inline
+Location: Glendale, AZ
+Listed Since: 24 days ago
+VIN: 1G1ZD5ST7JF250455
+Stock Number: 12975
+Features: Engine, 1.5L Turbo Dohc 4 Cylinder Di; Transmission, 6 Speed Automatic; LT Preferred Equipment Group; Wheels, 17" (43.2 CM) Aluminum; Tires, P225/55R17 All Season, Blackwall; Seats, Front Bucket; Jet Black, Premium Cloth Seat Trim; Audio System, Chevrolet Mylink Radio With 7" Diagonal Color Touch Screen, Am/FM Stereo; License Plate Bracket, Front; See less; Wheel Type; Apple CarPlay; Android Auto; Climate Control; Backup Camera; Bluetooth; Air Conditioning; Power Windows; Power Locks; Power Steering; Tilt Wheel; See all features

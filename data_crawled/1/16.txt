@@ -1,17 +1,17 @@
-Title: 2018 Tesla Model 3 Long Range RWD
-Cash Price: $16,995
-Finance Price: $289/moEstimate
-Finance Details: $1,700 due at signing · 72 mo · 10.69% APR
-Exterior: Blue
+Title: 2018 Ford F-150 Lariat SuperCrew 5.5' Box 4WD
+Cash Price: $19,988
+Finance Price: $301/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Shadow Black
 Interior: Black
-Mileage: Woodinville, WA (970 miles away)
-Fuel Type: Electric
-MPG: N/A
+Mileage: 91,579 miles
+Fuel Type: Gas
+MPG: 19 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 21 days ago
-VIN: 5YJ3E1EA1JF059986
-Stock Number: P059986_RT
-Features: Navigation System; 15 Speakers; Radio data system; Radio: FM w/Premium Audio System; Air Conditioning; Automatic temperature control; Front dual zone A/C; Rear window defroster; Memory seat; Power driver seat; Power steering; Power windows; Remote keyless entry; Steering wheel memory; Steering wheel mounted A/C controls; Steering wheel mounted audio controls; Four wheel independent suspension; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Knee airbag; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Brake assist; Electronic Stability Control; Lane Departure Warning System; Exterior Parking Camera Rear; Auto High-beam Headlights; Delay-off headlights; Front fog lights; Fully automatic headlights; Security system; Speed control; Auto-dimming door mirrors; Bumpers: body-color; Heated door mirrors; Power door mirrors; Auto-dimming Rear-View mirror; Compass; Driver door bin; Driver vanity mirror; Front reading lights; Garage door transmitter: Homelink; Genuine wood dashboard insert; Illuminated entry; Outside temperature display; Passenger vanity mirror; Rear reading lights; Rear seat center armrest; Telescoping steering wheel; Tilt steering wheel; Trip computer; Front Bucket Seats; Front Center Armrest; Heated Front Bucket Seats; Heated front seats; Heated rear seats; Power passenger seat; Split folding rear seat; Synthetic Leather Seat Trim; Passenger door bin; Alloy wheels; Wheels: 18'' Aero; Variably intermittent wipers; See less
+Drivetrain: 4WD
+Engine: 2.7L V-6 Gas V
+Location: Valley Stream, NY
+Listed Since: 97 days ago
+VIN: 1FTEW1EP8JKC90185
+Stock Number: M16483
+Features: Tires: P275/55R20 Owl A/T; 3.55 Axle Ratio; Front License Plate Bracket; Trailer Tow Package; Tailgate Step with Tailgate Lift Assist; 20" Chrome Like PVD Wheels; Extended Range 36 Gallon Fuel Tank; Integrated Trailer Brake Controller; Technology Package; Lariat Chrome Appearance Package; Equipment Group 502A Luxury; See less; Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; See all features; Equipment Group 502A Luxury; GVWR: 6; 600 lbs Payload Package; Lariat Chrome Appearance Package; Technology Package; See all features

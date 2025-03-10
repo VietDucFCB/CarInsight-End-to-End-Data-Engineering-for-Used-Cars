@@ -1,17 +1,17 @@
-Title: 2023 Dodge Charger Scat Pack RWD
-Cash Price: $35,898
-Finance Price: $669/moEstimate
-Finance Details: $3,590 due at signing · 72 mo · 14.22% APR
-Exterior: B5 Blue Pearlcoat
+Title: 2022 Tesla Model 3 Long Range AWD
+Cash Price: $20,999
+Finance Price: $319/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Pearl White Multi-Coat
 Interior: Black
-Mileage: Lexington, KY (1912 miles away)
-Fuel Type: Gas
-MPG: 15 city / 24 highway
+Mileage: 31,673 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: RWD
-Engine: 6.4L V-8 Gas V
-Location: N/A
-Listed Since: Listed 53 days ago
-VIN: 2C3CDXGJXPH567061
-Stock Number: 11345
-Features: Engine: 6.4L V8 SRT Hemi MDS; Transmission: 8 Speed Automatic (8HP70); Quick Order Package 21W Scat Pack; 20" X 9.5" Low Gloss Black Knurled Wheels; Navigation & Travel Group; Plus Group; Technology Group; Carbon/Suede Interior Package; Adaptive Damping Suspension; Radio: Uconnect 4C Nav with 8.4" Display; See less; Wheel Type; Premium Audio; Navigation; Apple CarPlay; Android Auto; See all features; Navigation Aid; Front Cooled Seat; Super Sport; Power Brakes; Second Row Heated Seat; See all features
+Drivetrain: AWD
+Engine: N/A
+Location: Newport Beach, CA
+Listed Since: 34 days ago
+VIN: 5YJ3E1EB7NF124032
+Stock Number: 124032
+Features: Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Power Door Locks; Hill Start Assist; Dual Power Seats; Single-Speed Fixed Gear; Premium Connectivity; See all features

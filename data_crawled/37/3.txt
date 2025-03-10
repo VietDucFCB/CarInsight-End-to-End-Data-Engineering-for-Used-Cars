@@ -1,17 +1,17 @@
-Title: 2014 Jeep Cherokee Limited 4WD
-Cash Price: $8,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Bright White Clearcoat
+Title: 2021 Kia Forte GT-Line IVT
+Cash Price: $16,053
+Finance Price: $234/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Snow White Pearl
 Interior: Black
-Mileage: Norfolk, VA (353 miles away)
+Mileage: 12,086 miles
 Fuel Type: Gas
-MPG: 21 city / 28 highway
+MPG: 29 city / 40 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.2L V-6 Gas V
-Location: N/A
-Listed Since: Listed 153 days ago
-VIN: 1C4PJMDS0EW269294
-Stock Number: 14J1632
-Features: Normal Duty Suspension; Engine: 3.2L V6 24V VVT; Transmission: 9 Speed 948te Automatic; Quick Order Package 26G; 3.25 Axle Ratio; 18" X 7" Polished Aluminum Wheels; Black, Premium Leather Trimmed Bucket Seats; Luxury Group; Radio: Uconnect 8.4an Am/FM/BT/Access/Nav; 9 Amplified Speakers with Subwoofer; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; See all features; Body Side Moldings - Body-Color; Door Handle Color - Body-Color; Exhaust Tip Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Black With Chrome Accents; See all features
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Lubbock, TX
+Listed Since: 16 days ago
+VIN: 3KPF34ADXME380004
+Stock Number: ME380004
+Features: Wheel Type; Apple CarPlay; Android Auto; Seat Material; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Driver Air Bag; Passenger Air Bag; Front Side Air Bag; Front Head Air Bag; Rear Head Air Bag; See all features

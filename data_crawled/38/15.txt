@@ -1,17 +1,17 @@
-Title: 2019 Jeep Cherokee Limited 4WD
-Cash Price: $9,750
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Velvet Red Pearlcoat
-Interior: Black
-Mileage: Downers Grove, IL (765 miles away)
+Title: 2017 Hyundai Elantra Limited 2.0L Sedan Automatic (alt)
+Cash Price: $10,873
+Finance Price: $144/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Phantom Black
+Interior: Gray
+Mileage: 84,265 miles
 Fuel Type: Gas
-MPG: 19 city / 27 highway
+MPG: 28 city / 37 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.2L V-6 Gas V
-Location: N/A
-Listed Since: Listed 153 days ago
-VIN: 1C4PJMDXXKD363976
-Stock Number: A10407T
-Features: Normal Duty Suspension; Engine: 3.2L V6 24V VVT with Ess; Transmission: 9 Speed 948te Automatic; Quick Order Package 26G; 3.251 Axle Ratio; 18" X 7" Polished/Painted Aluminum Wheels; Tires: 225/60R18 BSW Touring; Black, Premium Leather Trimmed Bucket Seats; Luxury Group; Technology Group; Power Front/Fixed Rear Full Sunroof; Radio: Uconnect 4C Nav with 8.4" Display; 9 Amplified Speakers with Subwoofer; Glove Box with Damped Door; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Exhaust - Dual Tip; Exhaust - Integrated; Headlight Bezel Color - Black; Rear Spoiler - Roofline; Rear Trunk/Liftgate - Liftgate; See all features
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Houston, TX
+Listed Since: 2 days ago
+VIN: 5NPD84LF2HH031377
+Stock Number: 501713
+Features: Gray, Leather Seating Surfaces; Wheel Locks; Rear Bumper Applique; Carpeted Floor Mats; Cargo Net; Wheel Type; Navigation; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Climate Control; Blind Spot System; Backup Camera; Bluetooth; See less; SiriusXM Satellite; ABS (4-Wheel); Bluetooth Wireless; Blue Link Telematics; F&R Head Curtain Air Bags; See all features

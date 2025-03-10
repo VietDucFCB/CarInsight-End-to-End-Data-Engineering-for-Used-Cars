@@ -1,17 +1,17 @@
-Title: 2024 Ford E-Series Cutaway E-350 SRW 138" WB
-Cash Price: $35,000
-Finance Price: $653/moEstimate
-Finance Details: $3,500 due at signing · 72 mo · 14.22% APR
-Exterior: White
-Interior: Gray
-Mileage: Brea, CA (2180 miles away)
+Title: 2011 Ford Econoline Cargo Van E-250 Commercial
+Cash Price: $13,495
+Finance Price: Not Available
+Finance Details: Not Available
+Exterior: Oxford White
+Interior: Medium Flint
+Mileage: 69,264 miles
 Fuel Type: Gas
-MPG: N/A
+MPG: 13 city / 17 highway
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 7.3L V-8 Gas V
-Location: N/A
-Listed Since: Listed 11 days ago
-VIN: 1FDWE3FN2RDD26741
-Stock Number: FORDECON
-Features: 
+Engine: 5.4L V-8 Gas V
+Location: Norco, CA
+Listed Since: 12 days ago
+VIN: 1FTNE2ELXBDA44489
+Stock Number: 6932
+Features: Front air conditioning; Front air conditioning zones: single; Front airbags: dual; Antenna type: mast; Radio: AM/FM; Total speakers: 2; ABS: 4-wheel; Electronic brakeforce distribution; Front brake diameter: 13.0; Front brake type: ventilated disc; Rear brake diameter: 12.9; Rear brake type: ventilated disc; Armrests: front center; Floor material: rubber/vinyl; Ashtray; Cargo area light; Center console: front console with storage; Cupholders: front; Power outlet(s): 12V front; Power steering; Steering wheel: tilt; Storage: door pockets; Rear door type: barn; Side door type: passenger-side hinged swing-out; Axle ratio: 3.73; Alternator: 120 amps; Battery: maintenance-free; Door handle color: black; Front bumper color: black; Mirror color: black; Rear bumper color: black; Gauge: tachometer; Warnings and reminders: low fuel level / tire fill alert; Side mirror adjustments: manual / manual telescoping; OEM roof height: undefined; Driver seat manual adjustments; Front seat type: bucket; Passenger seat manual adjustments; Upholstery: vinyl; Roll stability control; Stability control; Traction control; Front shock type: gas; Front spring type: coil; Front stabilizer bar; Front suspension classification: independent; Front suspension type: twin I-beam; Rear shock type: gas; Rear spring type: leaf; Rear suspension classification: solid live axle; Rear suspension type: multi-leaf; Spare tire mount location: underbody; Spare tire size: full-size matching; Spare wheel type: steel; Tire Pressure Monitoring System; Tire type: all season; Wheel covers: full; Wheels: steel; Auxiliary transmission fluid cooler; Front wipers: intermittent; Tinted glass; See less

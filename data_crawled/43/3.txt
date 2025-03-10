@@ -1,17 +1,17 @@
-Title: 2024 Hyundai Tucson Hybrid Limited AWD
-Cash Price: $22,998
-Finance Price: $340/moEstimate
-Finance Details: $2,300 due at signing · 72 mo · 5.74% APR
-Exterior: Shimmering Silver
+Title: 2019 Ford Edge Titanium FWD
+Cash Price: $14,500
+Finance Price: $207/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Ingot Silver Metallic
 Interior: Black
-Mileage: Greenacres, FL (426 miles away)
-Fuel Type: Hybrid
-MPG: 37 city / 36 highway
+Mileage: 75,467 miles
+Fuel Type: Gas
+MPG: 22 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 23 days ago
-VIN: KM8JECD19RU154931
-Stock Number: RU154931
-Features: Option Group 01; Rear Bumper Applique; Front And Rear Mudguards; Carpeted Floor Mats; Cargo Tray; Roof Rack Cross Rails; First Aid Kit; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Panoramic Roof; Leather Seats; Navigation System; Lane Keeping Assist; Keyless Start; See all features
+Drivetrain: FWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Stuart, FL
+Listed Since: 23 days ago
+VIN: 2FMPK3K98KBB56421
+Stock Number: C24-107
+Features: Wheel Type; Power Trunk/Liftgate; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Dual Power Seats; F&R Head Curtain Air Bags; Reverse Sensing System; Knee Air Bags; Heated Seats; See all features

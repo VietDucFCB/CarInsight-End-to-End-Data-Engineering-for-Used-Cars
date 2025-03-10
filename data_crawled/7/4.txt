@@ -1,17 +1,17 @@
-Title: 2021 Ford Expedition XLT RWD
-Cash Price: $23,000
-Finance Price: $429/moEstimate
-Finance Details: $2,300 due at signing · 72 mo · 14.22% APR
-Exterior: Agate Black Metallic
-Interior: Unknown
-Mileage: Tampa, FL (2168 miles away)
+Title: 2016 Honda Accord EX-L V6 Sedan Automatic
+Cash Price: $12,990
+Finance Price: $181/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Crystal Black Pearl
+Interior: Ivory
+Mileage: 100,897 miles
 Fuel Type: Gas
-MPG: 17 city / 23 highway
+MPG: 21 city / 34 highway
 Transmission: Automatic Transmission
-Drivetrain: RWD
+Drivetrain: FWD
 Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 192 days ago
-VIN: 1FMJU1HT9MEA77273
-Stock Number: T2691
-Features: Wheel Type; Apple CarPlay; Android Auto; Third Row Seating; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; Tow Hitch; See less; Engine:; 3.5L; Ecoboost; V6
+Location: Austin, TX
+Listed Since: 85 days ago
+VIN: 1HGCR3F82GA020936
+Stock Number: 450568x79
+Features: Wheel Type; Moonroof; Premium Audio; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Backup Camera; Bluetooth; See less; Crystal Black Pearl; Ivory; Leather-Trimmed Seats

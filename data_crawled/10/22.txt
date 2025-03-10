@@ -1,17 +1,17 @@
-Title: 2019 Dodge Grand Caravan SXT
-Cash Price: $9,995
-Finance Price: $186/moEstimate
-Finance Details: $1,000 due at signing · 72 mo · 14.22% APR
-Exterior: Granite Pearlcoat
+Title: 2023 Jeep Wrangler Unlimited Rubicon 4xe
+Cash Price: $35,994
+Finance Price: $577/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black Clearcoat
 Interior: Black
-Mileage: Largo, FL (2150 miles away)
-Fuel Type: Gas
-MPG: 17 city / 25 highway
+Mileage: 22,366 miles
+Fuel Type: Plug-In Hybrid
+MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 17 days ago
-VIN: 2C4RDGCG9KR758778
-Stock Number: 4282
-Features: Engine: 3.6L V6 24V VVT (FFV); Transmission: 6 Speed Automatic 62te; Quick Order Package 29P; 17" X 6.5" Aluminum Wheels; Black/Light Graystone, Premium Seats with Suede Inserts; 2ND Row Stow 'N Go Bucket Seats; Sirius Satellite Radio; See less; Wheel Type; Power Trunk/Liftgate; Seat Material; Front Heated Seats; Third Row Seating; See all features; Backup Camera; Leather Trimmed Seats; Remote Start; Dual A/C Zones; Front Fog Lights; See all features
+Drivetrain: 4WD
+Engine: N/A
+Location: Frisco, TX
+Listed Since: 107 days ago
+VIN: 1C4JJXR62PW537414
+Stock Number: PW537414
+Features: Engine: 2.0L I4 Dohc Di Turbo Phev; Transmission: 8 Speed Auto 8P75PH Phev; Quick Order Package 29V Rubicon; Tires: LT285/70R17C BSW Off Road; Cold Weather Group; Trailer Tow & Aux Switch Group; SKY 1 Touch Power Top; Body Color Rubicon Highline Flare; Front License Plate Bracket; Integrated Off Road Camera; See less; Wheel Type; Moonroof; Premium Audio; Navigation; Seat Material; See all features; Leather Seats; Navigation System; Integrated Off-Road Camera; Front License Plate Bracket; Body Color Rubicon Highline Flare; See all features

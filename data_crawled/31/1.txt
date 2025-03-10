@@ -1,17 +1,17 @@
-Title: 2014 Porsche Cayenne Turbo S AWD
-Cash Price: $24,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: White
+Title: 2017 Tesla Model S P100D AWD
+Cash Price: $26,955
+Finance Price: 
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Deep Blue Metallic
 Interior: Black
-Mileage: Fort Worth, TX (1003 miles away)
-Fuel Type: Gas
-MPG: 14 city / 20 highway
+Mileage: 80,906 miles
+Fuel Type: Electric
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: AWD
-Engine: 4.8L V-8 Gas V
-Location: N/A
-Listed Since: Listed 37 days ago
-VIN: WP1AC2A28ELA85729
-Stock Number: A-752
-Features: Ceramic Brakes; Cruise Control; F&R Head Curtain Air Bags; Air Conditioning Rear; Daytime Running Lights; Fog Lights; Alarm System; Traction Control; Bose Surround Sound; Auto 8-Spd Tiptronic; Stability Control; Side Air Bags; Dual Power Seats; Full Leather; Power Steering; Oversized Premium Wheels 20+; Navigation System; Power Windows; Bluetooth Wireless; Keyless Start; Communication Management; Sport Chrono Pkg; Dual Air Bags; AWD; Moon Roof; CD/MP3 (Single Disc); ABS (4-Wheel); Power Tailgate Release; SiriusXM Satellite; Power Door Locks; V8 Twin Turbo 4.8L; Keyless Entry; AM/FM Stereo; Hill Holder; Air Conditioning; Bi-HID Headlamps; See less
+Engine: N/A
+Location: Mountain View, CA
+Listed Since: 43 days ago
+VIN: 5YJSA1E49HF186657
+Stock Number: HF186657
+Features: Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Front Heated Seats; Remote Engine Start; Climate Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Panoramic Roof; Leather Seats; Navigation System; Keyless Start; Rear Spoiler; See all features

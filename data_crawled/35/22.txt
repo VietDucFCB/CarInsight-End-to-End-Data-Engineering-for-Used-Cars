@@ -1,17 +1,17 @@
-Title: 2019 Ford F-150 XLT SuperCrew 6.5' Box 4WD
-Cash Price: $20,000
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Oxford White
-Interior: Medium Earth Gray
-Mileage: Albert Lea, MN (1046 miles away)
+Title: 2018 Mercedes-Benz C 300 Sedan RWD
+Cash Price: $13,542
+Finance Price: $190/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Polar White
+Interior: Silk Beige/Black
+Mileage: 117,586 miles
 Fuel Type: Gas
-MPG: 16 city / 22 highway
+MPG: 24 city / 33 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 69 days ago
-VIN: 1FTFW1E46KFC56895
-Stock Number: 10262
-Features: Engine: 3.5L V6 Ecoboost; Electronic Locking with 3.31 Axle Ratio; Engine Block Heater; Tray Style Floor Liner; Trailer Tow Package; Extended Range 36 Gallon Fuel Tank; XLT Power Equipment Group; Reverse Sensing System; LED Box Lighting; Medium Light Camel, Cloth 40/Console/40 Front Seats; Tough Bed Spray In Bedliner; Equipment Group 302A Luxury; See less; Wheel Type; Apple CarPlay; Android Auto; Front Heated Seats; Remote Engine Start; See all features; Equipment Group 302A Luxury; GVWR: 7; 050 lbs Payload Package; Trailer Tow Package; XLT Chrome Appearance Package; See all features
+Drivetrain: RWD
+Engine: 2.0L Inline-4 Gas Inline
+Location: Dallas, TX
+Listed Since: 20 days ago
+VIN: 55SWF4JB1JU248064
+Stock Number: TJU24806
+Features: Wheel Type; Moonroof; Seat Material; Remote Engine Start; Climate Control; Backup Camera; Bluetooth; See less; Premium Package; Smartphone Integration Package; 5 Speakers; AM/FM radio; CD player; See all features

@@ -1,17 +1,17 @@
-Title: 2013 Jeep Grand Cherokee Overland 4WD
-Cash Price: $9,977
+Title: 2007 Lexus LS 460
+Cash Price: $8,715
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Bright White
-Interior: Black/New Saddle
-Mileage: Fort Lauderdale, FL (2342 miles away)
+Exterior: Mercury Metallic
+Interior: Light Gray
+Mileage: 153,122 miles
 Fuel Type: Gas
-MPG: 16 city / 23 highway
+MPG: 19 city / 27 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 5.7L V-8 Gas V
-Location: N/A
-Listed Since: Listed 14 days ago
-VIN: 1C4RJFCT6DC532256
-Stock Number: null
-Features: 5.7L VVT V8 Hemi MDS Engine; 6 Speed Automatic Transmission; 24P Overland Customer Preferred Order Selection PKG; 3.45 Axle Ratio; 20" X 8" Aluminum Painted Wheels; P265/50R20 All Season BSW Tires; Black/New Saddle, Leather Trimmed Bucket Seats with Edge Welting; Mopar Chrome Edition Group; Quadra Drive II 4WD System; New Saddle/Black Interior; Advance Technology Group; See less; Wheel Type; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; See all features; Body Side Moldings - Body-Color; Door Handle Color - Chrome; Front Bumper Color - Body-Color; Grille Color - Black; Mirror Color - Chrome; See all features
+Drivetrain: RWD
+Engine: 4.6L V-8 Gas V
+Location: Sacramento, CA
+Listed Since: 12 days ago
+VIN: JTHBL46F475038667
+Stock Number: B341
+Features: Wheel Type; Moonroof; Premium Audio; Seat Material; Front Heated Seats; Climate Control; Air filtration: active charcoal; Front air conditioning: automatic climate control; Front air conditioning zones: dual; Rear vents: second row; Airbag deactivation: occupant sensing passenger; Front airbags: dual; Knee airbags: dual front; Side airbags: front; Side curtain airbags: front / rear; Antenna type: diversity; In-Dash CD: 6 disc; Radio: AM/FM; Speed sensitive volume control; Total speakers: 10; ABS: 4-wheel; Braking assist; Electronic brakeforce distribution; Front brake diameter: 13.1; Front brake type: ventilated disc; Rear brake diameter: 12.4; Rear brake type: ventilated disc; Armrests: rear center folding with storage and pass-thru; Center console trim: wood; Dash trim: wood; Door trim: leather / wood; Floor mat material: carpet; Floor mats: front / rear; Shift knob trim: leather / wood; Steering wheel trim: leather / wood; Cargo area light; Center console: front console with storage; Cruise control; Cupholders: front / rear; Memorized settings: 3 driver / driver seat / side mirrors / steering wheel; Multi-function remote: proximity entry system / trunk release; One-touch windows: 4; Power outlet(s): 12V front / 12V rear; Power steering; Push-button start; Reading lights: front / rear; Rearview mirror: auto-dimming; Steering wheel: tilt and telescopic; Steering wheel mounted controls: audio; Storage: door pockets / front seatback / grocery bag holder; Universal remote transmitter; Vanity mirrors: dual illuminating / dual rear illuminating; Rear trunk/liftgate: power operated; Clock; Compass; External temperature display; Gauge: tachometer; Trip odometer; Warnings and reminders: low fuel level; Daytime running lights; Exterior entry lights: approach lamps; Front fog lights; Headlights: HID/Xenon / auto delay off / auto on/off / cornering / self-leveling; Side mirror adjustments: power / power folding / reverse gear tilt; Side mirrors: driver side only heated / heated; Moonroof / Sunroof: one-touch open/close / power glass; Child safety door locks; Child seat anchors; Emergency interior trunk release; First aid kit; Rear seatbelts: center 3-point; Seatbelt force limiters: front; Seatbelt pretensioners: front; Driver seat: heated; Driver seat power adjustments: height / lumbar / reclining / 12; Front headrests: adjustable / 2; Front seat type: bucket; Passenger seat: heated; Passenger seat power adjustments: height / lumbar / reclining / 12; Rear headrests: adjustable / 3; Rear seat type: bench; Upholstery: leather; Anti-theft system: alarm / vehicle immobilizer; Power door locks; Hill holder control; Stability control; Traction control; Front shock type: gas; Front spring type: coil; Front stabilizer bar; Front suspension classification: independent; Front suspension type: double ball joint; Rear shock type: gas; Rear spring type: coil; Rear stabilizer bar; Rear suspension classification: independent; Rear suspension type: multi-link; Phone antenna; Spare tire mount location: inside; Spare tire size: full-size matching; Spare wheel type: aluminum alloy; Tire Pressure Monitoring System; Tire type: all season; Front wipers: intermittent / rain sensing; Power windows: remotely operated; Window defogger: rear; See less

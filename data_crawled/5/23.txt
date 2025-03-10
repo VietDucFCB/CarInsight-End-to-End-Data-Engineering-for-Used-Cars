@@ -1,17 +1,17 @@
-Title: 2013 Nissan Altima 2.5 SL Sedan (alt)
-Cash Price: $6,995
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Super Black
-Interior: Charcoal
-Mileage: Houston, TX (1382 miles away)
+Title: 2022 Ford Explorer ST 4WD
+Cash Price: $39,272
+Finance Price: $634/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Star White Metallic Tri-Coat
+Interior: Ebony
+Mileage: 18,435 miles
 Fuel Type: Gas
-MPG: 27 city / 38 highway
+MPG: 18 city / 24 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 64 days ago
-VIN: 1N4AL3AP2DN439319
-Stock Number: 439319
-Features: Charcoal, Leather Seat Trim; Splash Guards; Carpeted Front/Rear Floor Mats & Trunk Mat; External Ground Lighting; Wheel Type; Premium Audio; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Backup Camera; Bluetooth; See less
+Drivetrain: 4WD
+Engine: 3.0L V-6 Gas V
+Location: Skokie, IL
+Listed Since: 47 days ago
+VIN: 1FM5K8GC5NGB74459
+Stock Number: Z1087
+Features: ST High Performance Pack; Black Roof Rack Side Rails; Twin Panel Moonroof; Premium Technology Package; Dual Headrest Rear Seat Entertainment System; Black Roof Rack Side Rails; Equipment Group 401A; See less; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; See all features; Equipment Group 401A; Ford Co-Pilot360 Assist+; ST High Package; ST Street Pack; Technology Package; See all features

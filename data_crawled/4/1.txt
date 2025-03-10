@@ -1,17 +1,17 @@
-Title: 2016 Jeep Wrangler Sport
-Cash Price: $11,450
-Finance Price: $173/moEstimate
-Finance Details: $1,145 due at signing · 72 mo · 6.49% APR
-Exterior: Bright White Clearcoat
+Title: 2024 Subaru Crosstrek Wilderness AWD
+Cash Price: $22,991
+Finance Price: $353/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Magnetite Gray Metallic
 Interior: Black
-Mileage: Grove City, OH (1986 miles away)
+Mileage: 6,278 miles
 Fuel Type: Gas
-MPG: 17 city / 21 highway
+MPG: 25 city / 29 highway
 Transmission: Automatic Transmission
-Drivetrain: 4WD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 120 days ago
-VIN: 1C4AJWAG1GL219705
-Stock Number: 60091
-Features: Engine: 3.6L V6 24V VVT; Transmission: 5 Speed Automatic (W5a580); Quick Order Package 24B; 3.21 Rear Axle Ratio; 16" X 7.0" Styled Steel Wheels; Tires: P245/75R16 As Owl; Black, Cloth Seats with Adjustable Head Restraints; Black 3 Piece Hard Top; Deep Tint Sunscreen Windows; Sirius Satellite Radio; Air Conditioning; See less; Quick Order Package 24B; Sunrider Soft Top; 8 Speakers; AM/FM radio; Audio Jack Input for Mobile Devices; See all features
+Drivetrain: AWD
+Engine: 2.5L Flat-4 Gas Flat
+Location: Portland, OR
+Listed Since: 12 days ago
+VIN: 4S4GUHT64R3757203
+Stock Number: 757203
+Features: Standard Model; Crosstrek Mirror Package; Rear Bumper Cover Wilderness; Rear Seatback Protector; Wheel Type; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Bluetooth; See less; Air filtration; Front air conditioning: automatic climate control; Front air conditioning zones: dual; Airbag deactivation: occupant sensing passenger; Front airbags: dual; See all features

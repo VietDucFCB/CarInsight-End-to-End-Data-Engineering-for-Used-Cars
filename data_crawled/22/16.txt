@@ -1,17 +1,17 @@
-Title: 2022 Kia Rio S Sedan IVT
-Cash Price: $9,995
-Finance Price: $186/moEstimate
-Finance Details: $1,000 due at signing · 72 mo · 14.22% APR
-Exterior: Silky Silver
+Title: 2018 Jeep Wrangler Unlimited Sport S (JL)
+Cash Price: $16,652
+Finance Price: $244/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Black Clearcoat
 Interior: Black
-Mileage: Naugatuck, CT (2507 miles away)
+Mileage: 111,497 miles
 Fuel Type: Gas
-MPG: 33 city / 41 highway
+MPG: 17 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
-Engine: N/A
-Location: N/A
-Listed Since: Listed 0 days ago
-VIN: 3KPA24AD2NE435916
-Stock Number: 435916N
-Features: 
+Drivetrain: 4WD
+Engine: 2.0L V-4 Gas V
+Location: Fort Myers, FL
+Listed Since: 54 days ago
+VIN: 1C4HJXDN2JW286950
+Stock Number: CT403
+Features: Engine: 2.0L I4 Dohc Di Turbo Etorque; Transmission: 8 Speed Automatic (850re); Quick Order Package 28S Sport S; 17" X 7.5" Tech Silver Aluminum Wheels; Tires: 245/75R17 All Season (TQK); Black, Cloth Low Back Bucket Seats; GVWR: 5,400 LBS; Convenience Group; Technology Group; Trailer Tow & HD Electrical Group; 21.5 Gallon Fuel Tank; Black 3 Piece Hard Top; Radio: Uconnect 4 with 7" Display; SiriusXM Satellite Radio; See less; Wheel Type; Apple CarPlay; Android Auto; Climate Control; Backup Camera; See all features; 4 Cylinder Engine; ABS; 4-Wheel Disc Brakes; A/C; Adjustable Steering Wheel; See all features

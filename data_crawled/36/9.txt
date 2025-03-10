@@ -1,17 +1,17 @@
-Title: 2021 Chevrolet Bolt EV Premier
-Cash Price: $12,498
-Finance Price: $233/moEstimate
-Finance Details: $1,250 due at signing · 72 mo · 14.22% APR
-Exterior: Cajun Red Tintcoat
-Interior: Dark Galvanized Gray
-Mileage: Palmetto Bay, FL (496 miles away)
+Title: 2022 Tesla Model 3 Standard Range Plus RWD
+Cash Price: $14,300
+Finance Price: $203/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Red Multi-Coat
+Interior: Black
+Mileage: 102,747 miles
 Fuel Type: Electric
 MPG: N/A
 Transmission: Automatic Transmission
-Drivetrain: FWD
+Drivetrain: RWD
 Engine: N/A
-Location: N/A
-Listed Since: Listed 5 days ago
-VIN: 1G1FZ6S06M4108288
-Stock Number: JZ191845A
-Features: Engine, None; Electric Drive Unit, (200 HP [150 KW] 266 LB FT Of Torque [360 N M]); Premier Preferred Equipment Group; Seats, Front Bucket; Audio System, Chevrolet Infotainment System; Wheel Type; Power Trunk/Liftgate; Apple CarPlay; Android Auto; Seat Material; Front Heated Seats; Remote Engine Start; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; ELECTRIC DRIVE UNIT  (200 HP [150 KW] 266 LB-FT OF TORQUE [360 N-M])  (STD); PREMIER PREFERRED EQUIPMENT GROUP  includes Standard Equipment; DARK GALVANIZED GRAY  PERFORATED LEATHER-APPOINTED SEAT TRIM; ENGINE  NONE  (STD); SEATS  FRONT BUCKET  (STD); See all features
+Location: Laurel, MD
+Listed Since: 12 days ago
+VIN: 5YJ3E1EA0NF287886
+Stock Number: 23858
+Features: Wheel Type; Moonroof; Navigation; Seat Material; Front Heated Seats; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Lane Keep Assist; Backup Camera; Parking Sensors; Bluetooth; See less; Air filtration; Front air conditioning: automatic climate control; Front air conditioning zones: dual; Rear vents: second row; Airbag deactivation: occupant sensing passenger; See all features

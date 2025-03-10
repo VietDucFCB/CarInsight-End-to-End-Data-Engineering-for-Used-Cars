@@ -1,17 +1,17 @@
-Title: 2018 Jeep Grand Cherokee Limited RWD
-Cash Price: $15,680
-Finance Price: $232/moEstimate
-Finance Details: $1,568 due at signing · 72 mo · 5.74% APR
-Exterior: Diamond Black Crystal Pearlcoat
+Title: 2019 Mercedes-Benz Sprinter Cargo Van 3500 High Roof 170" RWD
+Cash Price: $31,990
+Finance Price: $508/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Blue Gray
 Interior: Black
-Mileage: Memphis, TN (1630 miles away)
-Fuel Type: Gas
-MPG: 19 city / 26 highway
+Mileage: 42,120 miles
+Fuel Type: Diesel
+MPG: N/A
 Transmission: Automatic Transmission
 Drivetrain: RWD
-Engine: 3.6L V-6 Gas V
-Location: N/A
-Listed Since: Listed 2 days ago
-VIN: 1C4RJEBG3JC480109
-Stock Number: JC480109
-Features: Eco Suspension I; Engine: 3.6L V6 24V VVT Upg I with Ess; Transmission: 8 Speed Automatic (850re); Quick Order Package 2BH; 3.27 Rear Axle Ratio; 18" X 8.0" Tech Gray Aluminum Wheels; Tires: P265/60R18 BSW As LRR; Black, Leather Trimmed Bucket Seats; Radio: Uconnect 4C Nav with 8.4" Display; See less; Wheel Type; Power Trunk/Liftgate; Navigation; Apple CarPlay; Android Auto; See all features; Leather Seats; Navigation System; Radio: Uconnect 4C Nav W/8.4" Display -Inc: SiriusXM Traffic Plus; HD Radio; For Details Visit Driveuconnect.Com; See all features
+Engine: N/A
+Location: Fort Lauderdale,, FL
+Listed Since: 10 days ago
+VIN: WD4PF1CD7KP151175
+Stock Number: 12879B
+Features: 12V 95 Ah 850A Agm Battery; Active Assist; Backup Alarm; Black; Fabric Maturin Upholstery; Blind Spot Assist; Diesel Misfuelling Prevention; Electrically Folding Exterior Mirrors; Floor Covering; Plastic; Multifunction Steering Wheel; Parametric Special Module (Psm); Rear Doors; Opening To Side Wall; Upgraded Starter; See less

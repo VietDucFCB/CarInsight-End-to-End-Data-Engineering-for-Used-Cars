@@ -1,17 +1,17 @@
-Title: 2011 Mercedes-Benz E 350 4MATIC Luxury Sedan
-Cash Price: $8,440
-Finance Price: Not Available
-Finance Details: Not Available
-Exterior: Black
+Title: 2015 Kia Soul Base Automatic
+Cash Price: $7,436
+Finance Price: $85/moEstimate
+Finance Details: $2,500 due at signing · 72 mo · 7.39% APR
+Exterior: Titanium Gray
 Interior: Black
-Mileage: Sykesville, MD (487 miles away)
+Mileage: 97,772 miles
 Fuel Type: Gas
-MPG: 17 city / 24 highway
+MPG: 24 city / 30 highway
 Transmission: Automatic Transmission
-Drivetrain: AWD
-Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 230 days ago
-VIN: WDDHF8HB8BA333796
-Stock Number: 200989
-Features: Bluetooth Wireless; Sirius Satellite; Power Windows; Knee Air Bags; Dual Power Seats; ABS (4-Wheel); Premium Pkg 1; Electronic Stability Control; Power Steering; Power Door Locks; Alloy Wheels; mbrace; Heated Seats; Daytime Running Lights; Leather; Backup Camera; harman/kardon Premium Sound; Alarm System; F&R Head Curtain Air Bags; F&R Side Air Bags; Air Conditioning; Auto 7-Spd Touch Shift; AM/FM Stereo; Cruise Control; CD/MP3 (Multi Disc); Fog Lights; Tilt & Telescoping Wheel; V6 3.5 Liter; 4MATIC AWD; Navigation System; Keyless Entry; Dual Air Bags; Traction Control; Moon Roof; AMG Sport Pkg; See less
+Drivetrain: FWD
+Engine: 1.6L Inline-4 Gas Inline
+Location: Plano, TX
+Listed Since: 44 days ago
+VIN: KNDJN2A20F7205240
+Stock Number: 205240
+Features: Black, Cloth Seat Trim; Carpeted Floor Mats; Wheel Type; Bluetooth; 6 Speakers; AM/FM radio: SiriusXM; Radio: AM/FM/MP3 Audio System; Air Conditioning; Rear window defroster; Power steering; Power windows; Remote keyless entry; Steering wheel mounted audio controls; Speed-sensing steering; Traction control; 4-Wheel Disc Brakes; ABS brakes; Dual front impact airbags; Dual front side impact airbags; Front anti-roll bar; Front wheel independent suspension; Low tire pressure warning; Occupant sensing airbag; Overhead airbag; Brake assist; Electronic Stability Control; Panic alarm; Speed control; Bumpers: body-color; Power door mirrors; Carpeted Floor Mats; Cloth Seat Trim; Driver door bin; Driver vanity mirror; Front reading lights; Illuminated entry; Outside temperature display; Overhead console; Passenger vanity mirror; Tachometer; Telescoping steering wheel; Tilt steering wheel; Trip computer; 6-Way Adjustable Driver's Seat; Front Bucket Seats; Front Center Armrest; Split folding rear seat; Passenger door bin; 16'' Alloy Wheels; Alloy wheels; Rear window wiper; Variably intermittent wipers; See less

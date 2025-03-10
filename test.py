@@ -1,5 +1,6 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, when, lit, sum as _sum, regexp_extract
+from pyspark.sql.types import StructType, StructField, StringType
+from pyspark.sql.functions import col, when, lit, sum as _sum
 
 # 1. Khởi tạo Spark Session
 spark = SparkSession.builder \
@@ -10,98 +11,89 @@ spark = SparkSession.builder \
     .enableHiveSupport() \
     .getOrCreate()
 
-# 2. EXTRACT
+# 2. Định nghĩa schema (khớp với sample JSON bạn cung cấp)
+schema = StructType([
+    StructField("Title", StringType(), nullable=True),
+    StructField("Cash Price", StringType(), nullable=True),
+    StructField("Finance Price", StringType(), nullable=True),
+    StructField("Finance Details", StringType(), nullable=True),
+    StructField("Exterior", StringType(), nullable=True),
+    StructField("Interior", StringType(), nullable=True),
+    StructField("Mileage", StringType(), nullable=True),
+    StructField("Fuel Type", StringType(), nullable=True),
+    StructField("MPG", StringType(), nullable=True),
+    StructField("Transmission", StringType(), nullable=True),
+    StructField("Drivetrain", StringType(), nullable=True),
+    StructField("Engine", StringType(), nullable=True),
+    StructField("Location", StringType(), nullable=True),
+    StructField("Listed Since", StringType(), nullable=True),
+    StructField("VIN", StringType(), nullable=True),
+    StructField("Stock Number", StringType(), nullable=True),
+    StructField("Features", StringType(), nullable=True)
+])
+
+# 3. EXTRACT
 print("Extracting data from HDFS Data Lake...")
 hdfs_root = "/data_lake/raw/cars"
 input_path = f"{hdfs_root}/year_*/month_*/day_*/*.json"
 
 try:
-    # Đọc dữ liệu mà không áp schema
+    # Đọc dữ liệu, chú ý 'multiLine' để đọc file có nhiều dòng JSON
     df = spark.read \
+        .option("mergeSchema", "true") \
         .option("mode", "PERMISSIVE") \
-        .option("columnNameOfCorruptRecord", "_corrupt_record") \
+        .option("multiLine", "true") \
+        .schema(schema) \
         .json(input_path)
 
-    print("Inferred data schema:")
+    print("Data schema:")
     df.printSchema()
 
-    # Cache dữ liệu để tránh lỗi khi chỉ có _corrupt_record
-    df_cached = df.cache()
-
     print("Sample data (5 rows):")
-    df_cached.show(5, truncate=False)
+    df.show(5, truncate=False)
 
-    # Kiểm tra file được đọc
+    # Kiểm tra danh sách file được đọc
     print("Files read from HDFS:")
     input_files = df.inputFiles()
-    for file in input_files[:5]:
+    for file in input_files[:5]:  # Giới hạn 5 file để debug
         print(file)
 
-    # Kiểm tra corrupt records
-    if "_corrupt_record" in df.columns:
-        corrupt_df = df_cached.filter(col("_corrupt_record").isNotNull())
-        corrupt_count = corrupt_df.count()
-        if corrupt_count > 0:
-            print(f"Found {corrupt_count} corrupt records:")
-            corrupt_df.select("_corrupt_record").show(5, truncate=False)
-    else:
-        print("No corrupt records column found.")
-
-    # Debug: Đọc từng file mẫu
-    sample_files = [
-        "hdfs://localhost:9000/data_lake/raw/cars/year_2025/month_03/day_02/1_1.json",
-        "hdfs://localhost:9000/data_lake/raw/cars/year_2025/month_01/day_12/38_17.json",
-        "hdfs://localhost:9000/data_lake/raw/cars/year_2025/month_02/day_02/25_23.json"
-    ]
-    for file_path in sample_files:
-        print(f"\nReading sample file: {file_path}")
-        sample_df = spark.read.json(file_path)
-        print(f"Schema for {file_path}:")
-        sample_df.printSchema()
-        print(f"Data for {file_path} (1 row):")
-        sample_df.show(1, truncate=False)
-
-    initial_count = df_cached.count()
+    initial_count = df.count()
     print(f"Total number of records before transformation: {initial_count}")
+
+    # Kiểm tra xem có dữ liệu nào không NULL không
+    print("Non-null counts per column:")
+    df.select([_sum(col(c).isNotNull().cast("int")).alias(c) for c in df.columns]).show()
 
 except Exception as e:
     print(f"Error reading data from HDFS: {e}")
+    # Debug HDFS
+    try:
+        fs = spark._jvm.org.apache.hadoop.fs.FileSystem.get(spark._jsc.hadoopConfiguration())
+        path = spark._jvm.org.apache.hadoop.fs.Path(hdfs_root)
+        files = fs.listStatus(path)
+        print("Files in HDFS directory:")
+        for f in files:
+            print(f.getPath().toString())
+    except Exception as hdfs_e:
+        print(f"HDFS access error: {hdfs_e}")
     spark.stop()
     exit(1)
 
-# 3. TRANSFORM
+# 4. TRANSFORM
 print("Transforming data...")
 try:
-    # Hàm xử lý N/A và Not Available
     def clean_na_values(column):
         return when(
             col(column).isin("N/A", "Not Available"),
             lit(None)
         ).otherwise(col(column))
 
-    # Chọn các cột cần thiết và transform
-    df_transformed = df_cached.select(
-        clean_na_values("Title").alias("Title"),
-        clean_na_values("Cash Price").alias("Cash Price"),
-        clean_na_values("Finance Price").alias("Finance Price"),
-        clean_na_values("Finance Details").alias("Finance Details"),
-        clean_na_values("Exterior").alias("Exterior"),
-        clean_na_values("Interior").alias("Interior"),
-        clean_na_values("Mileage").alias("Mileage"),
-        clean_na_values("Fuel Type").alias("Fuel Type"),
-        clean_na_values("MPG").alias("MPG"),
-        clean_na_values("Transmission").alias("Transmission"),
-        clean_na_values("Drivetrain").alias("Drivetrain"),
-        clean_na_values("Engine").alias("Engine"),
-        clean_na_values("Location").alias("Location"),
-        clean_na_values("Listed Since").alias("Listed Since"),
-        col("VIN"),  # Giữ nguyên VIN
-        clean_na_values("Stock Number").alias("Stock Number"),
-        clean_na_values("Features").alias("Features"),
-        regexp_extract(col("Mileage"), r"\((\d+) miles away\)", 1).cast("integer").alias("Mileage_Number")
-    )
+    df_transformed = df.select([
+        clean_na_values(c).alias(c) if c != "VIN" else col(c)
+        for c in df.columns
+    ])
 
-    # Loại bỏ trùng lặp dựa trên VIN
     df_transformed = df_transformed.dropDuplicates(["VIN"])
 
     final_count = df_transformed.count()
@@ -116,13 +108,9 @@ except Exception as e:
     spark.stop()
     exit(1)
 
-# 4. LOAD
+# 5. LOAD
 print("Loading data to PostgreSQL Data Warehouse...")
 try:
-    # In 5 dòng trước khi load
-    print("Final data before loading to PostgreSQL (5 rows):")
-    df_transformed.show(5, truncate=False)
-
     postgres_url = "jdbc:postgresql://localhost:5432/DataWarehouse"
     properties = {
         "user": "postgres",
@@ -142,6 +130,6 @@ except Exception as e:
     spark.stop()
     exit(1)
 
-# 5. Dừng Spark Session
+# 6. Dừng Spark Session
 spark.stop()
 print("ETL process completed!")

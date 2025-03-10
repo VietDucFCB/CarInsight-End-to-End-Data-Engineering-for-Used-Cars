@@ -1,17 +1,17 @@
-Title: 2014 INFINITI QX60 3.5 FWD
-Cash Price: $10,500
+Title: 2017 Ford Explorer XLT 4WD
+Cash Price: $11,900
 Finance Price: Not Available
 Finance Details: Not Available
-Exterior: Diamond Slate
-Interior: Graphite
-Mileage: North Richland Hills, TX (1226 miles away)
+Exterior: White Platinum Metallic Tri-Coat
+Interior: Medium Light Camel
+Mileage: 123,091 miles
 Fuel Type: Gas
-MPG: 20 city / 26 highway
+MPG: 16 city / 23 highway
 Transmission: Automatic Transmission
-Drivetrain: FWD
+Drivetrain: 4WD
 Engine: 3.5L V-6 Gas V
-Location: N/A
-Listed Since: Listed 1 day ago
-VIN: 5N1AL0MN1EC544767
-Stock Number: 10974
-Features: Graphite, Leather Appointed Seats; Wheel Type; Moonroof; Power Trunk/Liftgate; Premium Audio; Navigation; Seat Material; Front Heated Seats; Third Row Seating; Remote Engine Start; Climate Control; Cruise Control; Blind Spot System; Backup Camera; Parking Sensors; Bluetooth; See less; Child Safety Door Locks; Locking Pickup Truck Tailgate; Power Door Locks; Vehicle Anti-Theft; ABS Brakes; See all features
+Location: Columbus, IN
+Listed Since: 30 days ago
+VIN: 1FM5K8D84HGB60525
+Stock Number: VSB60525
+Features: Transmission: 6 Speed Selectshift Automatic; Front & Rear Floor Liners; Class III Trailer Tow Package; 20" Polished Aluminum Wheels; XLT Technology Feature Bundle; Transmission: 6 Speed Selectshift Automatic; Front License Plate Bracket; Equipment Group 202A; See less; Wheel Type; Power Trunk/Liftgate; Navigation; Third Row Seating; Remote Engine Start; See all features; Driver Connect Package; Equipment Group 202A; XLT Technology Feature Bundle; 6 Speakers; AM/FM radio: SiriusXM; See all features
