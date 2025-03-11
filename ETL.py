@@ -1,6 +1,8 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, StringType
-from pyspark.sql.functions import col, when, lit, sum as _sum
+from pyspark.sql.functions import (
+    col, when, lit, sum as _sum, regexp_replace, regexp_extract, trim, split
+)
 
 # 1. Khởi tạo Spark Session
 spark = SparkSession.builder \
@@ -83,6 +85,7 @@ except Exception as e:
 # 4. TRANSFORM
 print("Transforming data...")
 try:
+    # Step 1: Clean "N/A" or "Not Available"
     def clean_na_values(column):
         return when(
             col(column).isin("N/A", "Not Available"),
@@ -94,7 +97,106 @@ try:
         for c in df.columns
     ])
 
+    # Step 2: Drop duplicates based on VIN
     df_transformed = df_transformed.dropDuplicates(["VIN"])
+
+    # Step 3: Extract year, make, and construct a full car title
+    #  For example: "2016 Ford F-150 Platinum SuperCrew 5.5' Box 4WD"
+    #  -> "Year of Manufacture": "2016"
+    #  -> "Car Make": "Ford"
+    #  -> "Car Full Title": "2016 Ford F-150 Platinum SuperCrew 5.5' Box 4WD"
+    #
+    #  If Title is null, these columns become null or empty.
+
+    # Extract year
+    df_transformed = df_transformed.withColumn(
+        "Year of Manufacture",
+        regexp_extract(col("Title"), r"^(\d{4})", 1)
+    )
+
+    # Extract the make (the first word after the 4-digit year, if present).
+    df_transformed = df_transformed.withColumn(
+        "Car Make",
+        regexp_extract(col("Title"), r"^\d{4}\s+(\S+)", 1)
+    )
+
+    # Generate "Car Full Title" as a String
+    df_transformed = df_transformed.withColumn(
+        "Car Full Title",
+        when(col("Title").isNotNull(), col("Title")).otherwise(None).cast(StringType())
+    )
+
+    # Step 4: Clean and rename "Cash Price" -> "Cash Price (USD)"
+    # Remove '$' from the column
+    df_transformed = df_transformed.withColumnRenamed("Cash Price", "Cash Price (USD)")
+    df_transformed = df_transformed.withColumn(
+        "Cash Price (USD)",
+        trim(regexp_replace(col("Cash Price (USD)"), r"\$", ""))
+    )
+
+    # Step 5: Rename and clean "Finance Price" -> "Installment Per Month"
+    df_transformed = df_transformed.withColumnRenamed("Finance Price", "Installment Per Month")
+    df_transformed = df_transformed.withColumn(
+        "Installment Per Month",
+        regexp_extract(col("Installment Per Month"), r"(\d+)", 1)
+    )
+
+    # Step 6: Split Finance Details -> Down Payment, Loan Term (Months), Interest Rate (APR)
+    split_cols = split(col("Finance Details"), "·")
+
+    df_transformed = (
+        df_transformed
+        .withColumn("chunk1", split_cols.getItem(0))
+        .withColumn("chunk2", split_cols.getItem(1))
+        .withColumn("chunk3", split_cols.getItem(2))
+    )
+
+    # Down Payment (cleaning out '$' and non-digit)
+    df_transformed = df_transformed.withColumn(
+        "Down Payment",
+        trim(regexp_replace(regexp_replace(col("chunk1"), r"^\$", ""), r"[^\d,]", ""))
+    )
+
+    # Loan Term (Months)
+    df_transformed = df_transformed.withColumn(
+        "Loan Term (Months)",
+        regexp_extract(col("chunk2"), r"(\d+)", 1)
+    )
+
+    # Interest Rate (APR)
+    df_transformed = df_transformed.withColumn(
+        "Interest Rate (APR)",
+        regexp_extract(col("chunk3"), r"(\d+(\.\d+)?)", 1)
+    )
+
+    # Remove original Finance Details column and intermediate columns
+    df_transformed = df_transformed.drop("Finance Details", "chunk1", "chunk2", "chunk3")
+
+    # Step 7: Clean the Mileage column (e.g. "75,664 miles" -> "75,664")
+    df_transformed = df_transformed.withColumn(
+        "Mileage",
+        trim(regexp_replace(col("Mileage"), r"[^\d,]", ""))
+    )
+
+    # Drop original Title column
+    df_transformed = df_transformed.drop("Title")
+
+    # Step 8: Reorder the columns
+    desired_order = [
+        "Year of Manufacture",
+        "Car Make",
+        "Car Full Title",
+        "Cash Price (USD)",
+        "Down Payment",
+        "Installment Per Month",
+        "Loan Term (Months)",
+        "Interest Rate (APR)"
+    ]
+    all_cols = df_transformed.columns
+    remaining_cols = [c for c in all_cols if c not in desired_order]
+    final_columns = desired_order + remaining_cols
+
+    df_transformed = df_transformed.select(final_columns)
 
     final_count = df_transformed.count()
     print(f"Number of records after deduplication: {final_count}")
