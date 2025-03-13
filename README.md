@@ -79,7 +79,7 @@ project/
 ## Quy Trình Xử Lý Dữ Liệu
 1. Thu Thập Dữ Liệu: Crawler định kỳ thu thập dữ liệu về xe ô tô cũ từ nhiều nguồn khác nhau
 2. Lưu Trữ Thô: Dữ liệu được lưu trữ dưới dạng JSON trong hệ thống tệp cục bộ
-3. Nạp Vào Data Lake: Dữ liệu được chuyển vào Data Lake (MinIO) để lưu trữ lâu dài
+3. Nạp Vào Data Lake: Dữ liệu được chuyển vào Data Lake HDFS để lưu trữ lâu dài
 4. ETL Cơ Bản: Dữ liệu được làm sạch, chuyển đổi và nạp vào HDFS
 5. Phân Vùng Dữ Liệu: Dữ liệu trong HDFS được tổ chức theo cấu trúc phân vùng hiệu quả
 6. Xử Lý Nâng Cao: Apache Spark thực hiện các phân tích phức tạp trên dữ liệu
