@@ -7,10 +7,4 @@ streamlit
 pandas
 psycopg2-binary
 sqlalchemy
-# Apache Airflow
-apache-airflow==2.7.1
-apache-airflow-providers-apache-kafka==1.1.0
 
-# Kafka
-kafka-python==2.0.2
-confluent-kafka==2.2.0
