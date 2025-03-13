@@ -4,3 +4,6 @@ pyspark
 pandas
 pyhive[hive]
 scikit-learn
+streamlit
+pandas
+psycopg2-binary
