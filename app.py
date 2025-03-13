@@ -16,19 +16,21 @@ st.set_page_config(
 # Database connection function
 @st.cache_resource
 def get_connection():
-    """Create a connection pool that can be reused"""
+    """Create a connection using credentials from secrets.toml"""
     try:
+        db_params = st.secrets["database"]
         conn = psycopg2.connect(
-            dbname="DataWarehouse",
-            user="postgres",
-            password="Kkagiuma2004@",
-            host="localhost",
-            port="5432"
+            dbname=db_params["dbname"],
+            user=db_params["user"],
+            password=db_params["password"],
+            host=db_params["host"],
+            port=db_params["port"]
         )
         return conn
     except Exception as e:
         st.error(f"Database connection error: {e}")
         return None
+
 
 
 # Function to clean price strings and convert to float

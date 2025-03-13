@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 pandas
 psycopg2-binary
+sqlalchemy
