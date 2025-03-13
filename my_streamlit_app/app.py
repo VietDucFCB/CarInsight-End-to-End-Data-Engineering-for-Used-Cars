@@ -12,13 +12,24 @@ st.set_page_config(
     layout="wide"
 )
 
-
 # Database connection function
 @st.cache_resource
 def get_connection():
-    """Create a connection using credentials from secrets.toml"""
+    """Create a connection using credentials from secrets.toml or environment variables"""
     try:
-        db_params = st.secrets["database"]
+        # Try to get from secrets
+        if "database" in st.secrets:
+            db_params = st.secrets["database"]
+        else:
+            # If running locally and secrets aren't configured, show helpful message
+            st.error("""
+            Database connection error: Secrets not found.
+
+            If running locally: Place your secrets.toml file in the .streamlit/ directory.
+            If on Streamlit Cloud: Configure secrets in the app settings.
+            """)
+            return None
+
         conn = psycopg2.connect(
             dbname=db_params["dbname"],
             user=db_params["user"],
@@ -30,8 +41,6 @@ def get_connection():
     except Exception as e:
         st.error(f"Database connection error: {e}")
         return None
-
-
 
 # Function to clean price strings and convert to float
 def clean_price(price_str):
