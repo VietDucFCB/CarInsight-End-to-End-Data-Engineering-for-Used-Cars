@@ -37,28 +37,9 @@ project/
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
       <img src="https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars/blob/main/Diagram.png" width="500"/>
   </div>
+  
 ## Kiến Trúc Pipeline:
-┌────────────┐    ┌────────────┐    ┌──────────────────┐    ┌────────┐    ┌────────────┐
-│            │    │            │    │                  │    │        │    │            │
-│  crawl.py  ├───►│convertText ├───►│LoadDataIntoData  ├───►│  Kafka ├───►│   ETL.py   │
-│            │    │ToJson.py   │    │Lake.py           │    │        │    │            │
-└────────────┘    └────────────┘    └──────────────────┘    └────┬───┘    └─────┬──────┘
-                                                                 │              │
-                                                                 │              │
-                                                                 │              ▼
-                                                                 │        ┌──────────────┐
-                                                                 │        │              │
-                                                                 │        │ETL_transfer.py│
-                                                                 │        │              │
-                                                                 │        └──────┬───────┘
-                                                                 │               │
-                                                                 │               │
-                                                                 ▼               ▼
-                                                           ┌─────────┐    ┌──────────────┐
-                                                           │         │    │              │
-                                                           │  app.py │◄───┤Data Warehouse│
-                                                           │         │    │              │
-                                                           └─────────┘    └──────────────┘
+
 
 
 ## Các Thành Phần Chính
