@@ -41,23 +41,54 @@ project/
   </div>
   
 ## Kiến Trúc Pipeline:
-
-
+```
+┌────────────┐    ┌────────────┐    ┌──────────────────┐    ┌────────┐    ┌────────────┐
+│            │    │            │    │                  │    │        │    │            │
+│  crawl.py  ├───►│convertText ├───►│LoadDataIntoData  ├───►│  Kafka ├───►│   ETL.py   │
+│            │    │ToJson.py   │    │Lake.py           │    │        │    │            │
+└────────────┘    └────────────┘    └──────────────────┘    └────┬───┘    └─────┬──────┘
+                                                                 │              │
+                                                                 │              │
+                                                                 │              ▼
+                                                                 │        ┌──────────────┐
+                                                                 │        │              │
+                                                                 │        │ETL_transfer.py│
+                                                                 │        │              │
+                                                                 │        └──────┬───────┘
+                                                                 │               │
+                                                                 │               │
+                                                                 ▼               ▼
+                                                           ┌─────────┐    ┌──────────────┐
+                                                           │         │    │              │
+                                                           │  app.py │◄───┤Data Warehouse│
+                                                           │         │    │              │
+                                                           └─────────┘    └──────────────┘
+```
 
 ## Các Thành Phần Chính
 
 - **Thu Thập Dữ Liệu**: `crawl.py` trích xuất dữ liệu từ các trang web
 - **Biến Đổi Dữ Liệu**: `convertTextToJson.py` và các script ETL xử lý dữ liệu thô
-- **Lưu Trữ Dữ Liệu**: MinIO làm giải pháp data lake
+- **Lưu Trữ Dữ Liệu**: HDFS làm giải pháp data lake
 - **Xử Lý Dữ Liệu**: Apache Airflow để điều phối quy trình làm việc
 - **Hệ Thống Sự Kiện**: Kafka để kích hoạt các hành động dựa trên sự kiện dữ liệu
 - **Kho Dữ Liệu**: Cơ sở dữ liệu PostgreSQL để lưu trữ dữ liệu có cấu trúc
 - **Ứng Dụng**: Ứng dụng web dựa trên Streamlit để đưa ra hệ thống tư vấn mua xe
 - **CI/CD**: GitHub Actions để tự động hóa thực thi pipeline
 
-## Cài Đặt
+## Quy Trình Xử Lý Dữ Liệu
+1. Thu Thập Dữ Liệu: Crawler định kỳ thu thập dữ liệu về xe ô tô cũ từ nhiều nguồn khác nhau
+2. Lưu Trữ Thô: Dữ liệu được lưu trữ dưới dạng JSON trong hệ thống tệp cục bộ
+3. Nạp Vào Data Lake: Dữ liệu được chuyển vào Data Lake (MinIO) để lưu trữ lâu dài
+4. ETL Cơ Bản: Dữ liệu được làm sạch, chuyển đổi và nạp vào HDFS
+5. Phân Vùng Dữ Liệu: Dữ liệu trong HDFS được tổ chức theo cấu trúc phân vùng hiệu quả
+6. Xử Lý Nâng Cao: Apache Spark thực hiện các phân tích phức tạp trên dữ liệu
+7. Tải Vào Kho Dữ Liệu Chuyên Dụng:
+  - Dữ liệu cho hệ thống tư vấn xe
+  - Dữ liệu cho hệ thống dự đoán bán hàng
+8. Ứng Dụng:
+- API cho hệ thống tư vấn xe theo yêu cầu
+- Công cụ phân tích và dự đoán khả năng bán hàng
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars.git
-   cd CarInsight-End-to-End-Data-Engineering-for-Used-Cars```
+## Hệ thống tư vấn gợi ý mua xe theo yêu cầu của khách hàng:
+Người dùng thông qua các thông tin sau: Năm sản xuất, nhà sản xuất xe mong muốn, Giá trong một phạm vi nhất định, có chính sách trả góp hay không, v.v ... Loại động cơ nào, sử dụng nhiên liệu nào và một số đặc điểm nếu cần thiết. Ứng dụng sẽ truy vấn cơ sở dữ liệu có sẵn trong PostgreSQL, thông tin được nhập bởi người dùng có thể trống, sau đó đầu ra sẽ là tất cả thông tin của xe theo yêu cầu của nhà nhập khẩu và được sắp xếp bằng cách tăng giá.
