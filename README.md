@@ -92,3 +92,7 @@ project/
 
 ## Hệ thống tư vấn gợi ý mua xe theo yêu cầu của khách hàng:
 Người dùng thông qua các thông tin sau: Năm sản xuất, nhà sản xuất xe mong muốn, Giá trong một phạm vi nhất định, có chính sách trả góp hay không, v.v ... Loại động cơ nào, sử dụng nhiên liệu nào và một số đặc điểm nếu cần thiết. Ứng dụng sẽ truy vấn cơ sở dữ liệu có sẵn trong PostgreSQL, thông tin được nhập bởi người dùng có thể trống, sau đó đầu ra sẽ là tất cả thông tin của xe theo yêu cầu của nhà nhập khẩu và được sắp xếp bằng cách tăng giá.
+
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="https://github.com/VietDucFCB/ProjectSummer2024/blob/main/2.png" width="900"/>
+  </div>
