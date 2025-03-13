@@ -11,7 +11,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchWindowException, 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from fake_useragent import UserAgent
 
-output_dir = "data_crawled"
+output_dir = "../data_crawled"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 

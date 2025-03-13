@@ -1,0 +1,56 @@
+name: Data Pipeline Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run once a day at midnight
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  crawl-and-process:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run crawler
+      run: python scripts/crawl.py
+
+    - name: Convert text to JSON
+      run: python scripts/convertTextToJson.py
+
+    - name: Load to data lake
+      run: python scripts/LoadDataIntoDataLake.py
+      env:
+        MINIO_ENDPOINT: ${{ secrets.MINIO_ENDPOINT }}
+        MINIO_ACCESS_KEY: ${{ secrets.MINIO_ACCESS_KEY }}
+        MINIO_SECRET_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+
+    - name: Run ETL process
+      run: python scripts/ETL.py
+      env:
+        MINIO_ENDPOINT: ${{ secrets.MINIO_ENDPOINT }}
+        MINIO_ACCESS_KEY: ${{ secrets.MINIO_ACCESS_KEY }}
+        MINIO_SECRET_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+
+    - name: Transfer data to warehouse
+      run: python scripts/ETL_transfer.py
+      env:
+        MINIO_ENDPOINT: ${{ secrets.MINIO_ENDPOINT }}
+        MINIO_ACCESS_KEY: ${{ secrets.MINIO_ACCESS_KEY }}
+        MINIO_SECRET_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+        DW_HOST: ${{ secrets.DW_HOST }}
+        DW_PORT: ${{ secrets.DW_PORT }}
+        DW_DATABASE: ${{ secrets.DW_DATABASE }}
+        DW_USER: ${{ secrets.DW_USER }}
+        DW_PASSWORD: ${{ secrets.DW_PASSWORD }}

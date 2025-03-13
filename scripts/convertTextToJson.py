@@ -2,8 +2,8 @@ import os
 import json
 
 # Define the base directories
-source_dir = 'data_crawled'  # Path to the folder containing the text files
-target_dir = 'json_output'  # Path to the folder where JSON files will be saved
+source_dir = '../data_crawled'  # Path to the folder containing the text files
+target_dir = '../json_output'  # Path to the folder where JSON files will be saved
 
 
 def parse_txt_content(file_content):
