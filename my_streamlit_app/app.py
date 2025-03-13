@@ -12,31 +12,24 @@ st.set_page_config(
     layout="wide"
 )
 
-# Database connection function
 @st.cache_resource
 def get_connection():
-    """Create a connection using credentials from secrets.toml or environment variables"""
+    """Create a connection to Neon PostgreSQL database"""
     try:
-        # Try to get from secrets
-        if "database" in st.secrets:
-            db_params = st.secrets["database"]
-        else:
-            # If running locally and secrets aren't configured, show helpful message
-            st.error("""
-            Database connection error: Secrets not found.
-
-            If running locally: Place your secrets.toml file in the .streamlit/ directory.
-            If on Streamlit Cloud: Configure secrets in the app settings.
-            """)
-            return None
-
+        # Option 1: Use individual parameters
+        db_params = st.secrets["database"]
         conn = psycopg2.connect(
             dbname=db_params["dbname"],
             user=db_params["user"],
             password=db_params["password"],
             host=db_params["host"],
-            port=db_params["port"]
+            port=db_params["port"],
+            sslmode=db_params["sslmode"]
         )
+
+        # Option 2: Or use the connection string directly
+        # conn = psycopg2.connect(st.secrets["database"]["url"])
+
         return conn
     except Exception as e:
         st.error(f"Database connection error: {e}")
