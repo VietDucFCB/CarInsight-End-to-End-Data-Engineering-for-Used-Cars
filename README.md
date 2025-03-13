@@ -15,6 +15,7 @@ Dự án kết hợp nhiều công nghệ Big Data hiện đại như Apache Had
 - Tạo ra các ứng dụng thực tế để tận dụng dữ liệu đã xử lý
 
 ## Tổ chức file:
+```
 project/
 ├── .github/
 │   └── workflows/
@@ -33,6 +34,7 @@ project/
 ├── requirements.txt
 ├── setup.py
 └── README.md
+```
 ## Diagram:
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
       <img src="https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars/blob/main/Diagram.png" width="500"/>
