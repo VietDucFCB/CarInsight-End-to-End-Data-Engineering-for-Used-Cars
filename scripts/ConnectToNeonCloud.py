@@ -1,7 +1,5 @@
 import psycopg2
 import pandas as pd
-
-
 def migrate_database():
     # Kết nối đến database local
     print("Kết nối đến database local...")
@@ -105,7 +103,6 @@ def migrate_database():
     neon_cursor.close()
     neon_conn.close()
     print("Migration hoàn tất!")
-
 
 if __name__ == "__main__":
     migrate_database()

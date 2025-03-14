@@ -64,7 +64,6 @@ def get_driver():
 
     return driver
 
-
 def wait_and_click(driver, by, value, timeout=10):
     try:
         element = WebDriverWait(driver, timeout).until(
@@ -77,7 +76,6 @@ def wait_and_click(driver, by, value, timeout=10):
     except Exception as e:
         print(f"Error clicking element: {e}")
         return False
-
 
 def extract_overview_info(car_soup):
     overview_section = car_soup.find('div', {'data-test': 'vehicleOverviewSection'})
@@ -117,7 +115,6 @@ def extract_overview_info(car_soup):
                 overview_info['Stock Number'] = text.replace('Stock Number:', '').strip()
     return overview_info
 
-
 def save_car_data(output_dir, page_number, index, title, price_cash, finance_price, finance_details, overview_info,
                   feature_list):
     sub_dir = os.path.join(output_dir, str(page_number))
@@ -139,7 +136,6 @@ def save_car_data(output_dir, page_number, index, title, price_cash, finance_pri
         file.write(file_content)
 
     print(f"Data saved to file {file_name}")
-
 
 def extract_and_save_car_data(page_number):
     driver = get_driver()
@@ -244,8 +240,7 @@ def extract_and_save_car_data(page_number):
     finally:
         driver.quit()
 
-
-total_pages = 50
+total_pages = 1
 
 with ThreadPoolExecutor(max_workers=5) as executor:
     futures = [executor.submit(extract_and_save_car_data, page_number) for page_number in range(1, total_pages + 1)]

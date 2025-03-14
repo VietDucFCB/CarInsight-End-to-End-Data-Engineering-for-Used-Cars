@@ -40,7 +40,7 @@ hdfs_root = "/data_lake/raw/cars"
 input_path = f"{hdfs_root}/year_*/month_*/day_*/*.json"
 
 try:
-    # Đọc dữ liệu, chú ý 'multiLine' để đọc file có nhiều dòng JSON
+    # Đọc dữ liệu
     df = spark.read \
         .option("mergeSchema", "true") \
         .option("mode", "PERMISSIVE") \

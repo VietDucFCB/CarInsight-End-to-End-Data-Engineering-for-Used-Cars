@@ -23,7 +23,6 @@ KAFKA_BOOTSTRAP_SERVERS = os.environ.get('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9
 TOPIC_NEW_DATA = 'new-data-topic'
 TOPIC_WAREHOUSE_UPDATE = 'new-warehouse-data'
 
-
 def send_kafka_message(bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS, topic=None, key=None, value=None):
     """
     Send a message to a Kafka topic
@@ -60,7 +59,6 @@ def send_kafka_message(bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS, topic=None, ke
         logger.error(f"Error sending message to Kafka: {e}")
         return False
 
-
 def trigger_new_data_event(timestamp=None):
     """
     Trigger an event when new data is available in data lake
@@ -76,7 +74,6 @@ def trigger_new_data_event(timestamp=None):
     }
 
     return send_kafka_message(topic=TOPIC_NEW_DATA, key=message_key, value=message_value)
-
 
 def trigger_warehouse_update_event(timestamp=None, data_info=None):
     """
@@ -133,7 +130,6 @@ def consume_messages(bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS, topic=None, grou
     except KafkaError as e:
         logger.error(f"Error consuming messages from Kafka: {e}")
 
-
 def handle_new_data_message(message):
     """
     Handle messages from new-data-topic
@@ -155,7 +151,6 @@ def handle_new_data_message(message):
 
     except Exception as e:
         logger.error(f"Error handling new data message: {e}")
-
 
 def handle_warehouse_update_message(message):
     """
@@ -181,7 +176,6 @@ def handle_warehouse_update_message(message):
     except Exception as e:
         logger.error(f"Error handling warehouse update message: {e}")
 
-
 def start_listeners():
     """
     Start Kafka listeners in separate threads
@@ -204,7 +198,6 @@ def start_listeners():
 
     return new_data_thread, warehouse_thread
 
-
 def run_listener_service():
     """
     Run as a standalone listener service
@@ -225,7 +218,6 @@ def run_listener_service():
 
     except KeyboardInterrupt:
         logger.info("Kafka listeners service stopping...")
-
 
 if __name__ == "__main__":
     run_listener_service()

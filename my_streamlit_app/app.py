@@ -42,7 +42,6 @@ def clean_price(price_str):
     # Remove currency symbols and commas
     return float(re.sub(r'[^\d.]', '', str(price_str)))
 
-
 # Function to fetch car recommendations based on user inputs
 def fetch_car_recommendations(year=None, car_make=None, price_min=None, price_max=None,
                               installment_support=None, engine=None, fuel_type=None, features=None):
@@ -145,7 +144,6 @@ def format_price(price):
     except:
         return str(price)
 
-
 # Fix for the Other_Detail table name
 def fix_table_name(table_name):
     # Check if the table name is actually "Other_Details" in the database
@@ -166,7 +164,6 @@ def fix_table_name(table_name):
         except Exception as e:
             st.error(f"Error checking table name: {e}")
     return table_name
-
 
 # UI Components
 def main():
@@ -328,7 +325,6 @@ def main():
                     "text/csv",
                     key='download-csv'
                 )
-
 
 if __name__ == "__main__":
     main()
