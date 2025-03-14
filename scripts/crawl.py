@@ -1,6 +1,7 @@
 import os
 import time
 import random
+import logging
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
@@ -10,6 +11,18 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchWindowException, WebDriverException
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from fake_useragent import UserAgent
+
+# Cấu hình logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler("crawler.log"),
+        logging.StreamHandler()
+    ]
+)
+
+logger = logging.getLogger(__name__)
 
 output_dir = "../data_crawled"
 if not os.path.exists(output_dir):
