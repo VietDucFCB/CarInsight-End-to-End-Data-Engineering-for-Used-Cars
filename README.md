@@ -64,29 +64,49 @@ project/
   </div>
   
 ## Kiến Trúc Pipeline:
+
 ```
-┌────────────┐    ┌────────────┐    ┌──────────────────┐    ┌────────┐    ┌────────────┐
-│            │    │            │    │                  │    │        │    │            │
-│  crawl.py  ├───►│convertText ├───►│LoadDataIntoData  ├───►│  Kafka ├───►│   ETL.py   │
-│            │    │ToJson.py   │    │Lake.py           │    │        │    │            │
-└────────────┘    └────────────┘    └──────────────────┘    └────┬───┘    └─────┬──────┘
-                                                                 │              │
-                                                                 │              │
-                                                                 │              ▼
-                                                                 │        ┌──────────────┐
-                                                                 │        │              │
-                                                                 │        │Data Warehouse│
-                                                                 │        │              │
-                                                                 │        └──────┬───────┘
-                                                                 │               │
-                                                                 │               │
-                                                                 ▼               ▼
-                                                           ┌─────────┐    ┌──────────────┐
-                                                           │         │    │              │
-                                                           │  app.py │◄───┤     Kafka    │
-                                                           │         │    │              │
-                                                           └─────────┘    └──────────────┘
+                   ┌────────────┐    ┌───────────────┐    ┌─────────────────────┐    ┌──────────┐    ┌────────────┐
+                   │            │    │               │    │                     │    │          │    │            │
+                   │ crawl.py   ├───►│ convertText   ├───►│ LoadDataIntoData    ├───►│  Kafka   ├───►│   ETL.py   │
+                   │            │    │ ToJson.py     │    │ Lake.py             │    │          │    │            │
+                   └────────────┘    └───────────────┘    └─────────────────────┘    └────┬─────┘    └────┬───────┘
+                                                                          │                        │
+                                                                          │                        │
+                                                                          │                        ▼
+                                                                          │                 ┌──────────────┐
+                                                                          │                 │              │
+                                                                          │                 │ Data         │
+                                                                          │                 │ Warehouse    │
+                                                                          │                 │              │
+                                                                          │                 └──────┬───────┘
+                                                                          │                        │
+                                                                          │                        │
+                                                                          ▼                        ▼
+                                                                ┌─────────────┐         ┌──────────────┐
+                                                                │             │         │              │
+                                                                │   app.py    │◄────────┤    Kafka     │
+                                                                │             │         │              │
+                                                                └─────────────┘         └──────────────┘
 ```
+
+Quy trình xử lý được mô tả chi tiết theo các task sau:
+
+```
+crawl_task >> convert_to_json_task >> load_to_datalake_task >> trigger_etl_kafka_task >> etl_task >> trigger_app_kafka_task >> send_email_task
+```
+
+Trong đó:
+- **crawl_task**: Thu thập dữ liệu từ các nguồn qua `crawl.py`
+- **convert_to_json_task**: Chuyển đổi dữ liệu thu thập được sang định dạng JSON với `convertTextToJson.py`
+- **load_to_datalake_task**: Nạp dữ liệu vào Data Lake (ví dụ: HDFS) qua `LoadDataIntoDataLake.py`
+- **trigger_etl_kafka_task**: Kích hoạt xử lý ETL qua Kafka
+- **etl_task**: Thực hiện quá trình ETL trên dữ liệu với `ETL.py`
+- **trigger_app_kafka_task**: Kích hoạt ứng dụng qua Kafka sau khi ETL hoàn thành
+- **send_email_task**: Gửi email thông báo hoàn thành quy trình xử lý
+
+Sơ đồ này minh họa rõ ràng hành trình của dữ liệu từ thu thập đến xử lý và phân phối kết quả trong hệ thống.
+
 
 ## Các Thành Phần Chính
 
@@ -229,7 +249,111 @@ Sau khi container đã chạy, mở trình duyệt và truy cập địa chỉ: 
 
 Với các bước trên, bạn đã hoàn thành quá trình cài đặt Docker Desktop, clone repo và build cũng như chạy Docker container cho dự án.
 
+# Sử Dụng Airflow Webserver để Quản Lý và Chạy DAGs Qua Web UI
 
+Airflow Webserver cung cấp giao diện người dùng web cho phép bạn giám sát, quản lý và kích hoạt các DAGs. Dưới đây là các bước để khởi động Airflow Webserver và chạy DAGs thông qua giao diện web:
+
+## 1. Cài Đặt Airflow
+
+Nếu bạn chưa cài đặt Airflow, hãy cài đặt qua pip hoặc Docker tùy thuộc vào môi trường làm việc của bạn. Ví dụ, cài đặt Airflow qua pip:
+```bash
+pip install apache-airflow
+```
+
+## 2. Thiết Lập Airflow
+
+- **Đặt thư mục Airflow**: Tạo thư mục cho Airflow và thiết lập biến môi trường `AIRFLOW_HOME`. Ví dụ:
+```bash
+mkdir ~/airflow
+export AIRFLOW_HOME=~/airflow
+```
+- **Khởi tạo cơ sở dữ liệu**: Airflow dùng SQLite (trong môi trường phát triển) nên thực hiện lệnh sau để khởi tạo cơ sở dữ liệu:
+```bash
+airflow db init
+```
+- **Tạo người dùng Admin**: Tạo người dùng để đăng nhập vào giao diện Airflow:
+```bash
+airflow users create \
+    --username admin \
+    --firstname Admin \
+    --lastname User \
+    --role Admin \
+    --email admin@example.com
+```
+
+## 3. Khởi Động Scheduler và Webserver
+
+### Khởi Động Scheduler
+
+Scheduler chịu trách nhiệm kích hoạt các tác vụ theo lịch trình của DAG. Mở một terminal và chạy:
+```bash
+airflow scheduler
+```
+
+### Khởi Động Webserver
+
+Mở một terminal khác để khởi động Airflow Webserver:
+```bash
+airflow webserver --port 8080
+```
+Sau khi khởi động thành công, bạn có thể truy cập giao diện Airflow tại:
+[http://localhost:8080](http://localhost:8080)
+
+## 4. Tải DAGs Vào Airflow
+
+- **Đặt DAGs**: Đảm bảo rằng các file DAG (ví dụ: `data_pipeline_dag.py` nằm trong thư mục `dags/`) được đặt trong thư mục DAG mà Airflow sử dụng. Mặc định, Airflow sẽ tìm các DAG trong thư mục `${AIRFLOW_HOME}/dags`.
+- Nếu bạn muốn thay đổi thư mục DAG, hãy thiết lập biến môi trường:
+```bash
+export AIRFLOW__CORE__DAGS_FOLDER=~/path/to/your/dags
+```
+- Sau khi DAGs được đặt đúng vị trí, Airflow Webserver sẽ tự động phát hiện và nạp các file DAG từ thư mục này.
+
+## 5. Sử Dụng Web UI để Quản Lý và Chạy DAG
+
+- Mở trình duyệt và truy cập [http://localhost:8080](http://localhost:8080) để vào giao diện Airflow. (Trong cấu hình của tôi là 8081)
+- **Quan sát danh sách DAGs**: Tại trang chính, bạn sẽ thấy danh sách các DAG hiện có.
+- **Xem chi tiết DAG**: Nhấp vào tên của một DAG để xem thông tin chi tiết, biểu đồ và biểu đồ trạng thái của các task.
+- **Kích hoạt DAG**:
+  - Để chạy DAG ngay lập tức, nhấp vào nút "Trigger DAG" (thường hiển thị dưới dạng biểu tượng "play") bên cạnh tên DAG.
+  - Bạn cũng có thể bật/tắt chế độ chạy theo lịch bằng cách sử dụng nút "On/Off" trong giao diện.
+- **Xem logs và trạng thái**: Sử dụng các tab chi tiết bên trong để theo dõi trạng thái hiện tại của các task và kiểm tra logs của các lần chạy trước đó.
+
+## 6. Dừng Airflow
+
+- Để dừng Airflow Webserver, nhấn `CTRL+C` trong terminal mà bạn đã khởi động webserver.
+- Tương tự, dừng scheduler bằng cách nhấn `CTRL+C` trong terminal nơi scheduler đang chạy.
+
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars/blob/main/imageForProject/airflow.png" width="900"/>
+  </div>
+  
+1. Nhấp vào biểu tượng nếu bạn muốn khởi động lại hoặc bạn đã có cập nhật trong code trước đó
+2. Xem DAGS Directed Acyclic Graphs (Đồ thị có hướng không chu trình).
+3. Xem đồ thị các task trong ETL
+4. Chạy hoặc xóa tiến trình
+
+Với các bước trên, bạn có thể dễ dàng khởi động Airflow Webserver, tải DAGs vào hệ thống và sử dụng giao diện web để quản lý cũng như chạy các quy trình xử lý dữ liệu của bạn.
+
+### Tự động gửi Email khi chạy ETL:
+- Kể cả DAGS có chạy thành công hay thất bại cũng sẽ gửi về mail thông báo cho người nhận:
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars/blob/main/imageForProject/Email.png" width="900"/>
+  </div>
+
+- Bạn có thể thay đổi email người nhận bằng cách cấu hình file `docker-compose.yml` như sau:
+```
+  environments:
+    AIRFLOW__WEBSERVER__BASE_URL: 'http://localhost:8081'
+    # SMTP Configuration for Email Delivery
+    SMTP_HOST: smtp-mail.outlook.com
+    SMTP_PORT: 587
+    SMTP_USER: USER_SEND_MAIL
+    SMTP_PASSWORD: PASSWORD_SEND_MAIL
+    SMTP_USE_TLS: 'False'
+    FROM_EMAIL: USER_RECEIVE_MAIL
+    EMAIL_DELIVERY_METHOD: smtp
+    # Rest of your code
+```
 ## Hệ thống tư vấn gợi ý mua xe theo yêu cầu của khách hàng:
 Người dùng thông qua các thông tin sau: Năm sản xuất, nhà sản xuất xe mong muốn, Giá trong một phạm vi nhất định, có chính sách trả góp hay không, v.v ... Loại động cơ nào, sử dụng nhiên liệu nào và một số đặc điểm nếu cần thiết. Ứng dụng sẽ truy vấn cơ sở dữ liệu có sẵn trong PostgreSQL, thông tin được nhập bởi người dùng có thể trống, sau đó đầu ra sẽ là tất cả thông tin của xe theo yêu cầu của nhà nhập khẩu và được sắp xếp bằng cách tăng giá.
 
