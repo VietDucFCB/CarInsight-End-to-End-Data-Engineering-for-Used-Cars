@@ -132,9 +132,6 @@ Sơ đồ này minh họa rõ ràng hành trình của dữ liệu từ thu th�
 - **Ứng Dụng**: 
   - Một ứng dụng web được phát triển trên nền tảng Streamlit cung cấp giao diện trực quan để tư vấn mua xe, cho phép người dùng tương tác và ra quyết định dựa trên các phân tích dữ liệu.
   
-- **CI/CD**: 
-  - GitHub Actions được sử dụng để tự động hóa việc kiểm tra, xây dựng và triển khai các pipeline, đảm bảo rằng mỗi thay đổi trong codebase đều được kiểm tra nghiêm ngặt trước khi phát hành.
-
 ## Quy Trình Xử Lý Dữ Liệu
 
 1. **Thu Thập Dữ Liệu**: 
