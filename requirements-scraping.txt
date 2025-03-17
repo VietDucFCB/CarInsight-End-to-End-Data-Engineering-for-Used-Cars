@@ -1,0 +1,4 @@
+# Web scraping
+selenium==4.15.2
+beautifulsoup4==4.12.2
+fake-useragent==1.4.0

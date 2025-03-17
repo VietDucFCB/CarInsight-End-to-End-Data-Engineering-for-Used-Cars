@@ -1,0 +1,2 @@
+# Kafka and messaging
+kafka-python==2.0.2

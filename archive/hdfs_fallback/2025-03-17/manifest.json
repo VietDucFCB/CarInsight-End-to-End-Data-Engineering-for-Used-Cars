@@ -1,0 +1,14 @@
+{
+  "load_timestamp": "2025-03-17 07:20:13",
+  "loaded_files": [
+    "/opt/airflow/archive/hdfs_fallback/2025-03-17/1/20250317072013_1.json",
+    "/opt/airflow/archive/hdfs_fallback/2025-03-17/1/20250317072013_2.json",
+    "/opt/airflow/archive/hdfs_fallback/2025-03-17/1/20250317072013_3.json",
+    "/opt/airflow/archive/hdfs_fallback/2025-03-17/1/20250317072013_4.json",
+    "/opt/airflow/archive/hdfs_fallback/2025-03-17/1/20250317072013_5.json"
+  ],
+  "loaded_files_count": 5,
+  "source_directory": "/opt/airflow/data_json",
+  "target_directory": "/opt/airflow/archive/hdfs_fallback/2025-03-17",
+  "storage_mode": "local_fallback"
+}

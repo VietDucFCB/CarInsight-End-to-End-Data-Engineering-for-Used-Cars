@@ -1,0 +1,36 @@
+{
+  "title": "Toyota RAV4 2020",
+  "price_info": {
+    "cash_price": "$20000",
+    "finance_price": "$350/mo",
+    "finance_details": "60 months at 3.9% APR"
+  },
+  "overview": {
+    "Exterior": "Silver",
+    "Interior": "Black",
+    "Mileage": "30000 miles",
+    "Fuel Type": "Gasoline",
+    "MPG": "28 city / 35 highway",
+    "Transmission": "Automatic",
+    "Drivetrain": "AWD",
+    "Engine": "2.5L 4-cylinder",
+    "Location": "San Francisco, CA",
+    "Listed Since": "3 days ago",
+    "VIN": "JT3HP10V80W123456",
+    "Stock Number": "ST10000"
+  },
+  "features": [
+    "Backup Camera",
+    "Bluetooth",
+    "Cruise Control",
+    "Lane Departure Warning",
+    "Android Auto"
+  ],
+  "crawl_time": "2025-03-17 09:00:56",
+  "conversion_time": "2025-03-17 09:00:57",
+  "metadata": {
+    "crawl_time": "2025-03-17 09:00:56",
+    "page": 1,
+    "index": 1
+  }
+}

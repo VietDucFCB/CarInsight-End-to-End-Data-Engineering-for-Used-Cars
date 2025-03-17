@@ -1,0 +1,2 @@
+# Airflow dependencies - only needed in airflow containers
+apache-airflow==2.7.2
