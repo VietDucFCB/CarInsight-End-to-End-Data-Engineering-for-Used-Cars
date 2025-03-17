@@ -1,0 +1,395 @@
+version: '3'
+
+x-airflow-common:
+  &airflow-common
+  build:
+    context: .
+    dockerfile: Dockerfile.airflow
+  environment:
+    &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres-airflow/airflow
+    AIRFLOW__CORE__FERNET_KEY: '92FtMYkuhHkFCcswu_c0IfPWZ0CUY1nHp_D-jQWADLU='
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__API__AUTH_BACKENDS: 'airflow.api.auth.backend.session,airflow.api.auth.backend.basic_auth'
+    AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: 'true'
+    # Add explicit hostname setting
+    AIRFLOW__WEBSERVER__BASE_URL: 'http://localhost:8081'
+    # SMTP Configuration for Email Delivery
+    SMTP_HOST: smtp-mail.outlook.com
+    SMTP_PORT: 587
+    SMTP_USER: 22280012@student.hcmus.edu.vn
+    SMTP_PASSWORD: Kkagiuma2004@
+    SMTP_USE_TLS: 'False'
+    FROM_EMAIL: 22280012@student.hcmus.edu.vn
+    EMAIL_DELIVERY_METHOD: smtp
+    # Current date and user information
+    CURRENT_DATE_UTC: "2025-03-17 08:55:00"
+    CURRENT_USER: "VietDucFCB"
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+    - ./scripts:/opt/airflow/scripts
+    - ./data_crawled:/opt/airflow/data_crawled
+    - ./data_json:/opt/airflow/data_json
+    - ./processed_markers:/opt/airflow/processed_markers
+    - ./archive:/opt/airflow/archive
+    - /var/run/docker.sock:/var/run/docker.sock  # Add Docker socket mount
+  group_add:
+    - docker  # Add docker group to allow Docker command execution
+  networks:
+    - airflow-network
+
+services:
+  # Postgres for Airflow (separate from main Postgres)
+  postgres-airflow:
+    image: postgres:14
+    container_name: postgres-airflow
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres-airflow-volume:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    networks:
+      - airflow-network
+
+  # Use standard Airflow image for initialization
+  airflow-init:
+    image: apache/airflow:2.7.2
+    container_name: airflow-init
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_UPGRADE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: admin
+      _AIRFLOW_WWW_USER_PASSWORD: admin
+      _AIRFLOW_WWW_USER_FIRSTNAME: Admin
+      _AIRFLOW_WWW_USER_LASTNAME: User
+      _AIRFLOW_WWW_USER_EMAIL: admin@example.com
+      _AIRFLOW_WWW_USER_ROLE: Admin
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./scripts:/opt/airflow/scripts
+    # Remove --force flag and use a better approach
+    command: bash -c "airflow db init && \
+             airflow users create \
+               --username admin \
+               --password admin \
+               --firstname Admin \
+               --lastname User \
+               --role Admin \
+               --email admin@example.com || true && \
+             airflow connections delete 'postgres_warehouse' || true && \
+             airflow connections add 'postgres_warehouse' \
+               --conn-type 'postgres' \
+               --conn-login 'postgres' \
+               --conn-password 'postgres' \
+               --conn-host 'postgres' \
+               --conn-port '5432' \
+               --conn-schema 'car_warehouse' && \
+             airflow connections delete 'hdfs_default' || true && \
+             airflow connections add 'hdfs_default' \
+               --conn-type 'hdfs' \
+               --conn-host 'namenode' \
+               --conn-port '9870' \
+               --conn-login 'hadoop' && \
+             airflow connections delete 'smtp_default' || true && \
+             airflow connections add 'smtp_default' \
+               --conn-type 'smtp' \
+               --conn-host 'smtp-mail.outlook.com' \
+               --conn-port '587' \
+               --conn-login '22280012@student.hcmus.edu.vn' \
+               --conn-password 'Kkagiuma2004@' \
+               --conn-extra '{\"ssl\":false, \"starttls\":true}'"
+    depends_on:
+      postgres-airflow:
+        condition: service_healthy
+    networks:
+      - airflow-network
+
+  # Use custom image for webserver
+  airflow-webserver:
+    <<: *airflow-common
+    container_name: airflow-webserver
+    restart: always
+    command: webserver
+    ports:
+      - "8081:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      postgres-airflow:
+        condition: service_healthy
+      selenium-chrome:
+        condition: service_started
+    networks:
+      - airflow-network
+
+  # Use custom image for scheduler
+  airflow-scheduler:
+    <<: *airflow-common
+    container_name: airflow-scheduler
+    restart: always
+    command: scheduler
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+      postgres-airflow:
+        condition: service_healthy
+      selenium-chrome:
+        condition: service_started
+    networks:
+      - airflow-network
+
+  proxy-service:
+    image: browserless/chrome:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - MAX_CONCURRENT_SESSIONS=10
+
+  # Selenium service for web scraping
+  selenium-chrome:
+    image: selenium/standalone-chrome:latest
+    container_name: selenium-chrome
+    shm_size: 2g
+    ports:
+      - "4444:4444"  # Selenium Server
+      - "7900:7900"  # VNC viewer
+    environment:
+      - VNC_NO_PASSWORD=1
+      - SCREEN_WIDTH=1920
+      - SCREEN_HEIGHT=1080
+    restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:4444/wd/hub/status"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+    networks:
+      - airflow-network
+
+  # Rest of your services
+  postgres:
+    image: postgres:14
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+      - ./init-scripts/init-warehouse-db.sql:/docker-entrypoint-initdb.d/init-warehouse-db.sql
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    networks:
+      - airflow-network
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.3.2
+    container_name: zookeeper
+    restart: always
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    ports:
+      - "2181:2181"
+    networks:
+      - airflow-network
+
+  kafka:
+    image: confluentinc/cp-kafka:7.3.2
+    container_name: kafka
+    restart: always
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+    networks:
+      - airflow-network
+
+  kafka-init:
+    image: confluentinc/cp-kafka:7.3.2
+    container_name: kafka-init
+    depends_on:
+      - kafka
+    entrypoint: [ '/bin/sh', '-c' ]
+    command: |
+      "
+      # blocks until kafka is reachable
+      kafka-topics --bootstrap-server kafka:9092 --list
+
+      echo -e 'Creating kafka topics'
+      kafka-topics --bootstrap-server kafka:9092 --create --if-not-exists --topic new-data-topic --partitions 1 --replication-factor 1
+      kafka-topics --bootstrap-server kafka:9092 --create --if-not-exists --topic new-warehouse-data --partitions 1 --replication-factor 1
+
+      echo -e 'Successfully created the following topics:'
+      kafka-topics --bootstrap-server kafka:9092 --list
+      "
+    networks:
+      - airflow-network
+
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: namenode
+    restart: always
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    environment:
+      - CLUSTER_NAME=car-data-cluster
+    env_file:
+      - ./hadoop.env
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+    networks:
+      - airflow-network
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: datanode
+    restart: always
+    depends_on:
+      - namenode
+    ports:
+      - "9864:9864"
+    environment:
+      SERVICE_PRECONDITION: "namenode:9870"
+    env_file:
+      - ./hadoop.env
+    volumes:
+      - hadoop_datanode:/hadoop/dfs/data
+    networks:
+      - airflow-network
+
+  kafka-listener-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.kafka-listener
+    container_name: kafka-listener-service
+    restart: always
+    depends_on:
+      - kafka
+      - postgres
+      - namenode
+    environment:
+      KAFKA_BOOTSTRAP_SERVERS: kafka:9092
+      HDFS_URL: http://namenode:9870
+      HDFS_USER: hadoop
+      PG_HOST: postgres
+      PG_PORT: 5432
+      PG_DATABASE: car_warehouse
+      PG_USER: postgres
+      PG_PASSWORD: postgres
+      CURRENT_DATE_UTC: "2025-03-17 08:55:00"
+      CURRENT_USER: "VietDucFCB"
+    volumes:
+      - ./logs:/app/logs
+      - ./processed_markers:/app/processed_markers
+    networks:
+      - airflow-network
+
+  spark-master:
+    image: bitnami/spark:3.3.0
+    container_name: spark-master
+    restart: always
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "8090:8080"
+      - "7077:7077"
+    volumes:
+      - ./scripts:/opt/bitnami/spark/scripts
+      - ./logs:/opt/bitnami/spark/logs
+    networks:
+      - airflow-network
+
+  spark-worker:
+    image: bitnami/spark:3.3.0
+    container_name: spark-worker
+    restart: always
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_MEMORY=2G
+      - SPARK_WORKER_CORES=2
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    depends_on:
+      - spark-master
+    networks:
+      - airflow-network
+
+  # Streamlit app for visualizing data
+  streamlit-app:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    container_name: streamlit-app
+    restart: always
+    depends_on:
+      - postgres
+    ports:
+      - "8501:8501"
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/car_warehouse
+    volumes:
+      - ./app:/app
+    networks:
+      - airflow-network
+
+volumes:
+  postgres-airflow-volume:
+  postgres-db-volume:
+  hadoop_namenode:
+  hadoop_datanode:
+
+networks:
+  airflow-network:
+    driver: bridge

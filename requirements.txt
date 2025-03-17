@@ -1,0 +1,27 @@
+# Combined requirements - use this for development environments
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+tqdm==4.66.1
+streamlit==1.29.0
+
+# Database and data processing
+psycopg2-binary==2.9.9
+pandas==1.5.3
+numpy==1.24.3
+hdfs==2.7.0
+
+# Kafka and messaging
+kafka-python==2.0.2
+
+# Web scraping
+selenium==4.15.2
+beautifulsoup4==4.12.2
+fake-useragent==1.4.0
+
+# Spark
+pyspark==3.3.0
+findspark==2.0.1
+
+# Airflow dependencies - only include when needed
+apache-airflow==2.7.2

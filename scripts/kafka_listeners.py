@@ -10,9 +10,17 @@ import threading
 import subprocess
 
 # Set up logging
+logs_dir = os.path.join(os.path.dirname(__file__), "..", "logs")
+if not os.path.exists(logs_dir):
+    os.makedirs(logs_dir)
+
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(os.path.join(logs_dir, "kafka_listeners.log")),
+        logging.StreamHandler()
+    ]
 )
 logger = logging.getLogger(__name__)
 
@@ -91,7 +99,6 @@ def trigger_warehouse_update_event(timestamp=None, data_info=None):
     }
 
     return send_kafka_message(topic=TOPIC_WAREHOUSE_UPDATE, key=message_key, value=message_value)
-
 
 def consume_messages(bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS, topic=None, group_id=None, callback=None):
     """

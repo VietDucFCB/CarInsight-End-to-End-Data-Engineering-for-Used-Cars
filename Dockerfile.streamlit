@@ -1,0 +1,12 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+RUN mkdir -p ./.streamlit
+
+COPY requirements-streamlit.txt .
+RUN pip install -r requirements-streamlit.txt
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "app.py"]

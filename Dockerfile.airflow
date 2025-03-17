@@ -2,12 +2,13 @@ FROM apache/airflow:2.7.2
 
 USER root
 
-# Install Chrome and required dependencies
+# Install Chrome and required dependencies + health check utilities
 RUN apt-get update && apt-get install -y \
     wget \
     gnupg \
     unzip \
     curl \
+    netcat-traditional \
     xvfb \
     fonts-liberation \
     libasound2 \
@@ -29,6 +30,11 @@ RUN apt-get update && apt-get install -y \
     xdg-utils \
     libu2f-udev \
     libvulkan1 \
+    apt-transport-https \
+    ca-certificates \
+    lsb-release \
+    && apt-get autoremove -yqq --purge \
+    && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Chrome
@@ -45,8 +51,23 @@ RUN CHROME_DRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_
     && rm /tmp/chromedriver.zip \
     && chmod +x /usr/local/bin/chromedriver
 
+# Install Docker CLI
+RUN curl -fsSL https://download.docker.com/linux/debian/gpg | apt-key add - \
+    && echo "deb [arch=$(dpkg --print-architecture)] https://download.docker.com/linux/debian $(lsb_release -cs) stable" > /etc/apt/sources.list.d/docker.list \
+    && apt-get update \
+    && apt-get install -y docker-ce-cli \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create docker group if it doesn't exist and add airflow user to it
+RUN groupadd -f docker && usermod -aG docker airflow
+
 # Switch back to airflow user
 USER airflow
+
+# Verify airflow is installed and in PATH
+ENV PATH="/home/airflow/.local/bin:${PATH}"
+RUN python -c "import airflow; print(f'Found Airflow version {airflow.__version__}')"
 
 # Install Python packages
 RUN pip install --no-cache-dir \
@@ -54,3 +75,6 @@ RUN pip install --no-cache-dir \
     beautifulsoup4==4.12.2 \
     fake_useragent==1.1.3 \
     webdriver-manager==3.8.6
+
+# Set workdir to airflow home
+WORKDIR ${AIRFLOW_HOME}

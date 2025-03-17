@@ -1,1 +1,3 @@
-my_streamlit_app/.streamlit/secrets.toml
+app/.streamlit/secrets.toml
+airflow/logs/
+logs/
