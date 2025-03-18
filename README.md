@@ -362,7 +362,7 @@ Người dùng thông qua các thông tin sau: Năm sản xuất, nhà sản xu�
       <img src="https://github.com/VietDucFCB/ProjectSummer2024/blob/main/2.png" width="900"/>
   </div>
   
-[Used car recomendation system](https://carinsight-end-to-end-data-engineering-for-used-cars-myh5xntg3.streamlit.app/)
+[Used car recomendation system](http://localhost:8501)
 
 ## Mô hình Machine Learning dự doán khi nào xe có thể được bán trong tương lai:
 
