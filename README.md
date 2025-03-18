@@ -55,7 +55,8 @@ project/
 │   ├── LoadDataIntoDataLake.py
 │   ├── ETL.py
 │   ├── ETL_transfer.py
-│   └── kafka_listeners.py
+│   ├── kafka_listeners.py
+|   └── sendMail
 └── setup.py
 ```
 ## Diagram:
@@ -107,7 +108,10 @@ Trong đó:
 
 Sơ đồ này minh họa rõ ràng hành trình của dữ liệu từ thu thập đến xử lý và phân phối kết quả trong hệ thống.
 
-
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="https://github.com/VietDucFCB/CarInsight-End-to-End-Data-Engineering-for-Used-Cars/blob/main/imageForProject/pipeline_etl.png" width="900"/>
+  </div>
+  
 ## Các Thành Phần Chính
 
 - **Thu Thập Dữ Liệu**: 
