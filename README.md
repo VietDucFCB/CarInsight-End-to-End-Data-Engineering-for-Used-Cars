@@ -1,4 +1,4 @@
-![icon@2x](https://github.com/user-attachments/assets/b9d9425c-dd79-463e-856c-17f2c31b2572)# Dự Án Pipeline Dữ Liệu
+# Dự Án Pipeline Dữ Liệu
 
 ## Tổng Quan
 
