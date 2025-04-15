@@ -36,7 +36,6 @@ CONFIG = {
     'current_time': '2025-03-17 07:28:51'  # Current time from user input
 }
 
-
 class WebHDFSClient:
     """Simple WebHDFS client using requests library."""
 
@@ -148,7 +147,6 @@ def create_fallback_storage(message="No reason provided"):
     logger.info(f"Created fallback directory: {fallback_dir}")
     return fallback_dir
 
-
 def add_metadata_to_json(json_data):
     """Add additional metadata to JSON data."""
     json_data['datalake_metadata'] = {
@@ -160,7 +158,6 @@ def add_metadata_to_json(json_data):
         'loader_user': CONFIG['user']
     }
     return json_data
-
 
 def load_to_hdfs(hdfs_client, json_data_dir, hdfs_base_dir):
     """Load JSON files to HDFS."""
@@ -245,7 +242,6 @@ def load_to_hdfs(hdfs_client, json_data_dir, hdfs_base_dir):
 
     return loaded_files
 
-
 def load_to_fallback(json_data_dir, fallback_dir):
     """Load JSON files to fallback location."""
     loaded_files = []
@@ -308,7 +304,6 @@ def load_to_fallback(json_data_dir, fallback_dir):
 
     return loaded_files
 
-
 def archive_processed_data(json_data_dir):
     """Archive the processed data."""
     try:
@@ -324,7 +319,6 @@ def archive_processed_data(json_data_dir):
     except Exception as e:
         logger.error(f"Error archiving data: {str(e)}")
         return False
-
 
 def main():
     """Main function to load data."""
@@ -381,7 +375,6 @@ def main():
 
         logger.info(f"Data lake loading complete. Loaded {len(loaded_files)} files to local fallback storage.")
         return True
-
 
 if __name__ == "__main__":
     main()

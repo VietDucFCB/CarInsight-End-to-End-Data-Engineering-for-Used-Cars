@@ -44,7 +44,6 @@ CURRENT_USER = os.environ.get('CURRENT_USER', 'VietDucFCB')
 # Ensure the processed marker directory exists
 os.makedirs(PROCESSED_MARKER_DIR, exist_ok=True)
 
-
 def init_spark_session():
     """Initialize and configure Spark session"""
     logger.info("Initializing Spark Session")
@@ -78,7 +77,6 @@ def init_spark_session():
 
     logger.info(f"Spark Session initialized with version: {spark.version}")
     return spark
-
 
 def create_tables_if_not_exist():
     """Create the normalized tables in PostgreSQL if they don't exist"""
@@ -239,7 +237,6 @@ def create_tables_if_not_exist():
         if conn:
             conn.close()
 
-
 def list_hdfs_contents(spark, path):
     """Debug function to list HDFS contents"""
     try:
@@ -265,7 +262,6 @@ def list_hdfs_contents(spark, path):
         logger.error(f"Error listing HDFS contents at {path}: {str(e)}")
         return False
 
-
 def create_hdfs_dirs(spark):
     """Create necessary HDFS directories if they don't exist"""
     try:
@@ -283,7 +279,6 @@ def create_hdfs_dirs(spark):
     except Exception as e:
         logger.error(f"Error creating HDFS directories: {str(e)}")
         return False
-
 
 def extract_data(spark):
     """Extract data from HDFS Data Lake using date partitioned structure"""
@@ -388,7 +383,6 @@ def extract_data(spark):
         ]
         df = spark.createDataFrame(test_data)
         return df
-
 
 def transform_data(df):
     """Transform the extracted data"""
@@ -546,7 +540,6 @@ def transform_data(df):
                  "Bluetooth, Backup Camera")]
         return spark.createDataFrame(data, columns)
 
-
 def get_existing_vins(spark):
     """Get list of VINs that already exist in the database to avoid duplicates"""
     try:
@@ -568,7 +561,6 @@ def get_existing_vins(spark):
         logger.warning(f"Error getting existing VINs: {str(e)}")
         # If error occurs (like table doesn't exist yet), return empty dataframe
         return spark.createDataFrame([], "VIN STRING")
-
 
 def load_data_to_postgres(spark, df):
     """Load data into the normalized PostgreSQL tables"""
@@ -767,6 +759,7 @@ def load_data_to_postgres(spark, df):
             pass
 
         raise
+        
 def create_processed_marker(records_processed):
     """Create a marker file to indicate successful processing"""
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -778,7 +771,6 @@ def create_processed_marker(records_processed):
         f.write(f"Executed by: {CURRENT_USER}\n")
 
     logger.info(f"Created processed marker file: {marker_path}")
-
 
 def main():
     """Main ETL function"""
