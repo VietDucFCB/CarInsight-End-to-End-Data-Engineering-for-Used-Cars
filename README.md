@@ -1,4 +1,4 @@
-# Dự Án Pipeline Dữ Liệu
+![icon@2x](https://github.com/user-attachments/assets/b9d9425c-dd79-463e-856c-17f2c31b2572)# Dự Án Pipeline Dữ Liệu
 
 ## Tổng Quan
 
@@ -16,48 +16,43 @@ Dự án kết hợp nhiều công nghệ Big Data hiện đại như Apache Had
 
 ## Tổ chức file:
 ```
-project/
-├── .gitignore
-├── .idea/
-├── DataLakeArchitecture.txt
-├── Dockerfile
-├── Dockerfile.airflow
-├── Dockerfile.airflow-init
-├── Dockerfile.kafka-listener
-├── Dockerfile.streamlit
-├── EDA_ML_Implementation/
-├── README.md
-├── a .env
-├── airflow/
-├── app/
-│   └── app.py
+CarInsight/
+├── .github/
 ├── archive/
-├── dags/
-│   └── data_pipeline_dag.py
-├── data_crawled/
-├── data_crawled_root/
-├── data_json/
-├── docker-compose.yml
-├── hadoop.env
-├── imageForProject/
-├── json_output/
-├── requirements-airflow.txt
-├── requirements-base.txt
-├── requirements-data.txt
-├── requirements-scraping.txt
-├── requirements-spark.txt
-├── requirements-streaming.txt
-├── requirements-streamlit.txt
-├── requirements.txt
-├── scripts/
-│   ├── crawl.py
+│   ├── hdfs_fallback/                     
+├── config/                           
+│   └── hadoop.env             
+├── docker/                  
+│   ├── airflow/                
+│   ├── streamlit/            
+│   ├── kafka/
+│   ├── Dockerfile                   
+│   └── docker-compose.yml      
+├── scripts/                        
+│   ├── dag/
+│   │   ├── data_pipeline.py              
+│   ├── crawl.py          
+│   ├── ETL.py
+│   ├── kafka_listeners.py
 │   ├── convertTextToJson.py
 │   ├── LoadDataIntoDataLake.py
-│   ├── ETL.py
-│   ├── ETL_transfer.py
-│   ├── kafka_listeners.py
-|   └── sendMail
-└── setup.py
+│   ├── SendMail.py                                 
+│   └── app/                   
+│       └── streamlit/        
+├── notebooks/              
+├── data/                      
+│   ├── data_crawled_root/                   
+│   ├── data_crawled/             
+│   └── data_json/                                 
+├── docs/                       
+│   └── images/                
+├── requirements/            
+│   ├── base.txt               
+│   ├── dev.txt                
+│   ├── airflow.txt           
+│   └── streamlit.txt           
+├── .gitignore                
+└── README.md                 
 ```
 ## Diagram:
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
