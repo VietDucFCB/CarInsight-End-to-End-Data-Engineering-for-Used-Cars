@@ -1,3 +1,3 @@
-app/.streamlit/secrets.toml
-airflow/logs/
+scripts/app/.streamlit/secrets.toml
+docker/airflow/dags/logs/
 logs/
