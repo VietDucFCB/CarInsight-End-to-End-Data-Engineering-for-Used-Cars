@@ -4,7 +4,7 @@ x-airflow-common:
   &airflow-common
   build:
     context: .
-    dockerfile: Dockerfile.airflow
+    dockerfile: airflow/Dockerfile.airflow
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: LocalExecutor
@@ -19,10 +19,10 @@ x-airflow-common:
     # SMTP Configuration for Email Delivery
     SMTP_HOST: smtp-mail.outlook.com
     SMTP_PORT: 587
-    SMTP_USER: 22280012@student.hcmus.edu.vn # account
-    SMTP_PASSWORD: Kkagiuma2004@ # password
+    SMTP_USER: ******** # account
+    SMTP_PASSWORD: ******** # password
     SMTP_USE_TLS: 'False'
-    FROM_EMAIL: 22280012@student.hcmus.edu.vn # account
+    FROM_EMAIL: ******** # account
     EMAIL_DELIVERY_METHOD: smtp
     # Current date and user information
     CURRENT_DATE_UTC: "2025-03-17 08:55:00"
