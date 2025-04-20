@@ -1,0 +1,18 @@
+Title: Toyota RAV4 2024
+Cash Price: $26000
+Finance Price: $450/mo
+Finance Details: 60 months at 3.9% APR
+Exterior: Silver
+Interior: Black
+Mileage: 22000 miles
+Fuel Type: Gasoline
+MPG: 28 city / 35 highway
+Transmission: Automatic
+Drivetrain: AWD
+Engine: 2.5L 4-cylinder
+Location: San Francisco, CA
+Listed Since: 3 days ago
+VIN: JT3HP10V84W123456
+Stock Number: ST10004
+Features: Backup Camera; Bluetooth; Cruise Control; Lane Departure Warning; Android Auto
+Crawl Time: 2025-03-31 12:56:25

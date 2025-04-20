@@ -16,8 +16,8 @@ import json
 CONFIG = {
     'url_template': 'https://www.truecar.com/used-cars-for-sale/listings/?page={}',
     'output_dir': os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data_crawled')),
-    'max_pages': 1,
-    'max_hrefs_per_page': 5,  # Increased to 5 as requested
+    'max_pages': 5,
+    'max_hrefs_per_page': 30,  # Increased to 5 as requested
     'retry_attempts': 3,
     'retry_delay': 5,
     'scroll_delay': (1, 3),

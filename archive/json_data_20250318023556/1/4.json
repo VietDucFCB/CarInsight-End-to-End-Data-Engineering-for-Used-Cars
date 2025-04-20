@@ -1,0 +1,36 @@
+{
+  "title": "Toyota RAV4 2023",
+  "price_info": {
+    "cash_price": "$24500",
+    "finance_price": "$425/mo",
+    "finance_details": "60 months at 3.9% APR"
+  },
+  "overview": {
+    "Exterior": "Silver",
+    "Interior": "Black",
+    "Mileage": "24000 miles",
+    "Fuel Type": "Gasoline",
+    "MPG": "28 city / 35 highway",
+    "Transmission": "Automatic",
+    "Drivetrain": "AWD",
+    "Engine": "2.5L 4-cylinder",
+    "Location": "San Francisco, CA",
+    "Listed Since": "3 days ago",
+    "VIN": "JT3HP10V83W123456",
+    "Stock Number": "ST10003"
+  },
+  "features": [
+    "Backup Camera",
+    "Bluetooth",
+    "Cruise Control",
+    "Lane Departure Warning",
+    "Android Auto"
+  ],
+  "crawl_time": "2025-03-18 02:35:51",
+  "conversion_time": "2025-03-18 02:35:52",
+  "metadata": {
+    "crawl_time": "2025-03-18 02:35:51",
+    "page": 1,
+    "index": 4
+  }
+}
